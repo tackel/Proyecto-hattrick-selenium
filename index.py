@@ -1,14 +1,20 @@
+from distutils.command.config import config
 from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 
 from time import sleep
+from decouple import config
+
+
 
 
 # variables
-user = 'chiruza'
-password = ''
+user = config('USER')
+password = config('PASSWORD')
+
+
 edad_minima = '22'
 edad_maxima = '18'
 habilidad_1 = 'Jugadas'
