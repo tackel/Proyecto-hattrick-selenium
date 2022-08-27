@@ -3,11 +3,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 
 from time import sleep
 from decouple import config
-
-
 
 
 # variables
@@ -22,63 +22,109 @@ hab_1_min = '7'
 hab_1_max = '11'
 
 website = 'https://www.hattrick.org/es/'
-chromeDriver = './chromedriver.exe'
+chromeDriver = 'C:/Users\Lucyfer\Documents\Fernando\selenium/chromedriver.exe'
+#option = webdriver.ChromeOptions()
+#option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+options = Options()
+options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+options.add_experimental_option("prefs", {
+  "download.default_directory": r"C:\Users\Lucyfer\Documents\Fernando\selenium\Proyecto hattrick selenium\files",
+  "download.prompt_for_download": False,
+  "download.directory_upgrade": True,
+  "safebrowsing.enabled": True
+})
 
-s = Service(chromeDriver)
-driver = webdriver.Chrome(service=s)
-driver.get(website)
-# driver.maximize_window()
-sleep(5)
+class Hattrick_proyect():
+    def setup(self):
+        s = Service(chromeDriver)
+        self.driver = webdriver.Chrome(service=s, options=options)
+        
+    
 
 
 # Login
-user_texfield = driver.find_element(
-    By.ID, 'ctl00_CPContent_ucLogin_txtUserName')
-password_texfield = driver.find_element(
-    By.ID, 'ctl00_CPContent_ucLogin_txtPassword')
-login_buton = driver.find_element(
-    By.ID, 'ctl00_CPContent_ucLogin_butLogin')
-
-user_texfield.send_keys(user)
-sleep(2)
-password_texfield.send_keys(password)
-sleep(2)
-login_buton.click()
-sleep(10)
+    def login(self):
+        self.driver.get(website)
+        #self.driver.maximize_window()
+        sleep(5)
+        user_texfield = self.driver.find_element(
+            By.ID, 'ctl00_CPContent_ucLogin_txtUserName')
+        password_texfield = self.driver.find_element(
+            By.ID, 'ctl00_CPContent_ucLogin_txtPassword')
+        #login_buton = driver.find_element(
+        #    By.ID, 'ctl00_CPContent_ucLogin_butLogin')
+        user_texfield.send_keys(user)
+        #sleep(2)
+        password_texfield.send_keys(password)
+        #sleep(2)
+        password_texfield.send_keys(Keys.ENTER)
+        #login_buton.click()
+        
 
 # ir a transfer
-transfer_buton = driver.find_element(
-    By.XPATH, '//*[@id="shortcutsNoSupporter"]/div/a[4]')
-transfer_buton.click()
-sleep(5)
+    def tranfer(self):
+        sleep(10)
+        transfer_buton = self.driver.find_element(
+            By.XPATH, '//*[@id="shortcutsNoSupporter"]/div/a[4]')
+        transfer_buton.click()
+        sleep(5)
 
-# Seleccionar dropdowns
-dropdown_edad_min = Select(driver.find_element(
-    By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlAgeMin'))
-dropdown_edad_min.select_by_visible_text(edad_minima)
-sleep(2)
+        # Seleccionar dropdowns
+        dropdown_edad_min = Select(self.driver.find_element(
+            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlAgeMin'))
+        dropdown_edad_min.select_by_visible_text(edad_minima)
+        #sleep(2)
 
-drop_habilidad_1 = Select(driver.find_element(
-    By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1'))
-drop_habilidad_1.select_by_visible_text(habilidad_1)
-sleep(2)
-drop_hab_min_1 = Select(driver.find_element(
-    By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Min'))
-drop_hab_min_1.select_by_value(hab_1_min)
-sleep(3)
-drop_hab_max_1 = Select(driver.find_element(
-    By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Max'))
-drop_hab_max_1.select_by_value(hab_1_max)
-sleep(2)
+        drop_habilidad_1 = Select(self.driver.find_element(
+            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1'))
+        drop_habilidad_1.select_by_visible_text(habilidad_1)
+        #sleep(2)
+        drop_hab_min_1 = Select(self.driver.find_element(
+            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Min'))
+        drop_hab_min_1.select_by_value(hab_1_min)
+        #sleep(3)
+        drop_hab_max_1 = Select(self.driver.find_element(
+            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Max'))
+        drop_hab_max_1.select_by_value(hab_1_max)
+        sleep(2)
 
-# borrar especialidad
-borrar_buton = driver.find_element(
-    By.XPATH, '//*[@id="mainBody"]/table/tbody/tr[7]/td[2]/a[2]')
-borrar_buton.click()
-sleep(3)
+        # borrar especialidad
+        borrar_buton = self.driver.find_element(
+            By.XPATH, '//*[@id="mainBody"]/table/tbody/tr[7]/td[2]/a[2]')
+        borrar_buton.click()
+        sleep(3)
 
-# boton buscar
-buscar_buton = driver.find_element(
-    By.ID, 'ctl00_ctl00_CPContent_CPMain_butSearch')
-buscar_buton.click()
-sleep(4)
+        # boton buscar
+        buscar_buton = self.driver.find_element(
+            By.ID, 'ctl00_ctl00_CPContent_CPMain_butSearch')
+        buscar_buton.click()
+        sleep(6)
+    
+    
+    def dowload_file(self):
+        table_buton = self.driver.find_element(By.XPATH, '//*[@id="mainBody"]/a')
+        table_buton.click()
+        sleep(4)
+        #self.driver.switch_to.frame(self.driver.find_element(By.XPATH, '//*[@id="playersTable"]'))
+        dowload_buton = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tfoot/tr/td/a')
+        dowload_buton.click()
+        sleep(3)
+        
+        cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
+        sleep(4)
+
+    def paginar(self):
+        for i in range(1, 4):
+            boton = self.driver.find_element(By.ID, f'ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl0{i}_p{i}')
+            boton.click()
+            sleep(6)
+            hattrick.dowload_file()
+
+
+if __name__ == '__main__':
+    hattrick = Hattrick_proyect()
+    hattrick.setup()
+    hattrick.login()
+    hattrick.tranfer()
+    hattrick.dowload_file()
+    hattrick.paginar()
