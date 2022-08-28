@@ -1,4 +1,6 @@
-from distutils.command.config import config
+#from distutils.command.config import config
+from os import link
+from tkinter.tix import ListNoteBook
 from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -8,12 +10,13 @@ from selenium.webdriver.chrome.options import Options
 
 from time import sleep
 from decouple import config
+from pathlib import Path
+import pandas as pd
 
 
 # variables
 user = config('USER')
 password = config('PASSWORD')
-
 
 edad_minima = '22'
 edad_maxima = '18'
@@ -21,23 +24,31 @@ habilidad_1 = 'Jugadas'
 hab_1_min = '7'
 hab_1_max = '11'
 
+link_list = []
+path = Path(__file__).parent
+path_descargas = path.joinpath('files')
+print(path)
+
 website = 'https://www.hattrick.org/es/'
-chromeDriver = 'C:/Users\Lucyfer\Documents\Fernando\selenium/chromedriver.exe'
+chromeDriver = 'C:/Users\Jamoncito del medio\Documents\programacion\selenium\Proyecto-hattrick-selenium\chromedriver.exe'
 #option = webdriver.ChromeOptions()
 #option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+
+# con brave descomentar esto y poner option=options en el driver
+'''
 options = Options()
 options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 options.add_experimental_option("prefs", {
-  "download.default_directory": r"C:\Users\Lucyfer\Documents\Fernando\selenium\Proyecto hattrick selenium\files",
+  "download.default_directory": path_descargas,
   "download.prompt_for_download": False,
   "download.directory_upgrade": True,
   "safebrowsing.enabled": True
 })
-
+'''
 class Hattrick_proyect():
     def setup(self):
         s = Service(chromeDriver)
-        self.driver = webdriver.Chrome(service=s, options=options)
+        self.driver = webdriver.Chrome(service=s)
         
     
 
@@ -105,10 +116,13 @@ class Hattrick_proyect():
         table_buton = self.driver.find_element(By.XPATH, '//*[@id="mainBody"]/a')
         table_buton.click()
         sleep(4)
-        #self.driver.switch_to.frame(self.driver.find_element(By.XPATH, '//*[@id="playersTable"]'))
+        
         dowload_buton = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tfoot/tr/td/a')
         dowload_buton.click()
         sleep(3)
+
+        link = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tbody/tr[1]/td[2]/a').text
+        link_list.append(str(link))
         
         cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
         sleep(4)
@@ -119,7 +133,11 @@ class Hattrick_proyect():
             boton.click()
             sleep(6)
             hattrick.dowload_file()
-
+    
+    def create_df(self):
+        df = pd.DataFrame()
+        df['links'] = link_list
+        
 
 if __name__ == '__main__':
     hattrick = Hattrick_proyect()
@@ -128,3 +146,4 @@ if __name__ == '__main__':
     hattrick.tranfer()
     hattrick.dowload_file()
     hattrick.paginar()
+    hattrick.create_df()
