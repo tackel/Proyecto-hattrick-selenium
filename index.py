@@ -8,6 +8,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
+from datetime import datetime
 from time import sleep
 from decouple import config
 from pathlib import Path
@@ -27,28 +28,29 @@ hab_1_max = '11'
 link_list = []
 path = Path(__file__).parent
 path_descargas = path.joinpath('files')
+path_gurdar_link = path.joinpath('links')
 print(path)
 
 website = 'https://www.hattrick.org/es/'
-chromeDriver = 'C:/Users\Jamoncito del medio\Documents\programacion\selenium\Proyecto-hattrick-selenium\chromedriver.exe'
+chromeDriver = f'{path}\chromedriver.exe'
 #option = webdriver.ChromeOptions()
 #option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 
 # con brave descomentar esto y poner option=options en el driver
-'''
+
 options = Options()
 options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 options.add_experimental_option("prefs", {
-  "download.default_directory": path_descargas,
+  "download.default_directory": str(path_descargas),
   "download.prompt_for_download": False,
   "download.directory_upgrade": True,
   "safebrowsing.enabled": True
 })
-'''
+
 class Hattrick_proyect():
     def setup(self):
         s = Service(chromeDriver)
-        self.driver = webdriver.Chrome(service=s)
+        self.driver = webdriver.Chrome(service=s, options=options)
         
     
 
@@ -121,8 +123,10 @@ class Hattrick_proyect():
         dowload_buton.click()
         sleep(3)
 
-        link = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tbody/tr[1]/td[2]/a').text
-        link_list.append(str(link))
+        link = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tbody/tr[1]/td[2]/a[@href]')
+        link_list.append(link.get_attribute('href'))
+
+        
         
         cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
         sleep(4)
@@ -135,8 +139,13 @@ class Hattrick_proyect():
             hattrick.dowload_file()
     
     def create_df(self):
+        print(link_list)
         df = pd.DataFrame()
         df['links'] = link_list
+        ahora = datetime.now()
+        df.to_csv(f"{path_gurdar_link}\link.csv")
+        sleep(1)
+        
         
 
 if __name__ == '__main__':
