@@ -1,6 +1,6 @@
 #from distutils.command.config import config
-from os import link
-from tkinter.tix import ListNoteBook
+#from os import link
+
 from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -13,12 +13,13 @@ from time import sleep
 from decouple import config
 from pathlib import Path
 import pandas as pd
+from proceso_datos import create_links_mas_ides, data_mas_links
 
 
-# variables
 user = config('USER')
 password = config('PASSWORD')
 
+# variables para el buscador
 edad_minima = '22'
 edad_maxima = '18'
 habilidad_1 = 'Jugadas'
@@ -27,8 +28,8 @@ hab_1_max = '11'
 
 link_list = []
 path = Path(__file__).parent
-path_descargas = path.joinpath('files')
-path_gurdar_link = path.joinpath('links')
+path_descargas = path.joinpath('dowload_files')
+path_gurdar_link = path.joinpath('links_transitorios')
 print(path)
 
 website = 'https://www.hattrick.org/es/'
@@ -38,23 +39,21 @@ chromeDriver = f'{path}\chromedriver.exe'
 
 # con brave descomentar esto y poner option=options en el driver
 
-options = Options()
-options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
-options.add_experimental_option("prefs", {
-  "download.default_directory": str(path_descargas),
-  "download.prompt_for_download": False,
-  "download.directory_upgrade": True,
-  "safebrowsing.enabled": True
-})
+
 
 class Hattrick_proyect():
     def setup(self):
+        options = Options()
+        options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+        options.add_experimental_option("prefs", {
+        "download.default_directory": str(path_descargas),
+        "download.prompt_for_download": False,
+        "download.directory_upgrade": True,
+        "safebrowsing.enabled": True
+        })
         s = Service(chromeDriver)
         self.driver = webdriver.Chrome(service=s, options=options)
-        
     
-
-
 # Login
     def login(self):
         self.driver.get(website)
@@ -133,16 +132,18 @@ class Hattrick_proyect():
 
     def paginar(self):
         for i in range(1, 4):
-            boton = self.driver.find_element(By.ID, f'ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl0{i}_p{i}')
-            boton.click()
-            sleep(6)
-            hattrick.dowload_file()
+            try:
+                boton = self.driver.find_element(By.ID, f'ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl0{i}_p{i}')
+                boton.click()
+                sleep(6)
+                hattrick.dowload_file()
+            except:
+                pass
     
     def create_df(self):
-        print(link_list)
         df = pd.DataFrame()
         df['links'] = link_list
-        ahora = datetime.now()
+        #ahora = datetime.now()
         df.to_csv(f"{path_gurdar_link}\link.csv")
         sleep(1)
         
@@ -156,3 +157,5 @@ if __name__ == '__main__':
     hattrick.dowload_file()
     hattrick.paginar()
     hattrick.create_df()
+    create_links_mas_ides()
+    data_mas_links()
