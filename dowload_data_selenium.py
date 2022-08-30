@@ -125,12 +125,12 @@ class Hattrick_proyect():
             logger.error(f'Fallo al ingresar parametros de tranferencia: {e}')
         
 
-    def borrar_archivos_antiguos(self):
+    def borrar_archivos_antiguos(self, path):
         """ borra los archivos .csv antiguos antes de descargas los nuevos """
-        for folder, subfolder, files in os.walk(path_descargas):
+        for folder, subfolder, files in os.walk(path):
             for file in files:
                 if file.endswith('csv'):
-                    os.remove(f'{path_descargas}/{file}')
+                    os.remove(f'{path}/{file}')
         logger.info('Archivos .csv atiguos borrados.')
 
 
