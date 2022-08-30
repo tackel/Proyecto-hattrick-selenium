@@ -1,161 +1,31 @@
-#from distutils.command.config import config
-#from os import link
-
-from selenium.webdriver.chrome.service import Service
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.chrome.options import Options
-
-from datetime import datetime
-from time import sleep
-from decouple import config
-from pathlib import Path
-import pandas as pd
+from dowload_data_selenium import Hattrick_proyect
 from proceso_datos import create_links_mas_ides, data_mas_links
+import logging
+from datetime import datetime
+
+# configuracion del logging
+# Formato del log: %Y-%m-%d - nombre_logger - mensaje
+logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s',
+                    level=logging.DEBUG,
+                    datefmt='%Y-%m-%d')
+## Por si necesitamos que los logs tengan el nombre del archivo donde se encuentra
+logger = logging.getLogger(__name__)
 
 
-user = config('USER')
-password = config('PASSWORD')
-
-# variables para el buscador
-edad_minima = '22'
-edad_maxima = '18'
-habilidad_1 = 'Jugadas'
-hab_1_min = '7'
-hab_1_max = '11'
-
-link_list = []
-path = Path(__file__).parent
-path_descargas = path.joinpath('dowload_files')
-path_gurdar_link = path.joinpath('links_transitorios')
-print(path)
-
-website = 'https://www.hattrick.org/es/'
-chromeDriver = f'{path}\chromedriver.exe'
-#option = webdriver.ChromeOptions()
-#option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
-
-# con brave descomentar esto y poner option=options en el driver
-
-
-
-class Hattrick_proyect():
-    def setup(self):
-        options = Options()
-        options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
-        options.add_experimental_option("prefs", {
-        "download.default_directory": str(path_descargas),
-        "download.prompt_for_download": False,
-        "download.directory_upgrade": True,
-        "safebrowsing.enabled": True
-        })
-        s = Service(chromeDriver)
-        self.driver = webdriver.Chrome(service=s, options=options)
-    
-# Login
-    def login(self):
-        self.driver.get(website)
-        #self.driver.maximize_window()
-        sleep(5)
-        user_texfield = self.driver.find_element(
-            By.ID, 'ctl00_CPContent_ucLogin_txtUserName')
-        password_texfield = self.driver.find_element(
-            By.ID, 'ctl00_CPContent_ucLogin_txtPassword')
-        #login_buton = driver.find_element(
-        #    By.ID, 'ctl00_CPContent_ucLogin_butLogin')
-        user_texfield.send_keys(user)
-        #sleep(2)
-        password_texfield.send_keys(password)
-        #sleep(2)
-        password_texfield.send_keys(Keys.ENTER)
-        #login_buton.click()
-        
-
-# ir a transfer
-    def tranfer(self):
-        sleep(10)
-        transfer_buton = self.driver.find_element(
-            By.XPATH, '//*[@id="shortcutsNoSupporter"]/div/a[4]')
-        transfer_buton.click()
-        sleep(5)
-
-        # Seleccionar dropdowns
-        dropdown_edad_min = Select(self.driver.find_element(
-            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlAgeMin'))
-        dropdown_edad_min.select_by_visible_text(edad_minima)
-        #sleep(2)
-
-        drop_habilidad_1 = Select(self.driver.find_element(
-            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1'))
-        drop_habilidad_1.select_by_visible_text(habilidad_1)
-        #sleep(2)
-        drop_hab_min_1 = Select(self.driver.find_element(
-            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Min'))
-        drop_hab_min_1.select_by_value(hab_1_min)
-        #sleep(3)
-        drop_hab_max_1 = Select(self.driver.find_element(
-            By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlSkill1Max'))
-        drop_hab_max_1.select_by_value(hab_1_max)
-        sleep(2)
-
-        # borrar especialidad
-        borrar_buton = self.driver.find_element(
-            By.XPATH, '//*[@id="mainBody"]/table/tbody/tr[7]/td[2]/a[2]')
-        borrar_buton.click()
-        sleep(3)
-
-        # boton buscar
-        buscar_buton = self.driver.find_element(
-            By.ID, 'ctl00_ctl00_CPContent_CPMain_butSearch')
-        buscar_buton.click()
-        sleep(6)
-    
-    
-    def dowload_file(self):
-        table_buton = self.driver.find_element(By.XPATH, '//*[@id="mainBody"]/a')
-        table_buton.click()
-        sleep(4)
-        
-        dowload_buton = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tfoot/tr/td/a')
-        dowload_buton.click()
-        sleep(3)
-
-        link = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tbody/tr[1]/td[2]/a[@href]')
-        link_list.append(link.get_attribute('href'))
-
-        
-        
-        cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
-        sleep(4)
-
-    def paginar(self):
-        for i in range(1, 4):
-            try:
-                boton = self.driver.find_element(By.ID, f'ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl0{i}_p{i}')
-                boton.click()
-                sleep(6)
-                hattrick.dowload_file()
-            except:
-                pass
-    
-    def create_df(self):
-        df = pd.DataFrame()
-        df['links'] = link_list
-        #ahora = datetime.now()
-        df.to_csv(f"{path_gurdar_link}\link.csv")
-        sleep(1)
-        
-        
 
 if __name__ == '__main__':
+    hora_inicio = datetime.now()
+    logger.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
     hattrick = Hattrick_proyect()
     hattrick.setup()
     hattrick.login()
     hattrick.tranfer()
+    hattrick.borrar_archivos_antiguos()
     hattrick.dowload_file()
     hattrick.paginar()
     hattrick.create_df()
     create_links_mas_ides()
     data_mas_links()
+    hora_fin = datetime.now()
+    logger.info(f'Fin de la ejecucion del programa: {hora_fin} \n')
+    logger.info(f'Tiempo total de ejecucion: {hora_fin - hora_inicio} ')
