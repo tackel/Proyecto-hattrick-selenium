@@ -11,8 +11,10 @@ from decouple import config
 from pathlib import Path
 import pandas as pd
 import os
-from proceso_datos import create_links_mas_ides, data_mas_links
-from index import logger
+import logging
+#from proceso_datos import create_links_mas_ides, data_mas_links
+
+
 
 
 user = config('USER')
@@ -27,9 +29,10 @@ hab_1_max = '15'
 
 link_list = []
 path = Path(__file__).parent
-path_descargas = path.joinpath('dowload_files')
-path_gurdar_link = path.joinpath('links_transitorios')
-print(path)
+#path_descargas = path.joinpath('dowload_files')
+#path_gurdar_link = path.joinpath('links_transitorios')
+
+logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
 
 website = 'https://www.hattrick.org/es/'
 chromeDriver = f'{path}\chromedriver.exe'
@@ -38,7 +41,7 @@ chromeDriver = f'{path}\chromedriver.exe'
 
 
 class Hattrick_proyect():
-    def setup(self):
+    def setup(self, path_descargas):
         try:
             options = Options()
             options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
@@ -50,9 +53,9 @@ class Hattrick_proyect():
             })
             s = Service(chromeDriver)
             self.driver = webdriver.Chrome(service=s, options=options)
-            logger.info('Driver Generado')
+            logging.info('Driver Generado')
         except (OSError, IOError) as e:
-            logger.error(f'Fallo al generar el driver {e}')
+            logging.error(f'Fallo al generar el driver {e}')
 # Login
     def login(self):
         """ loguea al usuario en la pagina con usuario y contraseña """
@@ -72,9 +75,9 @@ class Hattrick_proyect():
             #sleep(2)
             password_texfield.send_keys(Keys.ENTER)
             #login_buton.click()
-            logger.info(f'Usuario logueado en: {website}')
+            logging.info(f'Usuario logueado en: {website}')
         except (OSError, IOError) as e:
-            logger.error(f'Fallo al loguearse: {e}')
+            logging.error(f'Fallo al loguearse: {e}')
         
 
 # ir a transfer
@@ -119,19 +122,20 @@ class Hattrick_proyect():
             buscar_buton = self.driver.find_element(
                 By.ID, 'ctl00_ctl00_CPContent_CPMain_butSearch')
             buscar_buton.click()
-            logger.info('Busqueda de jugadores en tranferencia hecha')
+            logging.info('Busqueda de jugadores en tranferencia hecha')
             sleep(6)
         except (OSError, IOError) as e:
-            logger.error(f'Fallo al ingresar parametros de tranferencia: {e}')
+            logging.error(f'Fallo al ingresar parametros de tranferencia: {e}')
         
 
     def borrar_archivos_antiguos(self, path):
         """ borra los archivos .csv antiguos antes de descargas los nuevos """
         for folder, subfolder, files in os.walk(path):
-            for file in files:
-                if file.endswith('csv'):
-                    os.remove(f'{path}/{file}')
-        logger.info('Archivos .csv atiguos borrados.')
+            if len(files) != 0:
+                for file in files:
+                    if file.endswith('csv'):
+                        os.remove(f'{path}/{file}')
+        logging.info('Archivos .csv antiguos borrados.')
 
 
     def dowload_file(self):
@@ -149,25 +153,26 @@ class Hattrick_proyect():
             link_list.append(link.get_attribute('href'))
             
             cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
-            logger.info('Archivo csv descargado')
+            
             sleep(4)
         except (OSError, IOError) as e:
-            logger.error(f'Fallo al descargar lista de tranferencias: {e}')
+            logging.error(f'Fallo al descargar lista de tranferencias: {e}')
 
     def paginar(self):
         """ Pagina las 4 paginas de jugadores en venta que puede haber para hacer la descarga """
         try:
+            logging.info('Archivo csv en pagina 1 descargado')
             for i in range(1, 4):
                 boton = self.driver.find_element(By.ID, f'ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl0{i}_p{i}')
                 boton.click()
                 sleep(6)
                 self.dowload_file()
-                logger.info(f'Archivos csv en pagina {i} descargado')
+                logging.info(f'Archivo csv en pagina {i+1} descargado')
         except (OSError, IOError) as e:
-            logger.warning(f'La paginacin no llego a la pagina 4 de descargas. Error: {e} ')
+            logging.warning(f'La paginacin no llego a la pagina 4 de descargas. Error: {e} ')
             pass
     
-    def create_df(self):
+    def create_df(self, path_gurdar_link):
         """
         Crea el .csv que contiene los links en crudo con los numeros id de los jugadores
         para luego poder procesarlos
@@ -178,8 +183,8 @@ class Hattrick_proyect():
             df.to_csv(f"{path_gurdar_link}\link.csv")
             sleep(1)
             self.driver.close()
-            logger.info('Archivo link.csv creado ')
+            logging.info('Archivo link.csv creado ')
         except (OSError, IOError) as e:
-            logger.error(f'Error en la creacion del archivo link: {e} ')
+            logging.error(f'Error en la creacion del archivo link: {e} ')
         
         

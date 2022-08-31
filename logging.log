@@ -1,0 +1,22 @@
+2022-08-30 - INFO - Comienza la ejecucion del programa: 2022-08-30 20:55:38.731931 
+
+2022-08-30 - INFO - Driver Generado
+2022-08-30 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-08-30 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-08-30 - INFO - Archivos .csv antiguos borrados.
+2022-08-30 - INFO - Archivo csv en pagina 1 descargado
+2022-08-30 - INFO - Archivo csv en pagina 2 descargado
+2022-08-30 - INFO - Archivo csv en pagina 3 descargado
+2022-08-30 - INFO - Archivo csv en pagina 4 descargado
+2022-08-30 - INFO - Archivo link.csv creado 
+2022-08-30 - INFO - Archivos csv con los link de jugadores creado
+2022-08-30 - INFO - Archivos .csv antiguos borrados.
+2022-08-30 - INFO - Archivos lista_final creados
+2022-08-30 - INFO - Tabla en base de datos creada
+2022-08-30 - INFO - Datos del archivo lista_final-2022-08-30-20-57-56.csv guardados en la base de datos
+2022-08-30 - INFO - Datos del archivo lista_final-2022-08-30-20-57-58.csv guardados en la base de datos
+2022-08-30 - INFO - Datos del archivo lista_final-2022-08-30-20-58-00.csv guardados en la base de datos
+2022-08-30 - INFO - Datos del archivo lista_final-2022-08-30-20-58-02.csv guardados en la base de datos
+2022-08-30 - INFO - Fin de la ejecucion del programa: 2022-08-30 20:58:02.868746 
+
+2022-08-30 - INFO - Tiempo total de ejecucion: 0:02:24.136815
