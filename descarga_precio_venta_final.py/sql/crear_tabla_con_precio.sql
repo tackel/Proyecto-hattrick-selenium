@@ -1,7 +1,5 @@
-CREATE TABLE IF NOT EXISTS "players" (
+CREATE TABLE IF NOT EXISTS "players_data_end" (
     "Id" INTEGER PRIMARY KEY AUTOINCREMENT,
-    "index" INTEGER,
-    "Unnamed: 0" INTEGER,
     "Nacionalidad" TEXT,
     "Nombre" TEXT,
     "Especialidad" TEXT,
@@ -25,9 +23,7 @@ CREATE TABLE IF NOT EXISTS "players" (
     "Balón parado" INTEGER,
     "Límite" TEXT,
     "Máxima oferta" TEXT,
-    "Ofrecer" INTEGER,
-    "Unnamed: 24" REAL,
-    "link" TEXT,
-    "Precio_venta"	INTEGER,
-	"Temporada_hat_venta"	TEXT,
+    "Precio_venta" INTEGER,
+    "Temporada_hat_venta" TEXT,
+    "link" TEXT
 )
