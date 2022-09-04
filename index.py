@@ -29,7 +29,6 @@ path_sql = path.joinpath('sql')
 if __name__ == '__main__':
     hora_inicio = datetime.now()
     logging.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
-    
     hattrick = Hattrick_proyect()
     hattrick.setup(path_descargas)
     hattrick.login()
