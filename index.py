@@ -10,6 +10,14 @@ from pathlib import Path
 # Formato del log: %Y-%m-%d - nombre_logger - mensaje
 logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
 
+# variables para el buscador
+edad_minima = '27'
+edad_maxima = '41'
+# Habilidades buscadas: Jugadas, Defensa, Lateral, Portería, Anotación
+habilidad_1 = 'Anotación'
+hab_1_min = '11'
+hab_1_max = '16'
+puja_maxima = '0'
 
 
 path = Path(__file__).parent
@@ -21,11 +29,10 @@ path_sql = path.joinpath('sql')
 if __name__ == '__main__':
     hora_inicio = datetime.now()
     logging.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
-    
     hattrick = Hattrick_proyect()
     hattrick.setup(path_descargas)
     hattrick.login()
-    hattrick.tranfer()
+    hattrick.tranfer(edad_minima, edad_maxima, habilidad_1, hab_1_min, hab_1_max, puja_maxima)
     hattrick.borrar_archivos_antiguos(path_descargas)
     hattrick.dowload_file()
     hattrick.paginar()
