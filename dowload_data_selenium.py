@@ -21,11 +21,11 @@ user = config('USER')
 password = config('PASSWORD')
 
 # variables para el buscador
-edad_minima = '27'
-edad_maxima = '40'
-habilidad_1 = 'Jugadas'
-hab_1_min = '11'
-hab_1_max = '15'
+#edad_minima = '27'
+#edad_maxima = '40'
+#habilidad_1 = 'Portería'
+#hab_1_min = '11'
+#hab_1_max = '16'
 
 link_list = []
 path = Path(__file__).parent
@@ -61,7 +61,7 @@ class Hattrick_proyect():
         """ loguea al usuario en la pagina con usuario y contraseña """
         try:
             self.driver.get(website)
-            #self.driver.maximize_window()
+            self.driver.maximize_window()
             sleep(5)
             user_texfield = self.driver.find_element(
                 By.ID, 'ctl00_CPContent_ucLogin_txtUserName')
@@ -81,7 +81,7 @@ class Hattrick_proyect():
         
 
 # ir a transfer
-    def tranfer(self):
+    def tranfer(self, edad_minima, edad_maxima, habilidad_1, hab_1_min, hab_1_max, puja_maxima):
         """ 
         se dirige a la pagina de tranferencias para ingresar los parametros de busqueda, 
         para luego hacer clic en el boton de buscar 
@@ -97,6 +97,9 @@ class Hattrick_proyect():
             dropdown_edad_min = Select(self.driver.find_element(
                 By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlAgeMin'))
             dropdown_edad_min.select_by_visible_text(edad_minima)
+
+            dropdown_edad_max = Select(self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ddlAgeMax'))
+            dropdown_edad_max.select_by_visible_text(edad_maxima)
             #sleep(2)
 
             drop_habilidad_1 = Select(self.driver.find_element(
@@ -117,6 +120,11 @@ class Hattrick_proyect():
                 By.XPATH, '//*[@id="mainBody"]/table/tbody/tr[7]/td[2]/a[2]')
             borrar_buton.click()
             sleep(3)
+
+            input_puja_maxima = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_txtBidMax')
+            input_puja_maxima.clear()
+            input_puja_maxima.send_keys(puja_maxima)
+           
 
             # boton buscar
             buscar_buton = self.driver.find_element(
@@ -143,7 +151,7 @@ class Hattrick_proyect():
         try:
             table_buton = self.driver.find_element(By.XPATH, '//*[@id="mainBody"]/a')
             table_buton.click()
-            sleep(4)
+            sleep(6)
             
             dowload_buton = self.driver.find_element(By.XPATH, '//*[@id="playersTable"]/div[2]/table/tfoot/tr/td/a')
             dowload_buton.click()
@@ -182,7 +190,7 @@ class Hattrick_proyect():
             df['links'] = link_list
             df.to_csv(f"{path_gurdar_link}\link.csv")
             sleep(1)
-            self.driver.close()
+            #self.driver.close()
             logging.info('Archivo link.csv creado ')
         except (OSError, IOError) as e:
             logging.error(f'Error en la creacion del archivo link: {e} ')
