@@ -28,6 +28,6 @@ CREATE TABLE IF NOT EXISTS "players" (
     "Ofrecer" INTEGER,
     "Unnamed: 24" REAL,
     "link" TEXT,
-    "Precio_venta"	INTEGER,
-	"Temporada_hat_venta"	TEXT,
+    "Precio_venta" INTEGER,
+	"Fecha_hat_venta"	TEXT
 )

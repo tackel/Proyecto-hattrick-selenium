@@ -1,2 +1,904 @@
-2022-09-04 - ERROR - Error en la creacion de la tabla para la base de datos: [Errno 2] No such file or directory: 'c:\\Users\\Jamoncito del medio\\Documents\\programacion\\selenium\\Proyecto-hattrick-selenium\\descarga_precio_venta_final.py\\sql/players_data_end.sql'
-2022-09-04 - ERROR - Error en la creacion de la tabla para la base de datos: [Errno 2] No such file or directory: 'c:\\Users\\Jamoncito del medio\\Documents\\programacion\\selenium\\Proyecto-hattrick-selenium\\descarga_precio_venta_final.py\\sql/players_data_end.sql'
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - INFO - El precio del jugador Mariusz Halfar fue actualizado
+2022-09-08 - INFO - El precio del jugador Bohuš Kušnir fue actualizado
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='ctl00_ctl00_CPContent_CPMain_updPlayerTabs']/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: invalid literal for int() with base 10: '2209001Pesos(R)' 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: invalid literal for int() with base 10: '20000Pesos(R)' 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: Message: invalid selector: The result of the xpath expression "//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005B6BB4+814004]
+	Ordinal0 [0x005B6A72+813682]
+	Ordinal0 [0x005B6D00+814336]
+	Ordinal0 [0x005E21B5+991669]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: invalid literal for int() with base 10: '2209001Pesos(R)' 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: invalid literal for int() with base 10: '20000Pesos(R)' 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Finn Furtner nunca fue vendido o hay otro error: 'WebElement' object has no attribute 'replace' 
+2022-09-08 - ERROR - El jugador J\u0119drzej Szturo nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - INFO - El precio del jugador Finn Furtner fue actualizado
+2022-09-08 - INFO - El precio del jugador J\u0119drzej Szturo fue actualizado
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - INFO - El precio del jugador Mariusz Halfar fue actualizado
+2022-09-08 - INFO - El precio del jugador Bohuš Kušnir fue actualizado
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Victor Le Pors nunca fue vendido o hay otro error: database is locked 
+2022-09-08 - ERROR - El jugador Dany Cruchten nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador Pantaleo Liva nunca fue vendido o hay otro error: database is locked 
+2022-09-08 - ERROR - El jugador Maciej Mici\u0144ski nunca fue vendido o hay otro error: database is locked 
+2022-09-08 - ERROR - El jugador Henny Baßler nunca fue vendido o hay otro error: database is locked 
+2022-09-08 - INFO - El precio del jugador Ratmar Ficht fue actualizado
+2022-09-08 - ERROR - El jugador Nils Hollerung nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador Alberto Clus nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador Horst Jol nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador Elson Jurrjens nunca fue vendido o hay otro error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B4070+802928]
+	Ordinal0 [0x005A9AB2+760498]
+	Ordinal0 [0x0059CEAF+708271]
+	Ordinal0 [0x005A1142+725314]
+	Ordinal0 [0x005A55C9+742857]
+	Ordinal0 [0x005B5500+808192]
+	Ordinal0 [0x0060D2C2+1168066]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - INFO - El precio del jugador Finn Furtner fue actualizado
+2022-09-08 - INFO - El precio del jugador J\u0119drzej Szturo fue actualizado
+2022-09-08 - INFO - El precio del jugador Victor Le Pors fue actualizado
+2022-09-08 - ERROR - El jugador Dany Cruchten nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - El precio del jugador Pantaleo Liva fue actualizado
+2022-09-08 - INFO - El precio del jugador Maciej Mici\u0144ski fue actualizado
+2022-09-08 - INFO - El precio del jugador Henny Baßler fue actualizado
+2022-09-08 - INFO - El precio del jugador Nils Hollerung fue actualizado
+2022-09-08 - INFO - El precio del jugador Alberto Clus fue actualizado
+2022-09-08 - ERROR - El jugador Horst Jol nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - Error al obtener el precio de venta y la semana 'NoSuchElementException' object has no attribute 'message' 
+2022-09-08 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-08 - ERROR - El jugador Dany Cruchten nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - ERROR - El jugador Horst Jol nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x007078B3+2193587]
+	Ordinal0 [0x006A0681+1771137]
+	Ordinal0 [0x005B41A8+803240]
+	Ordinal0 [0x005E24A0+992416]
+	Ordinal0 [0x005E273B+993083]
+	Ordinal0 [0x0060F7C2+1177538]
+	Ordinal0 [0x005FD7F4+1103860]
+	Ordinal0 [0x0060DAE2+1170146]
+	Ordinal0 [0x005FD5C6+1103302]
+	Ordinal0 [0x005D77E0+948192]
+	Ordinal0 [0x005D86E6+952038]
+	GetHandleVerifier [0x009B0CB2+2738370]
+	GetHandleVerifier [0x009A21B8+2678216]
+	GetHandleVerifier [0x007917AA+512954]
+	GetHandleVerifier [0x00790856+509030]
+	Ordinal0 [0x006A743B+1799227]
+	Ordinal0 [0x006ABB68+1817448]
+	Ordinal0 [0x006ABC55+1817685]
+	Ordinal0 [0x006B5230+1856048]
+	BaseThreadInitThunk [0x7644FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77957A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77957A6E+238]
+ 
+2022-09-08 - INFO - El precio del jugador Elson Jurrjens fue actualizado
+2022-09-08 - INFO - El precio del jugador Andreas Trohorsch fue actualizado
+2022-09-08 - INFO - El precio del jugador Johannes Fagerer fue actualizado
+2022-09-08 - INFO - El precio del jugador Octaaf Walckiers fue actualizado
+2022-09-08 - INFO - El precio del jugador Robert Ådahl fue actualizado
+2022-09-08 - INFO - El precio del jugador Octaaf Walckiers fue actualizado
+2022-09-08 - INFO - El precio del jugador Azim Gücüm fue actualizado
+2022-09-08 - INFO - El precio del jugador Hendrik Hunte fue actualizado

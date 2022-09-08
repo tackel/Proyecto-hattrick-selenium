@@ -14,7 +14,7 @@ logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s 
 edad_minima = '27'
 edad_maxima = '41'
 # Habilidades buscadas: Jugadas, Defensa, Lateral, Portería, Anotación
-habilidad_1 = 'Anotación'
+habilidad_1 = 'Portería'
 hab_1_min = '11'
 hab_1_max = '16'
 puja_maxima = '0'
@@ -27,6 +27,7 @@ path_datos_finales = path.joinpath('datos_finales')
 path_sql = path.joinpath('sql')
 
 if __name__ == '__main__':
+
     hora_inicio = datetime.now()
     logging.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
     hattrick = Hattrick_proyect()
@@ -39,8 +40,10 @@ if __name__ == '__main__':
     hattrick.create_df(path_guardar_link)
     create_links_mas_ides(path_guardar_link)
     hattrick.borrar_archivos_antiguos(path_datos_finales)
+    
     data_mas_links(path_descargas, path_guardar_link, path_datos_finales)
     create_table(path_sql)
+    
     load_data(path_datos_finales)
     
     hora_fin = datetime.now()

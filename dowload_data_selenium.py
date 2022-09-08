@@ -54,7 +54,7 @@ class Hattrick_proyect():
             s = Service(chromeDriver)
             self.driver = webdriver.Chrome(service=s, options=options)
             logging.info('Driver Generado')
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.error(f'Fallo al generar el driver {e}')
 # Login
     def login(self):
@@ -76,7 +76,7 @@ class Hattrick_proyect():
             password_texfield.send_keys(Keys.ENTER)
             #login_buton.click()
             logging.info(f'Usuario logueado en: {website}')
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.error(f'Fallo al loguearse: {e}')
         
 
@@ -132,7 +132,7 @@ class Hattrick_proyect():
             buscar_buton.click()
             logging.info('Busqueda de jugadores en tranferencia hecha')
             sleep(6)
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.error(f'Fallo al ingresar parametros de tranferencia: {e}')
         
 
@@ -163,7 +163,7 @@ class Hattrick_proyect():
             cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
             
             sleep(4)
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.error(f'Fallo al descargar lista de tranferencias: {e}')
 
     def paginar(self):
@@ -176,7 +176,7 @@ class Hattrick_proyect():
                 sleep(6)
                 self.dowload_file()
                 logging.info(f'Archivo csv en pagina {i+1} descargado')
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.warning(f'La paginacin no llego a la pagina 4 de descargas. Error: {e} ')
             pass
     
@@ -188,11 +188,11 @@ class Hattrick_proyect():
         try:
             df = pd.DataFrame()
             df['links'] = link_list
-            df.to_csv(f"{path_gurdar_link}\link.csv")
+            df.to_csv(f"{path_gurdar_link}\link.csv", encoding='utf-8-sig')
             sleep(1)
             #self.driver.close()
             logging.info('Archivo link.csv creado ')
-        except (OSError, IOError) as e:
+        except Exception as e:
             logging.error(f'Error en la creacion del archivo link: {e} ')
         
         

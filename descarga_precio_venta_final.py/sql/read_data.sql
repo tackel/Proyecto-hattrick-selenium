@@ -1,4 +1,4 @@
-SELECT link from players
+SELECT Nombre, link from players
 WHERE Precio_venta IS NULL
-ORDER by Límite  DESC
-LIMIT 5
+ORDER by Límite  ASC
+LIMIT 10

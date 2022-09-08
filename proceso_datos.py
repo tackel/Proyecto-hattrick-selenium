@@ -36,10 +36,10 @@ def create_links_mas_ides(path_link):
                 lista_links.append(link)  
 
             df_link_finales = pd.DataFrame({'link': lista_links})
-            df_link_finales.to_csv(f"{path_link}\link{str(numero)}.csv")
+            df_link_finales.to_csv(f"{path_link}\link{str(numero)}.csv", encoding='utf-8-sig' )
             numero +=1
         logging.info(f'Archivos csv con los link de jugadores creado')
-    except (EOFError, IOError) as e:
+    except Exception as e:
         logging.error(f'Error al crear los csv con los link de jugadores: {e}  ')
         
 
@@ -58,15 +58,15 @@ def data_mas_links(path_descargas, path_link, path_datos_finales ):
                     sleep(2)
                     today = datetime.now()
                     today = today.strftime("%Y-%m-%d-%H-%M-%S")
-            
-                    datos_totales = pd.read_csv(f'{folder}/{file}')
-                    link = pd.read_csv(f'{path_link}/link{contador}.csv')
+                   
+                    datos_totales = pd.read_csv(f'{folder}/{file}', encoding='utf-8-sig')
+                    link = pd.read_csv(f'{path_link}/link{contador}.csv', encoding='utf-8-sig')
 
                     datos_totales['link'] = link['link']
-                    datos_totales.to_csv(f'{path_datos_finales}/lista_final-{today}.csv')
+                    datos_totales.to_csv(f'{path_datos_finales}/lista_final-{today}.csv', encoding='utf-8-sig')
                     
                     contador += 1
         logging.info('Archivos lista_final creados')
-    except (EOFError, IOError) as e:
+    except Exception() as e:
         logging.error(f'Error en la creacin del csv con los datos mas los links de cada jugador: {e}')
 
