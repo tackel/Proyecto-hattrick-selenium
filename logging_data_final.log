@@ -902,3 +902,123 @@ Backtrace:
 2022-09-08 - INFO - El precio del jugador Octaaf Walckiers fue actualizado
 2022-09-08 - INFO - El precio del jugador Azim Gücüm fue actualizado
 2022-09-08 - INFO - El precio del jugador Hendrik Hunte fue actualizado
+2022-09-11 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-11 - ERROR - El jugador Dany Cruchten nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B978B3+2193587]
+	Ordinal0 [0x00B30681+1771137]
+	Ordinal0 [0x00A441A8+803240]
+	Ordinal0 [0x00A724A0+992416]
+	Ordinal0 [0x00A7273B+993083]
+	Ordinal0 [0x00A9F7C2+1177538]
+	Ordinal0 [0x00A8D7F4+1103860]
+	Ordinal0 [0x00A9DAE2+1170146]
+	Ordinal0 [0x00A8D5C6+1103302]
+	Ordinal0 [0x00A677E0+948192]
+	Ordinal0 [0x00A686E6+952038]
+	GetHandleVerifier [0x00E40CB2+2738370]
+	GetHandleVerifier [0x00E321B8+2678216]
+	GetHandleVerifier [0x00C217AA+512954]
+	GetHandleVerifier [0x00C20856+509030]
+	Ordinal0 [0x00B3743B+1799227]
+	Ordinal0 [0x00B3BB68+1817448]
+	Ordinal0 [0x00B3BC55+1817685]
+	Ordinal0 [0x00B45230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+ 
+2022-09-11 - ERROR - El jugador Horst Jol nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory"]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B978B3+2193587]
+	Ordinal0 [0x00B30681+1771137]
+	Ordinal0 [0x00A441A8+803240]
+	Ordinal0 [0x00A724A0+992416]
+	Ordinal0 [0x00A7273B+993083]
+	Ordinal0 [0x00A9F7C2+1177538]
+	Ordinal0 [0x00A8D7F4+1103860]
+	Ordinal0 [0x00A9DAE2+1170146]
+	Ordinal0 [0x00A8D5C6+1103302]
+	Ordinal0 [0x00A677E0+948192]
+	Ordinal0 [0x00A686E6+952038]
+	GetHandleVerifier [0x00E40CB2+2738370]
+	GetHandleVerifier [0x00E321B8+2678216]
+	GetHandleVerifier [0x00C217AA+512954]
+	GetHandleVerifier [0x00C20856+509030]
+	Ordinal0 [0x00B3743B+1799227]
+	Ordinal0 [0x00B3BB68+1817448]
+	Ordinal0 [0x00B3BC55+1817685]
+	Ordinal0 [0x00B45230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+ 
+2022-09-11 - INFO - El precio del jugador Dimitrakis Platis fue actualizado
+2022-09-11 - INFO - El precio del jugador Hendrik Hunte fue actualizado
+2022-09-11 - INFO - El precio del jugador Sebastian Westphalen fue actualizado
+2022-09-11 - INFO - El precio del jugador Duarte da Costa fue actualizado
+2022-09-11 - INFO - El precio del jugador Hugo Nebreda fue actualizado
+2022-09-11 - ERROR - El jugador Ionu\u0163-Daniel C\u0103leap nunca fue vendido o hay otro error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]"}
+  (Session info: chrome=105.0.5195.102)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B978B3+2193587]
+	Ordinal0 [0x00B30681+1771137]
+	Ordinal0 [0x00A441A8+803240]
+	Ordinal0 [0x00A724A0+992416]
+	Ordinal0 [0x00A7273B+993083]
+	Ordinal0 [0x00A9F7C2+1177538]
+	Ordinal0 [0x00A8D7F4+1103860]
+	Ordinal0 [0x00A9DAE2+1170146]
+	Ordinal0 [0x00A8D5C6+1103302]
+	Ordinal0 [0x00A677E0+948192]
+	Ordinal0 [0x00A686E6+952038]
+	GetHandleVerifier [0x00E40CB2+2738370]
+	GetHandleVerifier [0x00E321B8+2678216]
+	GetHandleVerifier [0x00C217AA+512954]
+	GetHandleVerifier [0x00C20856+509030]
+	Ordinal0 [0x00B3743B+1799227]
+	Ordinal0 [0x00B3BB68+1817448]
+	Ordinal0 [0x00B3BC55+1817685]
+	Ordinal0 [0x00B45230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+ 
+2022-09-11 - INFO - El precio del jugador Zygfryd Burdzel fue actualizado
+2022-09-11 - INFO - El precio del jugador Boris Klepp fue actualizado
+2022-09-11 - INFO - El precio del jugador Piercarlo Carp fue actualizado
+2022-09-11 - INFO - El precio del jugador Wojciech Kwarta fue actualizado
+2022-09-11 - INFO - El precio del jugador Ivan Schrack fue actualizado
+2022-09-11 - INFO - El precio del jugador Miroslav Kojan fue actualizado
+2022-09-11 - INFO - El precio del jugador Damjan Ivaniševi\u0107 fue actualizado
+2022-09-11 - INFO - El precio del jugador Augusto Pascolo fue actualizado
+2022-09-11 - INFO - El precio del jugador Gianmaria Bianchin fue actualizado
+2022-09-11 - INFO - El precio del jugador Fabio Ceresi fue actualizado
+2022-09-11 - INFO - El precio del jugador Adrian Czepiel fue actualizado
+2022-09-11 - INFO - El precio del jugador Ricardinho Rezende fue actualizado
+2022-09-11 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-11 - ERROR - El jugador Dany Cruchten nunca fue vendido o fue visto en los palcos, con cara de aburrimiento
+2022-09-11 - ERROR - El jugador Horst Jol nunca fue vendido o fue visto en los palcos, con cara de aburrimiento
+2022-09-11 - ERROR - El jugador Ionu\u0163-Daniel C\u0103leap nunca fue vendido o fue visto en los palcos, con cara de aburrimiento
+2022-09-11 - INFO - El precio del jugador Adi Slobozeanu fue actualizado
+2022-09-11 - INFO - El precio del jugador Winfred Tummeley fue actualizado
+2022-09-11 - INFO - El precio del jugador Erling Rønde fue actualizado
+2022-09-11 - INFO - El precio del jugador Nguy\u1ec5n H\u01b0\u01a1ng fue actualizado
+2022-09-11 - INFO - El precio del jugador Mikhail Domashev fue actualizado
+2022-09-11 - INFO - El precio del jugador Ricardinho Rezende fue actualizado
+2022-09-11 - INFO - El precio del jugador Jesús Cairada fue actualizado
+2022-09-11 - INFO - El precio del jugador Carlos Orozco fue actualizado
+2022-09-11 - INFO - El precio del jugador Steffen Kleefeld fue actualizado
+2022-09-11 - INFO - El precio del jugador Artemi Argilaga fue actualizado
+2022-09-11 - INFO - El precio del jugador Artemi Argilaga fue actualizado
+2022-09-11 - INFO - El precio del jugador Tore Rudolfsson fue actualizado
+2022-09-11 - INFO - El precio del jugador Pessi Herttuainen fue actualizado
+2022-09-11 - INFO - El precio del jugador Polat Eralp fue actualizado
+2022-09-11 - INFO - El precio del jugador Amândio Guerreiro fue actualizado
+2022-09-11 - INFO - El precio del jugador Ronny Stillman fue actualizado
+2022-09-11 - INFO - El precio del jugador Paal Natås fue actualizado

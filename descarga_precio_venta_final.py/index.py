@@ -12,7 +12,7 @@ from selenium.webdriver.common.by import By
 
 
 
-logging.basicConfig(filename='logging_data_final.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
+logging.basicConfig(filename='logging_data_final.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO)
 
 path = Path(__file__).parent
 path_sql = path.joinpath('sql')
@@ -81,7 +81,10 @@ def obtener_precio_semana():
                 print(f'El precio del jugador {link[0]} es {precio} y se actualizo ')
                 logging.info(f'El precio del jugador {link[0]} fue actualizado')
             except Exception as e:
-                logging.error(f'El jugador {link[0]} nunca fue vendido o hay otro error: {e} ')
+                precio = 0
+                miCursor.execute(f"UPDATE players SET Precio_venta = '{precio}' WHERE link = '{str(link[1])}'")
+                con.commit()
+                logging.error(f'El jugador {link[0]} nunca fue vendido o fue visto en los palcos, con cara de aburrimiento')
                 pass
     except Exception as e:
         logging.error(f'Error al obtener el precio de venta y la semana {e} ')
