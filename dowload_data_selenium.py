@@ -190,7 +190,7 @@ class Hattrick_proyect():
             df['links'] = link_list
             df.to_csv(f"{path_gurdar_link}\link.csv", encoding='utf-8-sig')
             sleep(1)
-            #self.driver.close()
+            self.driver.close()
             logging.info('Archivo link.csv creado ')
         except Exception as e:
             logging.error(f'Error en la creacion del archivo link: {e} ')

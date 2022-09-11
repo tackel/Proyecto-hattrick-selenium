@@ -14,7 +14,7 @@ logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s 
 edad_minima = '27'
 edad_maxima = '41'
 # Habilidades buscadas: Jugadas, Defensa, Lateral, Portería, Anotación
-habilidad_1 = 'Portería'
+habilidad_1 = 'Anotación'
 hab_1_min = '11'
 hab_1_max = '16'
 puja_maxima = '0'
