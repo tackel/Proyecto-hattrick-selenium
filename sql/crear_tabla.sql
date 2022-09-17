@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS "players" (
     "Portería" INTEGER,
     "Defensa" INTEGER,
     "Jugadas" INTEGER,
-    "Lateral" INTEGER,
+    "Lateral " INTEGER,
     "Pases" INTEGER,
     "Anotación" INTEGER,
     "Balón parado" INTEGER,

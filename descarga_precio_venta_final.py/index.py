@@ -3,6 +3,7 @@ import pandas as pd
 from pathlib import Path
 import logging
 from time import sleep
+from datetime import datetime
 
 
 from selenium.webdriver.chrome.service import Service
@@ -30,18 +31,7 @@ driver = webdriver.Chrome(service=s, options=options)
 
 #df = pd.read_csv(f'{path_datos_finales}/lista_final-2022-08-29-20-21-13.csv')
 #df.to_sql('players', con)
-'''
-def create_table():
-    """ Crea la tabla players_data_end mediante el archivo .sql """
-    try:
-        with open(f'{path_sql}/players_data_end.sql', 'r', encoding='utf-8') as table:
-            data = table.read()
-            miCursor.execute(data)
-            con.commit()
-            logging.info('Tabla en base de datos creada')
-    except (EOFError, IOError) as e:
-        logging.error(f'Error en la creacion de la tabla para la base de datos: {e}')
-'''
+
 def read_data():
     """ Lee los datos de la tabla players y retorna los link  """
     try:
@@ -61,30 +51,68 @@ def read_data():
 def obtener_precio_semana():
     try:
         links = read_data()
+        cont = 0
         for link in links:
+            cont += 1
             try:
+                #driver.get('https://www86.hattrick.org/es/Club/Players/Player.aspx?playerId=434653155')
                 driver.get(link[1])
                 #driver.maximize_window()
                 sleep(4)
                 transfer_folder = driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_btnViewTransferHistory').click()
-                sleep(3)
+                sleep(1)
            
                 precio = driver.find_element(By.XPATH, '//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[7]').text                                   
+                                                        
                 semana_hattrick = driver.find_element(By.XPATH, '//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[4]/span').text
+                edad_dias = driver.find_element(By.XPATH, '//*[@id="ctl00_ctl00_CPContent_CPMain_updPlayerTabs"]/div/table/tbody/tr[1]/td[6]').text
+                # try para obtener si esta lesionado por que varia el xpath
+                try:
+                    lesion = driver.find_element(By.XPATH, '//*[@id="mainBody"]/div[4]/table/tbody/tr[2]/td[2]/div').text  
+                                                                                                                                                            
+                    lesion = lesion.split(' ')
+                    lesion = int(lesion[1])
+                except:
+                    lesion = 0
+                    pass
+                try:
+                    lesion = driver.find_element(By.XPATH, '//*[@id="mainBody"]/div[4]/table/tbody/tr[3]/td[2]/div').text                                                                                                  
+                    lesion = lesion.split(' ')
+                    lesion = int(lesion[1])
+                except:
+                    lesion = 0
+                    pass
+
                 precio = precio.split('P')
                 precio = int(precio[0].replace(' ', ''))
                 semana_hattrick = semana_hattrick[1:-1]
-               
-            # Actualizar datso.
-                miCursor.execute(f"UPDATE players SET Precio_venta = '{precio}', Fecha_hat_venta = '{semana_hattrick}' WHERE link = '{str(link[1])}'")
-                con.commit()
-                print(f'El precio del jugador {link[0]} es {precio} y se actualizo ')
-                logging.info(f'El precio del jugador {link[0]} fue actualizado')
+                edad = int(edad_dias[0:2])
+                dias = edad_dias.split('(')
+                dias = int(dias[1].replace(')', ''))
+                
+
+                if (int(link[2]) == edad and (int(link[3]) == dias or int(link[3])+3 >= dias) or (int(link[2]) == edad+1 and edad <=3)):
+                # significa que el jugador se vendio en esta oportunidad
+                # Actualizar datso.
+                    miCursor.execute(f"UPDATE players SET Precio_venta = '{precio}', Fecha_hat_venta = '{semana_hattrick}', Edad = '{edad}', Días = '{dias}', Lesiones = '{lesion}' WHERE link = '{str(link[1])}'")
+                    con.commit()
+                    print(f'{cont}-Jugador {link[0]} Precio: {precio}, edad: {edad} años, {dias} dias. ACTUALIZADO')
+                    logging.info(f'{cont}- El precio de {link[0]} es {precio}, edad: {edad} años, {dias} dias. ACTUALIZADO')
+                else:
+                    precio = 0
+                    miCursor.execute(f"UPDATE players SET Precio_venta = '{precio}' WHERE link = '{str(link[1])}'")
+                    con.commit()
+                    print(f'{cont}- Jugador {link[0]} no fue vendido. Precio: 0')
+                    logging.info(f'{cont}- Jugador {link[0]} no fue vendido. Precio: 0')
+
+                    
             except Exception as e:
+                
                 precio = 0
                 miCursor.execute(f"UPDATE players SET Precio_venta = '{precio}' WHERE link = '{str(link[1])}'")
                 con.commit()
-                logging.error(f'El jugador {link[0]} nunca fue vendido o fue visto en los palcos, con cara de aburrimiento')
+                print(f'{cont}- El jugador {link[0]} nunca fue vendido o lo DESPIDIERON')
+                logging.info(f'{cont}- El jugador {link[0]} nunca fue vendido o lo DESPIDIERON')
                 pass
     except Exception as e:
         logging.error(f'Error al obtener el precio de venta y la semana {e} ')
@@ -93,4 +121,13 @@ def obtener_precio_semana():
 
 if __name__ == '__main__':
     #create_table()
+    hora_inicio = datetime.now()
+    logging.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
+    print(f'Comienza la ejecucion del programa: {hora_inicio} \n')
     obtener_precio_semana()
+    driver.close()
+    hora_fin = datetime.now()
+    print(f'Fin de la ejecucion del programa: {hora_fin} \n')
+    print(f'Tiempo total de ejecucion: {hora_fin - hora_inicio}')
+    logging.info(f'Fin de la ejecucion del programa: {hora_fin} \n')
+    logging.info(f'Tiempo total de ejecucion: {hora_fin - hora_inicio}')

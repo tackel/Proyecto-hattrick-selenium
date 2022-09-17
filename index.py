@@ -13,7 +13,8 @@ logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s 
 # variables para el buscador
 edad_minima = '27'
 edad_maxima = '41'
-# Habilidades buscadas: Jugadas, Defensa, Lateral, Portería, Anotación
+
+#habilidades_list = ['Jugadas', 'Defensa', 'Lateral', 'Portería', 'Anotación']
 habilidad_1 = 'Anotación'
 hab_1_min = '11'
 hab_1_max = '16'
@@ -27,9 +28,8 @@ path_datos_finales = path.joinpath('datos_finales')
 path_sql = path.joinpath('sql')
 
 if __name__ == '__main__':
-
     hora_inicio = datetime.now()
-    logging.info(f'Comienza la ejecucion del programa: {hora_inicio} \n')
+    logging.info(f'\n Comienza la ejecucion del programa en {habilidad_1} : {hora_inicio} ')
     hattrick = Hattrick_proyect()
     hattrick.setup(path_descargas)
     hattrick.login()
@@ -47,5 +47,5 @@ if __name__ == '__main__':
     load_data(path_datos_finales)
     
     hora_fin = datetime.now()
-    logging.info(f'Fin de la ejecucion del programa: {hora_fin} \n')
-    logging.info(f'Tiempo total de ejecucion: {hora_fin - hora_inicio}')
+    logging.info(f'Fin de la ejecucion del programa: {hora_fin} ')
+    logging.info(f'Tiempo total de ejecucion: {hora_fin - hora_inicio}\n')

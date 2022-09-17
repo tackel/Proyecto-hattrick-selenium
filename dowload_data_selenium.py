@@ -166,6 +166,7 @@ class Hattrick_proyect():
         except Exception as e:
             logging.error(f'Fallo al descargar lista de tranferencias: {e}')
 
+
     def paginar(self):
         """ Pagina las 4 paginas de jugadores en venta que puede haber para hacer la descarga """
         try:

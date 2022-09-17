@@ -58,15 +58,17 @@ def data_mas_links(path_descargas, path_link, path_datos_finales ):
                     sleep(2)
                     today = datetime.now()
                     today = today.strftime("%Y-%m-%d-%H-%M-%S")
-                   
-                    datos_totales = pd.read_csv(f'{folder}/{file}', encoding='utf-8-sig')
-                    link = pd.read_csv(f'{path_link}/link{contador}.csv', encoding='utf-8-sig')
+                    try:
+                        datos_totales = pd.read_csv(f'{folder}/{file}', sep=',', encoding='utf-8-sig')
+                        link = pd.read_csv(f'{path_link}/link{contador}.csv', sep=',', encoding='utf-8-sig')
 
-                    datos_totales['link'] = link['link']
-                    datos_totales.to_csv(f'{path_datos_finales}/lista_final-{today}.csv', encoding='utf-8-sig')
-                    
+                        datos_totales['link'] = link['link']
+                        datos_totales.to_csv(f'{path_datos_finales}/lista_final-{today}.csv',sep=',', encoding='utf-8-sig')
+                    except Exception as e:
+                        logging.error(f'Error al leer el csv descargado, algun dato erroneo {e}')
+                        pass
                     contador += 1
         logging.info('Archivos lista_final creados')
-    except Exception() as e:
+    except Exception as e:
         logging.error(f'Error en la creacin del csv con los datos mas los links de cada jugador: {e}')
 
