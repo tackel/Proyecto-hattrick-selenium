@@ -1278,3 +1278,113 @@ Backtrace:
 2022-09-21 - INFO - Fin de la ejecucion del programa: 2022-09-21 19:31:19.181472 
 2022-09-21 - INFO - Tiempo total de ejecucion: 0:06:26.855842
 
+2022-09-23 - INFO - 
+ Comienza la ejecucion del programa en Jugadas : 2022-09-23 18:44:06.609785 
+2022-09-23 - INFO - Driver Generado
+2022-09-23 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-23 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivo csv en pagina 1 descargado
+2022-09-23 - INFO - Archivo csv en pagina 2 descargado
+2022-09-23 - INFO - Archivo csv en pagina 3 descargado
+2022-09-23 - INFO - Archivo csv en pagina 4 descargado
+2022-09-23 - INFO - Archivo link.csv creado 
+2022-09-23 - INFO - Archivos csv con los link de jugadores creado
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivos lista_final creados
+2022-09-23 - INFO - Tabla en base de datos creada
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-18-49-08.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-18-49-10.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-18-49-13.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-18-49-15.csv guardados en la base de datos
+2022-09-23 - INFO - Fin de la ejecucion del programa: 2022-09-23 18:49:16.562727 
+2022-09-23 - INFO - Tiempo total de ejecucion: 0:05:09.952942
+
+2022-09-23 - INFO - 
+ Comienza la ejecucion del programa en Defensa : 2022-09-23 18:57:41.808696 
+2022-09-23 - INFO - Driver Generado
+2022-09-23 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-23 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivo csv en pagina 1 descargado
+2022-09-23 - INFO - Archivo csv en pagina 2 descargado
+2022-09-23 - INFO - Archivo csv en pagina 3 descargado
+2022-09-23 - INFO - Archivo csv en pagina 4 descargado
+2022-09-23 - INFO - Archivo link.csv creado 
+2022-09-23 - INFO - Archivos csv con los link de jugadores creado
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivos lista_final creados
+2022-09-23 - INFO - Tabla en base de datos creada
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-03-04.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-03-06.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-03-09.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-03-11.csv guardados en la base de datos
+2022-09-23 - INFO - Fin de la ejecucion del programa: 2022-09-23 19:03:12.355948 
+2022-09-23 - INFO - Tiempo total de ejecucion: 0:05:30.547252
+
+2022-09-23 - INFO - 
+ Comienza la ejecucion del programa en Lateral : 2022-09-23 19:05:41.194615 
+2022-09-23 - INFO - Driver Generado
+2022-09-23 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-23 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivo csv en pagina 1 descargado
+2022-09-23 - INFO - Archivo csv en pagina 2 descargado
+2022-09-23 - INFO - Archivo csv en pagina 3 descargado
+2022-09-23 - INFO - Archivo csv en pagina 4 descargado
+2022-09-23 - INFO - Archivo link.csv creado 
+2022-09-23 - INFO - Archivos csv con los link de jugadores creado
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivos lista_final creados
+2022-09-23 - INFO - Tabla en base de datos creada
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-09-35.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-09-37.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-09-40.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-09-42.csv guardados en la base de datos
+2022-09-23 - INFO - Fin de la ejecucion del programa: 2022-09-23 19:09:43.473961 
+2022-09-23 - INFO - Tiempo total de ejecucion: 0:04:02.279346
+
+2022-09-23 - INFO - 
+ Comienza la ejecucion del programa en Portería : 2022-09-23 19:11:06.110168 
+2022-09-23 - INFO - Driver Generado
+2022-09-23 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-23 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivo csv en pagina 1 descargado
+2022-09-23 - INFO - Archivo csv en pagina 2 descargado
+2022-09-23 - INFO - Archivo csv en pagina 3 descargado
+2022-09-23 - INFO - Archivo csv en pagina 4 descargado
+2022-09-23 - INFO - Archivo link.csv creado 
+2022-09-23 - INFO - Archivos csv con los link de jugadores creado
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivos lista_final creados
+2022-09-23 - INFO - Tabla en base de datos creada
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-17-50.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-17-52.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-17-54.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-17-56.csv guardados en la base de datos
+2022-09-23 - INFO - Fin de la ejecucion del programa: 2022-09-23 19:17:58.317063 
+2022-09-23 - INFO - Tiempo total de ejecucion: 0:06:52.206895
+
+2022-09-23 - INFO - 
+ Comienza la ejecucion del programa en Anotación : 2022-09-23 19:41:03.609838 
+2022-09-23 - INFO - Driver Generado
+2022-09-23 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-23 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivo csv en pagina 1 descargado
+2022-09-23 - INFO - Archivo csv en pagina 2 descargado
+2022-09-23 - INFO - Archivo csv en pagina 3 descargado
+2022-09-23 - INFO - Archivo csv en pagina 4 descargado
+2022-09-23 - INFO - Archivo link.csv creado 
+2022-09-23 - INFO - Archivos csv con los link de jugadores creado
+2022-09-23 - INFO - Archivos .csv antiguos borrados.
+2022-09-23 - INFO - Archivos lista_final creados
+2022-09-23 - INFO - Tabla en base de datos creada
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-45-33.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-45-35.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-45-38.csv guardados en la base de datos
+2022-09-23 - INFO - Datos del archivo lista_final-2022-09-23-19-45-40.csv guardados en la base de datos
+2022-09-23 - INFO - Fin de la ejecucion del programa: 2022-09-23 19:45:41.860714 
+2022-09-23 - INFO - Tiempo total de ejecucion: 0:04:38.250876
+
