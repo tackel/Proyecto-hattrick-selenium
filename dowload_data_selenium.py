@@ -26,7 +26,7 @@ password = config('PASSWORD')
 #habilidad_1 = 'Portería'
 #hab_1_min = '11'
 #hab_1_max = '16'
-
+global link_list
 link_list = []
 path = Path(__file__).parent
 #path_descargas = path.joinpath('dowload_files')
@@ -149,6 +149,7 @@ class Hattrick_proyect():
     def dowload_file(self):
         """ descarga los csv del cuadro de descargas y los link de los jugadores """
         try:
+            
             table_buton = self.driver.find_element(By.XPATH, '//*[@id="mainBody"]/a')
             table_buton.click()
             sleep(6)
@@ -189,10 +190,13 @@ class Hattrick_proyect():
         try:
             df = pd.DataFrame()
             df['links'] = link_list
+            link_list.clear()
             df.to_csv(f"{path_gurdar_link}\link.csv", encoding='utf-8-sig')
             sleep(1)
+            
             self.driver.close()
             logging.info('Archivo link.csv creado ')
+            
         except Exception as e:
             logging.error(f'Error en la creacion del archivo link: {e} ')
         
