@@ -1799,3 +1799,760 @@ Backtrace:
 2022-09-24 - INFO - Fin de la ejecucion del programa: 2022-09-24 15:26:34.756856 
 2022-09-24 - INFO - Tiempo total de ejecucion: 0:16:02.025639
 
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas : 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-22-55.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-22-57.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-22-59.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-23-01.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa : 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-25-28.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-25-30.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-25-32.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-25-34.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Lateral : 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-27-59.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-28-01.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-28-03.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-28-05.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Portería : 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-30-27.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-30-29.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-30-31.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-30-33.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Anotación : 2022-09-26 12:20:27.129728 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-32-49.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-32-51.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-32-53.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-12-32-55.csv guardados en la base de datos
+2022-09-26 - INFO - Fin de la ejecucion del programa: 2022-09-26 12:32:55.932551 
+2022-09-26 - INFO - Tiempo total de ejecucion: 0:12:28.802823
+
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:36:13.764456 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-26 12:36:13.764456 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:38:56.586879 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-26 12:38:56.586879 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - ERROR - Fallo al descargar lista de tranferencias: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainBody"]/a"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl01_p1"]"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-26 12:38:56.586879 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:49:42.216070 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-26 12:49:42.216070 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - ERROR - Fallo al ingresar parametros de tranferencia: Message: Cannot locate option with value: magnífico (12/20)
+
+2022-09-26 - ERROR - Fallo al descargar lista de tranferencias: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainBody"]/a"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl01_p1"]"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-26 12:49:42.216070 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - ERROR - Fallo al loguearse: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F4070+802928]
+	Ordinal0 [0x002E9AB2+760498]
+	Ordinal0 [0x002DCEAF+708271]
+	Ordinal0 [0x002E1142+725314]
+	Ordinal0 [0x002E55C9+742857]
+	Ordinal0 [0x002F5500+808192]
+	Ordinal0 [0x0034D2C2+1168066]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - ERROR - Fallo al ingresar parametros de tranferencia: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F4070+802928]
+	Ordinal0 [0x002E9AB2+760498]
+	Ordinal0 [0x002DCEAF+708271]
+	Ordinal0 [0x002E1142+725314]
+	Ordinal0 [0x002E55C9+742857]
+	Ordinal0 [0x002F5500+808192]
+	Ordinal0 [0x0034D2C2+1168066]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - ERROR - Fallo al descargar lista de tranferencias: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F4070+802928]
+	Ordinal0 [0x002E9AB2+760498]
+	Ordinal0 [0x002DCEAF+708271]
+	Ordinal0 [0x002E1142+725314]
+	Ordinal0 [0x002E55C9+742857]
+	Ordinal0 [0x002F5500+808192]
+	Ordinal0 [0x0034D2C2+1168066]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F4070+802928]
+	Ordinal0 [0x002E9AB2+760498]
+	Ordinal0 [0x002DCEAF+708271]
+	Ordinal0 [0x002E1142+725314]
+	Ordinal0 [0x002E55C9+742857]
+	Ordinal0 [0x002F5500+808192]
+	Ordinal0 [0x0034D2C2+1168066]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - ERROR - Error en la creacion del archivo link: Message: chrome not reachable
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F4070+802928]
+	Ordinal0 [0x002E9AB2+760498]
+	Ordinal0 [0x002DC440+705600]
+	Ordinal0 [0x00343BC0+1129408]
+	Ordinal0 [0x0033D773+1103731]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-09-26 12:49:42.216070 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:53:04.214956 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-26 12:53:04.214956 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - ERROR - Fallo al ingresar parametros de tranferencia: Message: Cannot locate option with value: magnífico (12/20)
+
+2022-09-26 - ERROR - Fallo al descargar lista de tranferencias: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainBody"]/a"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl01_p1"]"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-26 12:53:04.214956 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - ERROR - Fallo al ingresar parametros de tranferencia: Message: Cannot locate option with value: magnífico (12/20)
+
+2022-09-26 - ERROR - Fallo al descargar lista de tranferencias: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="mainBody"]/a"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl00_ctl00_CPContent_CPMain_ucPager_repPages_ctl01_p1"]"}
+  (Session info: chrome=105.0.5195.127)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x003224A0+992416]
+	Ordinal0 [0x0032273B+993083]
+	Ordinal0 [0x0034F7C2+1177538]
+	Ordinal0 [0x0033D7F4+1103860]
+	Ordinal0 [0x0034DAE2+1170146]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x76AAFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77357B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x77357B2E+238]
+ 
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-09-26 12:53:04.214956 
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-01-36.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-01-38.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-01-40.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-01-42.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-04-11.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-04-13.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-04-15.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-04-17.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-06-44.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-06-46.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-06-48.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-06-50.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-09-25.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-09-27.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-09-29.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-09-31.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-09-26 12:58:49.894785 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-11-56.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-11-58.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-12-00.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-12-02.csv guardados en la base de datos
+2022-09-26 - INFO - Fin de la ejecucion del programa: 2022-09-26 13:12:02.446994 
+2022-09-26 - INFO - Tiempo total de ejecucion: 0:13:12.552209
+
+2022-09-26 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-15-25.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-15-27.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-15-29.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-15-31.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-18-46.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-18-48.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-18-50.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-18-52.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-21-32.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-21-34.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-21-36.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-21-38.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-24-06.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-24-08.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-24-11.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-24-13.csv guardados en la base de datos
+2022-09-26 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-09-26 13:13:01.935177 
+2022-09-26 - INFO - Driver Generado
+2022-09-26 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Archivos .csv antiguos borrados.
+2022-09-26 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-26 - INFO - Archivo csv en pagina 1 descargado
+2022-09-26 - INFO - Archivo csv en pagina 2 descargado
+2022-09-26 - INFO - Archivo csv en pagina 3 descargado
+2022-09-26 - INFO - Archivo csv en pagina 4 descargado
+2022-09-26 - INFO - Archivo link.csv creado 
+2022-09-26 - INFO - Archivos csv con los link de jugadores creado
+2022-09-26 - INFO - Archivos lista_final creados
+2022-09-26 - INFO - Tabla en base de datos creada
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-27-39.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-27-41.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-27-43.csv guardados en la base de datos
+2022-09-26 - INFO - Datos del archivo lista_final-2022-09-26-13-27-45.csv guardados en la base de datos
+2022-09-26 - INFO - Fin de la ejecucion del programa: 2022-09-26 13:27:45.318996 
+2022-09-26 - INFO - Tiempo total de ejecucion: 0:14:43.383819
+

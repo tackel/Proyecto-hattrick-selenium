@@ -17,7 +17,7 @@ edad_maxima = '26'
 habilidades_list = ['Jugadas', 'Defensa', 'Lateral', 'Portería', 'Anotación']
 #habilidad_1 = 'Anotación'
 hab_1_min = '12'
-hab_1_max = '17'
+hab_1_max = '16'
 puja_maxima = '0'
 
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     logging.info(f'\n Comienza la ejecucion del programa en: {hora_inicio} ')
     
     for habilidad_1 in habilidades_list:
-        logging.info(f'\n - - - - Descargando: {habilidad_1} : {hora_inicio} ')
+        logging.info(f'\n - - - - Descargando: {habilidad_1} de {edad_minima} a {edad_maxima} años: {hora_inicio} ')
         hattrick = Hattrick_proyect()
         hattrick.setup(path_descargas)
         hattrick.login()
