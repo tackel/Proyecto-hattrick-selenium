@@ -35,7 +35,7 @@ if __name__ == '__main__':
     logging.info(f'\n Comienza la ejecucion del programa en: {hora_inicio} ')
     
     for habilidad_1 in habilidades_list:
-        logging.info(f'\n - - - - Descargando: {habilidad_1} de {edad_minima} a {edad_maxima} años: {hora_inicio} ')
+        logging.info(f'\n - - - - Descargando: {habilidad_1} de {edad_minima} a {edad_maxima} años: {datetime.now()} ')
         hattrick = Hattrick_proyect()
         hattrick.setup(path_descargas)
         hattrick.login()
