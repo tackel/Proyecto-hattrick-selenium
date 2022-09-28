@@ -28,14 +28,14 @@ password = config('PASSWORD')
 #hab_1_max = '16'
 global link_list
 link_list = []
-path = Path(__file__).parent
+
 #path_descargas = path.joinpath('dowload_files')
 #path_gurdar_link = path.joinpath('links_transitorios')
 
 logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
 
 website = 'https://www.hattrick.org/es/'
-chromeDriver = f'{path}\chromedriver.exe'
+chromeDriver = 'chromedriver.exe'
 #option = webdriver.ChromeOptions()
 #option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 

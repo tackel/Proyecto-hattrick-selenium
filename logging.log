@@ -2675,3 +2675,452 @@ Backtrace:
 2022-09-27 - INFO - Fin de la ejecucion del programa: 2022-09-27 21:41:40.891074 
 2022-09-27 - INFO - Tiempo total de ejecucion: 0:30:44.342290
 
+2022-09-28 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-28 18:57:45.201350 
+2022-09-28 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-28 18:57:45.201350 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-28 18:57:45.201350 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-28 19:02:08.544460 
+2022-09-28 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-28 19:02:08.544460 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-28 19:02:08.544460 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-09-28 19:02:08.544460 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-09-28 19:02:08.544460 
+2022-09-28 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-28 19:10:01.423703 
+2022-09-28 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-28 19:10:01.423703 
+2022-09-28 - ERROR - Fallo al generar el driver Message: session not created: This version of ChromeDriver only supports Chrome version 104
+Current browser version is 106.0.5249.65 with binary path C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x004478B3+2193587]
+	Ordinal0 [0x003E0681+1771137]
+	Ordinal0 [0x002F41A8+803240]
+	Ordinal0 [0x00315CC3+941251]
+	Ordinal0 [0x003113EF+922607]
+	Ordinal0 [0x0030EBC1+912321]
+	Ordinal0 [0x003423B0+1123248]
+	Ordinal0 [0x0034200A+1122314]
+	Ordinal0 [0x0033D5C6+1103302]
+	Ordinal0 [0x003177E0+948192]
+	Ordinal0 [0x003186E6+952038]
+	GetHandleVerifier [0x006F0CB2+2738370]
+	GetHandleVerifier [0x006E21B8+2678216]
+	GetHandleVerifier [0x004D17AA+512954]
+	GetHandleVerifier [0x004D0856+509030]
+	Ordinal0 [0x003E743B+1799227]
+	Ordinal0 [0x003EBB68+1817448]
+	Ordinal0 [0x003EBC55+1817685]
+	Ordinal0 [0x003F5230+1856048]
+	BaseThreadInitThunk [0x7597FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77277A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77277A6E+238]
+
+2022-09-28 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-21-24.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-21-27.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-21-29.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-21-31.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-27-33.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-27-36.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-27-38.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-27-40.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-33-23.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-33-26.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-33-28.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-33-30.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-38-44.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-38-46.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-38-48.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-38-51.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-09-28 19:15:08.906560 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-45-50.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-45-52.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-45-54.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-19-45-56.csv guardados en la base de datos
+2022-09-28 - INFO - Fin de la ejecucion del programa: 2022-09-28 19:45:58.031828 
+2022-09-28 - INFO - Tiempo total de ejecucion: 0:30:49.125268
+
+2022-09-28 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-11-32.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-11-34.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-11-37.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-11-39.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-19-47.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-19-51.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-19-53.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-19-55.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - ERROR - Error al leer el csv descargado, algun dato erroneo Error tokenizing data. C error: Expected 25 fields in line 5, saw 26
+
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-26-36.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-26-38.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-26-40.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-31-53.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-31-55.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-31-57.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-31-59.csv guardados en la base de datos
+2022-09-28 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-09-28 20:01:37.960769 
+2022-09-28 - INFO - Driver Generado
+2022-09-28 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Archivos .csv antiguos borrados.
+2022-09-28 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-28 - INFO - Archivo csv en pagina 1 descargado
+2022-09-28 - INFO - Archivo csv en pagina 2 descargado
+2022-09-28 - INFO - Archivo csv en pagina 3 descargado
+2022-09-28 - INFO - Archivo csv en pagina 4 descargado
+2022-09-28 - INFO - Archivo link.csv creado 
+2022-09-28 - INFO - Archivos csv con los link de jugadores creado
+2022-09-28 - INFO - Archivos lista_final creados
+2022-09-28 - INFO - Tabla en base de datos creada
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-36-41.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-36-43.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-36-46.csv guardados en la base de datos
+2022-09-28 - INFO - Datos del archivo lista_final-2022-09-28-20-36-48.csv guardados en la base de datos
+2022-09-28 - INFO - Fin de la ejecucion del programa: 2022-09-28 20:36:49.293143 
+2022-09-28 - INFO - Tiempo total de ejecucion: 0:35:11.332374
+

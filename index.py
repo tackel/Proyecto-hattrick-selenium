@@ -13,8 +13,8 @@ from pathlib import Path
 logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO)
 
 # variables para el buscador
-edad_minima = '21'
-edad_maxima = '26'
+edad_minima = '27'
+edad_maxima = '41'
 
 habilidades_list = ['Jugadas', 'Defensa', 'Lateral', 'Portería', 'Anotación']
 #habilidad_1 = 'Anotación'
