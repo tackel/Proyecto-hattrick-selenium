@@ -11,7 +11,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
 ruta_base = path.abspath(path.join(path.dirname(__file__), ".."))
 path_descargas = path.abspath(path.join(ruta_base, 'descarga_precio_venta_final'))
 path_sql = path.abspath(path.join(path_descargas, 'sql'))
