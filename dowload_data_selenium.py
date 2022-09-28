@@ -44,6 +44,8 @@ class Hattrick_proyect():
     def setup(self, path_descargas):
         try:
             options = Options()
+            #options.headless = True
+            #options.add_argument('--headless')
             options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
             options.add_experimental_option("prefs", {
             "download.default_directory": str(path_descargas),

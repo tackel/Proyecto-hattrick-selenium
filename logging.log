@@ -2556,3 +2556,122 @@ Backtrace:
 2022-09-26 - INFO - Fin de la ejecucion del programa: 2022-09-26 13:27:45.318996 
 2022-09-26 - INFO - Tiempo total de ejecucion: 0:14:43.383819
 
+2022-09-27 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-27 20:29:05.547379 
+2022-09-27 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-27 20:29:05.547379 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-27 21:01:16.113537 
+2022-09-27 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-27 21:01:16.113537 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-27 - INFO - Archivo csv en pagina 1 descargado
+2022-09-27 - INFO - Archivo csv en pagina 2 descargado
+2022-09-27 - INFO - Archivo csv en pagina 3 descargado
+2022-09-27 - INFO - Archivo csv en pagina 4 descargado
+2022-09-27 - INFO - Archivo link.csv creado 
+2022-09-27 - INFO - Archivos csv con los link de jugadores creado
+2022-09-27 - INFO - Archivos lista_final creados
+2022-09-27 - INFO - Tabla en base de datos creada
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-17-20.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-17-22.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-17-24.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-17-26.csv guardados en la base de datos
+2022-09-27 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-27 - INFO - Archivo csv en pagina 1 descargado
+2022-09-27 - INFO - Archivo csv en pagina 2 descargado
+2022-09-27 - INFO - Archivo csv en pagina 3 descargado
+2022-09-27 - INFO - Archivo csv en pagina 4 descargado
+2022-09-27 - INFO - Archivo link.csv creado 
+2022-09-27 - INFO - Archivos csv con los link de jugadores creado
+2022-09-27 - INFO - Archivos lista_final creados
+2022-09-27 - INFO - Tabla en base de datos creada
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-24-36.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-24-38.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-24-40.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-24-42.csv guardados en la base de datos
+2022-09-27 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-27 - INFO - Archivo csv en pagina 1 descargado
+2022-09-27 - INFO - Archivo csv en pagina 2 descargado
+2022-09-27 - INFO - Archivo csv en pagina 3 descargado
+2022-09-27 - INFO - Archivo csv en pagina 4 descargado
+2022-09-27 - INFO - Archivo link.csv creado 
+2022-09-27 - INFO - Archivos csv con los link de jugadores creado
+2022-09-27 - INFO - Archivos lista_final creados
+2022-09-27 - INFO - Tabla en base de datos creada
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-31-22.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-31-25.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-31-27.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-31-30.csv guardados en la base de datos
+2022-09-27 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-27 - INFO - Archivo csv en pagina 1 descargado
+2022-09-27 - INFO - Archivo csv en pagina 2 descargado
+2022-09-27 - INFO - Archivo csv en pagina 3 descargado
+2022-09-27 - INFO - Archivo csv en pagina 4 descargado
+2022-09-27 - INFO - Archivo link.csv creado 
+2022-09-27 - INFO - Archivos csv con los link de jugadores creado
+2022-09-27 - INFO - Archivos lista_final creados
+2022-09-27 - INFO - Tabla en base de datos creada
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-36-17.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-36-19.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-36-22.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-36-24.csv guardados en la base de datos
+2022-09-27 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-09-27 21:10:56.548784 
+2022-09-27 - INFO - Driver Generado
+2022-09-27 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Archivos .csv antiguos borrados.
+2022-09-27 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-09-27 - INFO - Archivo csv en pagina 1 descargado
+2022-09-27 - INFO - Archivo csv en pagina 2 descargado
+2022-09-27 - INFO - Archivo csv en pagina 3 descargado
+2022-09-27 - INFO - Archivo csv en pagina 4 descargado
+2022-09-27 - INFO - Archivo link.csv creado 
+2022-09-27 - INFO - Archivos csv con los link de jugadores creado
+2022-09-27 - INFO - Archivos lista_final creados
+2022-09-27 - INFO - Tabla en base de datos creada
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-41-31.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-41-34.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-41-36.csv guardados en la base de datos
+2022-09-27 - INFO - Datos del archivo lista_final-2022-09-27-21-41-38.csv guardados en la base de datos
+2022-09-27 - INFO - Fin de la ejecucion del programa: 2022-09-27 21:41:40.891074 
+2022-09-27 - INFO - Tiempo total de ejecucion: 0:30:44.342290
+
