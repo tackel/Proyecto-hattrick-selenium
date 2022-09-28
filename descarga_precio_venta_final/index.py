@@ -1,10 +1,10 @@
 import sqlite3
 import pandas as pd
-from pathlib import Path
+#from pathlib import Path
 import logging
 from time import sleep
 from datetime import datetime
-
+from os import path
 
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -12,20 +12,29 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
+ruta_base = path.abspath(path.join(path.dirname(__file__), ".."))
+path_descargas = path.abspath(path.join(ruta_base, 'descarga_precio_venta_final'))
+path_sql = path.abspath(path.join(path_descargas, 'sql'))
 
-logging.basicConfig(filename='logging_data_final.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO)
+logging.basicConfig(filename=f'{ruta_base}/logging_data_final.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO)
 
-path = Path(__file__).parent
-path_sql = path.joinpath('sql')
+#path = Path(__file__).parent
+#path_sql = path.joinpath('sql')
 
-
-con = sqlite3.connect('hattrick_db')
+con = sqlite3.connect(f'{ruta_base}/hattrick_db')
 miCursor = con.cursor()
 
-chromeDriver = f'{path}\chromedriver.exe'
+chromeDriver = f'{path_descargas}/chromedriver'
 
 options = Options()
-options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+#options.headless = True
+options.add_argument('--headless')
+
+# en windows:
+#options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+# en Linux
+options.binary_location = r'/snap/brave/177/opt/brave.com/brave/brave-browser'
+
 s = Service(chromeDriver)
 driver = webdriver.Chrome(service=s, options=options)
 

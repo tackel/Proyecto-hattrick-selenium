@@ -5340,3 +5340,539 @@
 2022-09-26 15:16:36 - INFO - Fin de la ejecucion del programa: 2022-09-26 15:16:36.248338 
 
 2022-09-26 15:16:36 - INFO - Tiempo total de ejecucion: 0:54:33.778111
+2022-09-28 00:32:47 - INFO - Comienza la ejecucion del programa: 2022-09-28 00:32:47.372897 
+
+2022-09-28 00:32:47 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-28 00:33:02 - INFO - 1- Jugador Árpád Cs. Nagy no fue vendido. Precio: 0
+2022-09-28 00:33:10 - INFO - 2- El jugador Claass Kern-Pongratz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:16 - INFO - 3- Jugador Grzegorz Srebro no fue vendido. Precio: 0
+2022-09-28 00:33:23 - INFO - 4- Jugador Szabolcs Szabovits no fue vendido. Precio: 0
+2022-09-28 00:33:29 - INFO - 5- Jugador Ali Arif Betik no fue vendido. Precio: 0
+2022-09-28 00:33:34 - INFO - 6- El jugador Costel Rogobete nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 7- El jugador Yannik Andreas Zeilhard nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 8- El jugador Kent-Erik Ingelbom nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 9- El jugador Umberto Camedda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 10- El jugador Karl Ludger Wallmoden nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 11- El jugador Alberto Las Heras Rueda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:35 - INFO - 12- El jugador Kieran Manning nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 13- El jugador Krzysztof Stoszek nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 14- El jugador Ilari Simanainen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 15- El jugador Mateja Krstanović nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 16- El jugador Quentin Breysse nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 17- El jugador Tim Barucha nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:36 - INFO - 18- El jugador Kraig McKenna nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 19- El jugador Luke Naismith nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 20- El jugador Vlad Vaştag nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 21- El jugador Ralph Nitsche nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 22- El jugador Ivan Hristov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 23- El jugador Erik Vincent Nikolay nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:37 - INFO - 24- El jugador Lilian Berthou nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 25- El jugador Matis Gehenn nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 26- El jugador Crispín Martínez de Robles nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 27- El jugador Abdulaziz Adam 'The Amazing' Al-Raisi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 28- El jugador Jermaine D'Alessandro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 29- El jugador Paweł Czerwieniec nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:38 - INFO - 30- El jugador Charles Frazier nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 31- El jugador Pál Hegyháti nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 32- El jugador Damian Falkus nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 33- El jugador Isaias Landrum nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 34- El jugador Mattias Läfvenborg nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 35- El jugador Donato Batini nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 36- El jugador Yannick Lunda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:39 - INFO - 37- El jugador Gino Woods nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 38- El jugador Luis Alfredo Montagnaro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 39- El jugador Octavian Şerban nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 40- El jugador Jyri Käräjämies nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 41- El jugador Matteo Falagiani nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 42- El jugador Juan Fürmetz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 43- El jugador Freddy Rambert nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 44- El jugador Hauke-Klaus Leis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 45- El jugador Fre Slosse nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:40 - INFO - 46- El jugador Vlad Bud nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 47- El jugador Erwin García nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 48- El jugador Levente Pelsőczi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 49- El jugador Alessandro Mecarelli nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 50- El jugador Kay Bendler nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 51- El jugador Gustaw Puchała nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 52- El jugador Éric Banon nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:41 - INFO - 53- El jugador Czesław Boniakowski nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 54- El jugador John van Aanholt nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 55- El jugador Wolf Lensen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 56- El jugador Gabriel Damgaard nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 57- El jugador Angel Spasov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 58- El jugador Feliks Brzeźnicki nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 59- El jugador Pierluigi Taranto nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:42 - INFO - 60- El jugador Zübeyir Dilmen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 61- El jugador Minko Vasilev nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 62- El jugador İzzet Külahçıoğlu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 63- El jugador Yeznig Soghomonyan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 64- El jugador Filotheos Kokas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 65- El jugador Erwin Frickenhausen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 66- El jugador Alp Eren Bezirgan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 67- El jugador Marcell Szánthó nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:43 - INFO - 68- El jugador Remon Broekman nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 69- El jugador Serafino Magliulo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 70- El jugador Vilhjálmur Hildibrandsson nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 71- El jugador Kasper Berthelsen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 72- El jugador Hassanine Rouid nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 73- El jugador Gian Luigi Pedrabissi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 74- El jugador Ali Rıza Cantürk nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:44 - INFO - 75- El jugador Frederik Ago nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 76- El jugador Sylweriusz Kielec nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 77- El jugador Marc Belhumeur nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 78- El jugador 钟 (Zhong)  康达 (Kangda)  nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 79- El jugador Sabio Buonfiglio nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 80- El jugador Edgar Fraga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 81- El jugador Mark Williams nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 82- El jugador Bogdan Drugă nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 83- El jugador Rémi Saint-Martin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 84- El jugador Randy Poppi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 85- El jugador Mario Scarperia nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:45 - INFO - 86- El jugador Joni Lehtilä nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 87- El jugador Navaratnam Naidu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 88- El jugador José Luís da Silveira nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 89- El jugador Eero Itävuori nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 90- El jugador Yassir Boutayab nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 91- El jugador Alfredo Vizmanos nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 92- El jugador Mario 'Magic Foot' Probst nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 93- El jugador Jörg Resinger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 94- El jugador Ambroży Deroń nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:46 - INFO - 95- El jugador Thomas Parrotta nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 96- El jugador Ramón Catategui nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 97- El jugador Umut Arıç nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 98- El jugador Llibert Dalbert nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 99- El jugador Efim Kornyshov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 100- El jugador Bruno Finizio nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 101- El jugador Raúl Juez nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:47 - INFO - 102- El jugador Leo Tórgarð nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 103- El jugador Nikolas Eskitzis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 104- El jugador Franz Malek nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 105- El jugador Wicher Kamphuis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 106- El jugador Gottfried Almer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 107- El jugador Boris Agger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 108- El jugador Radu Palage nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 109- El jugador Maximiliaan Laan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 110- El jugador Carlo Polla nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:48 - INFO - 111- El jugador Qutlugh Tabin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:49 - INFO - 112- El jugador Dimitar Mihaylov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:49 - INFO - 113- El jugador Seydou Weinmann nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:49 - INFO - 114- El jugador Damiano Racano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:49 - INFO - 115- El jugador Danilo Castañeda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:49 - INFO - 116- El jugador Miłosz Kieżun nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 117- El jugador Tony Norris nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 118- El jugador Johan Wolfgang Amsuess nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 119- El jugador Marcel Sęk nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 120- El jugador Sébastien Desmartin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 121- El jugador Dirk Derese nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 122- El jugador Renátó Nemes nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 123- El jugador Jan Klamm nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 124- El jugador Jasper Huttary nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 125- El jugador Mieczysław Kubeł nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:50 - INFO - 126- El jugador Albano Marini nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 127- El jugador Luca Siclari nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 128- El jugador Gumercindo Montanía nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 129- El jugador Nicolò Tuozzi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 130- El jugador Teddy Sloth nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 131- El jugador Chathura Wickremasinghe nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 132- El jugador Johan Margiotta nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 133- El jugador Paulino Vicente Ribeiro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 134- El jugador Tuomas Heiman nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 135- El jugador Knud Bendl nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 136- El jugador Pasquale Abrescia nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:51 - INFO - 137- El jugador Dimitris Kotsakos nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:52 - INFO - 138- El jugador Bengt Collind nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:52 - INFO - 139- El jugador Augustin Ereñaga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:52 - INFO - 140- El jugador Carlo Rota nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:52 - INFO - 141- El jugador Adur Zabala nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:52 - INFO - 142- El jugador Gert Jakisch nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 143- El jugador Arttu Leskinen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 144- El jugador Mario De Stefano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 145- El jugador Avner Seraya nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 146- El jugador Wilfried Heiden nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 147- El jugador Brian Dam nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:53 - INFO - 148- El jugador Boris Jankóšik nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 149- El jugador Josef Řáda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 150- El jugador Fahad Hareb nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 151- El jugador Bogusław Walocha nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 152- El jugador Werner Christoffersen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 153- El jugador John D'Acquisto nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:54 - INFO - 154- El jugador Cătălin Antonescu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 155- El jugador Natalio Navarro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 156- El jugador Waldemar Buca nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 157- El jugador Jamy Vanden Berghen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 158- El jugador Markus Paadam nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 159- El jugador Lucas Moreira Sá nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:55 - INFO - 160- El jugador Kjell Fiske nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 161- El jugador Radosław Linowski nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 162- El jugador Pedro Cubas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 163- El jugador Achim Schluetter nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 164- El jugador Simon Kennedy nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 165- El jugador Mikhail Skonin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 166- El jugador Răzvan Urucu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:56 - INFO - 167- El jugador Makara Hong nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 168- El jugador Alessandro Bravo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 169- El jugador Luis Antonio Zárate nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 170- El jugador Marcelo Matos nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 171- El jugador Matteo Mennitto nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 172- El jugador Zoltán Rácz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 173- El jugador Edward Frencher nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 174- El jugador Berelis Audėjaitis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 175- El jugador Fouad Zaylachi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 176- El jugador John 'Tandløs' Tatter nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:57 - INFO - 177- El jugador Nuri Borda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 178- El jugador Nándor Nagy nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 179- El jugador Roberto Sánchez nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 180- El jugador Máté Lázok nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 181- El jugador François van der Sanden nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 182- El jugador Sylvain Fenninger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 183- El jugador Leonard Przytuła nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 184- El jugador Knut Alnæs nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 185- El jugador Benoît Ruth nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 186- El jugador Patrikas Vaitekunas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:58 - INFO - 187- El jugador Alfonso Bernabeu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 188- El jugador Eugeniusz Góra nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 189- El jugador Khushal Sethi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 190- El jugador Eldert Altona nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 191- El jugador Nicolaas Schraaven nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 192- El jugador Haiko Bornmüller nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 193- El jugador Robert O'Connor nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 194- El jugador Mauro Dorregaray nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 195- El jugador Gianvito Corvaja nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:33:59 - INFO - 196- El jugador Willie Kazemi  nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 197- El jugador Shawn Kilbane nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 198- El jugador Amara Charny nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 199- El jugador Iván Federico Rodríguez nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 200- El jugador Aurélio Gayo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 201- El jugador Luke Cruickshank nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 202- El jugador Markus Aaltio nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 203- El jugador Česlovas Jamščikovas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:00 - INFO - 204- El jugador Einer Elstrup nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 205- El jugador Omari Wanjohi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 206- El jugador Andy Garrett nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 207- El jugador Ohan Muin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 208- El jugador Hoaike Groot nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 209- El jugador Simeon Davidovski nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 210- El jugador Apollonas Dertilis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:01 - INFO - 211- El jugador Salvatore Matteucci nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 212- El jugador Ramazan Battal nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 213- El jugador Hanspeter Colaci nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 214- El jugador Chathura Wickremasinghe nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 215- El jugador Giorgio Dal Brun nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 216- El jugador Christos Mpekas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 217- El jugador Hannes Almmo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:02 - INFO - 218- El jugador Ernesto Galaviz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 219- El jugador Segev Reihani nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 220- El jugador Lilian Berthou nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 221- El jugador Franko Likar nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 222- El jugador Natalio Navarro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 223- El jugador Waldemar Buca nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 224- El jugador Yoann Coquet nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 225- El jugador Enzo Tornatore nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:03 - INFO - 226- El jugador Yoann Souchon nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 227- El jugador Octavian Şerban nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 228- El jugador Rinalds Kāsis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 229- El jugador Manuel Rubio Envite nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 230- El jugador István Balogh nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 231- El jugador Pieter Beertema nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 232- El jugador Daniele Schiattone nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 233- El jugador Andrej Billfeldt nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:04 - INFO - 234- El jugador Lenny Leonard nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 235- El jugador Edgar Magalhães Pereira nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 236- El jugador Fisnikor Çiftja nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 237- El jugador Tom Fagert nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 238- El jugador Emilio Bacchin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 239- El jugador Aleksander Laas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 240- El jugador Wolf Lensen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:05 - INFO - 241- El jugador Franz Beu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 242- El jugador André-François Vyvey nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 243- El jugador Zequinha Bulhões nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 244- El jugador Ali Tadj nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 245- El jugador Drogomir Piwoni nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 246- El jugador Alex Martella nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 247- El jugador Vyacheslav Grishkov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 248- El jugador Giovanni Fioretti nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:06 - INFO - 249- El jugador Jomar Birkelund nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 250- El jugador Aurel Janča nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 251- El jugador Yehia Abd El Rasheed nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 252- El jugador Rick Krähen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 253- El jugador Luka Nežmahen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 254- El jugador Matija Žepina nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 255- El jugador Dimitar Kozarski nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 256- El jugador Gian Luigi Pedrabissi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:07 - INFO - 257- El jugador Enzo Delamuraz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 258- El jugador Umberto De Pascalis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 259- El jugador Tomi Liukkonen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 260- El jugador Yiorgos Darviris nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 261- El jugador Toni Aulock nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 262- El jugador Sándor László nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 263- El jugador Bobang Mthembu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 264- El jugador Michel-Pascal Dutzler nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:08 - INFO - 265- El jugador Claudio Abbà nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 266- El jugador Gumersindo Candelas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 267- El jugador Harry Hauter nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 268- El jugador Raúl Pacheco nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 269- El jugador Tolga Akıner nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 270- El jugador Zevulun Schlesinger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 271- El jugador Nicolas Viville nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 272- El jugador Javier Tortosa Saavedra nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:09 - INFO - 273- El jugador Ingo Waldl-Zimmermann nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 274- El jugador Kamil Layous nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 275- El jugador Till Thees nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 276- El jugador Patrick Kendler nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 277- El jugador Erhart Schaering nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 278- El jugador Dino Bellucci nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 279- El jugador Chung-Man Choi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 280- El jugador Nicolas Selm nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 281- El jugador Maciej Prętka nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 282- El jugador Petri Montell nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:10 - INFO - 283- El jugador Rune Häggsjö nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:11 - INFO - 284- El jugador Erik Langeland nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:11 - INFO - 285- El jugador Ulrich 'Panzer' Simml nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:11 - INFO - 286- El jugador Leone 'The King' Bergna nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:11 - INFO - 287- El jugador Rasmus Andersson nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:11 - INFO - 288- El jugador Gianluigi Urbano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 289- El jugador Raik Michalek nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 290- El jugador Eero Eilat nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 291- El jugador Vincenzo Laneve nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 292- El jugador Jarod Delestre nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 293- El jugador Helmut Breyer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:12 - INFO - 294- El jugador Walenty Broża nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 295- El jugador Ramiro Gouveia nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 296- El jugador Bertrand Overweg nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 297- El jugador Isahak Raffiyan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 298- El jugador Thomas Karampachos nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 299- El jugador Jewel Khoka nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 300- El jugador Silvio Bogdanović nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:13 - INFO - 301- El jugador Ingolf Bertholdsson nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 302- El jugador Marcel Sęk nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 303- El jugador Mauro Foffa nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 304- El jugador Rémi Morger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 305- El jugador Lorenzo Corsaro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 306- El jugador Paulo Tomé nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 307- El jugador Rudolph Volkerts nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 308- El jugador Gaetano Delli Santi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:14 - INFO - 309- El jugador Francisco Fontanete nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 310- El jugador Vincent Mommert nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 311- El jugador Marcel Fumea nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 312- El jugador Luigi Antonio Fornasini nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 313- El jugador Jeason Haest nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 314- El jugador Thilo Schlotzhauser nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 315- El jugador Walter Dop nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 316- El jugador Mukhthar Shafeeq nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:15 - INFO - 317- El jugador Yıldız Fermude nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:16 - INFO - 318- El jugador Víctor Mareval nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:16 - INFO - 319- El jugador Amir bin Izlan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:16 - INFO - 320- El jugador Ovidio Beneth nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:16 - INFO - 321- El jugador Dennis Padt nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:17 - INFO - 322- El jugador José Arcadio Segundo Falbo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:17 - INFO - 323- El jugador Nickolas Wilson nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:17 - INFO - 324- El jugador Yeznig Baroutchiyan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:17 - INFO - 325- El jugador Agafonas Bistrickas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:18 - INFO - 326- El jugador Angelo Simonetti nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:18 - INFO - 327- El jugador Tivadar Griff nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:18 - INFO - 328- El jugador Nik Matavž nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:18 - INFO - 329- El jugador Turhan Əliyev nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:18 - INFO - 330- El jugador Peter Obšusta nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 331- El jugador Hasan Essa nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 332- El jugador Daniel Alberto Mora nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 333- El jugador Steffen Kooper nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 334- El jugador Kamil Nawacki nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 335- El jugador Edmundo Farinha nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:19 - INFO - 336- El jugador Berker Sıram nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:20 - INFO - 337- El jugador Hannes Kallfaß nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:20 - INFO - 338- El jugador Rodolfo Giovinazzi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:20 - INFO - 339- El jugador Kostas Pilot nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:20 - INFO - 340- El jugador Ikhzi Boucherwane nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:20 - INFO - 341- El jugador Timothy McNally nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:21 - INFO - 342- El jugador David Cornée nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:21 - INFO - 343- El jugador Didier Savreux nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:21 - INFO - 344- El jugador Luca Cusimano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:21 - INFO - 345- El jugador Radoslav Shoylev nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:21 - INFO - 346- El jugador Vassilis Vlasakis nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 347- El jugador Ljubivoje Budimirović nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 348- El jugador Emilio Marsili nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 349- El jugador Michael Buschauer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 350- El jugador Adam Level nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 351- El jugador Conrad Wagner nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:22 - INFO - 352- El jugador Harald Mejer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:23 - INFO - 353- El jugador Benoît Jimenez nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:23 - INFO - 354- El jugador Aleksander Engebakken nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:23 - INFO - 355- El jugador Christopher Satterfield nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:23 - INFO - 356- El jugador Markus Sorvari nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:23 - INFO - 357- El jugador Rajnard Ksiądz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 358- El jugador Dennis Miranda nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 359- El jugador José Pedro Ferreira nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 360- El jugador Shayan Elahi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 361- El jugador Antoni Dopierała nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 362- El jugador Benjamín Cobo del Rosal nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:24 - INFO - 363- El jugador Klemens Sartorius nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:25 - INFO - 364- El jugador Valentim Ribeiro nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:25 - INFO - 365- El jugador Giorgio Disciullo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:25 - INFO - 366- El jugador Waldemar Grycz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:25 - INFO - 367- El jugador Jozef Huter nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:26 - INFO - 368- El jugador Şevket Tolgay nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:26 - INFO - 369- El jugador Han Soon Yao nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:26 - INFO - 370- El jugador Dan-Andrei Oprea nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:26 - INFO - 371- El jugador Gabi Macarie nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:27 - INFO - 372- El jugador Filip Češka nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:27 - INFO - 373- El jugador Luukas Lunden nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:27 - INFO - 374- El jugador Andrei Dragomir nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:27 - INFO - 375- El jugador Carlos Norberto Vilela nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:27 - INFO - 376- El jugador Kamohelo Nkadimeq nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:28 - INFO - 377- El jugador Pietru Pawl Hili nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:28 - INFO - 378- El jugador Jep Stradford-Quinn nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:28 - INFO - 379- El jugador Ediz Oğuzkan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:28 - INFO - 380- El jugador Arfon Peate nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:28 - INFO - 381- El jugador Patrik Ekwald nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:29 - INFO - 382- El jugador John Collen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:29 - INFO - 383- El jugador Muralidharan Menon nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:29 - INFO - 384- El jugador Rieks Jensen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:29 - INFO - 385- El jugador William Eby nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:29 - INFO - 386- El jugador Maario Kase nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:30 - INFO - 387- El jugador Jorge Rubén Lufrano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:30 - INFO - 388- El jugador Bonifacy Ścigała nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:30 - INFO - 389- El jugador Marco Pavano nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:30 - INFO - 390- El jugador Þórarinn Garrason nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:30 - INFO - 391- El jugador Pablo Estrecha nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:31 - INFO - 392- El jugador Geert van Bart nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:31 - INFO - 393- El jugador Gadiel Hecht nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:31 - INFO - 394- El jugador Juho Romppainen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:31 - INFO - 395- El jugador Zenon Baryś nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:31 - INFO - 396- El jugador Tauno Mihhailov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:32 - INFO - 397- El jugador Xavier Kaulitz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:32 - INFO - 398- El jugador Saad AL Dusarrey nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:32 - INFO - 399- El jugador Roberto Melappioni nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:32 - INFO - 400- El jugador Cesar Barrero nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:32 - INFO - 401- El jugador Noah Secaur nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:33 - INFO - 402- El jugador Ivan Stoyanov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:33 - INFO - 403- El jugador Nicky Dedeken nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:33 - INFO - 404- El jugador Omari Wanjohi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:33 - INFO - 405- El jugador Valentim Azevedo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:33 - INFO - 406- El jugador Faïssal Boulâich nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:34 - INFO - 407- El jugador Renato 'Lightning' Haagmans nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:34 - INFO - 408- El jugador Craig Offutt nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:34 - INFO - 409- El jugador Bonifacio Arteaga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:34 - INFO - 410- El jugador Rómulo Marzana nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:35 - INFO - 411- El jugador Edouard Hein nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:35 - INFO - 412- El jugador Marek Radojewski nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:35 - INFO - 413- El jugador Rubén Matute nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:35 - INFO - 414- El jugador Peik Hoffren nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:35 - INFO - 415- El jugador Kamal Meskine nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:36 - INFO - 416- El jugador Davide Silvagni nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:36 - INFO - 417- El jugador Tuomas Åström nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:36 - INFO - 418- El jugador Diego Valenza nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:36 - INFO - 419- El jugador Yannick Rivière nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:36 - INFO - 420- El jugador Dani Tauriello nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:37 - INFO - 421- El jugador Kostya Balmanoukyan nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:37 - INFO - 422- El jugador Globi Sones nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:37 - INFO - 423- El jugador Oskar Kawka nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:37 - INFO - 424- El jugador Cene Cundrič nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:37 - INFO - 425- El jugador Yukhym Golovatsky nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:38 - INFO - 426- El jugador James Mac Aodhagáin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:38 - INFO - 427- El jugador Svetlin Chebishev nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:38 - INFO - 428- El jugador Vedad Gogalić nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:38 - INFO - 429- El jugador László Samu nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:39 - INFO - 430- El jugador Silvestras Zapuščinskas nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:39 - INFO - 431- El jugador Valtteri Lähdemaa nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:39 - INFO - 432- El jugador Felix Haggennmüller nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:39 - INFO - 433- El jugador Ivan Manniello nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:39 - INFO - 434- El jugador Alberto Gabirondo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:40 - INFO - 435- El jugador Severino Rossi Silva nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:40 - INFO - 436- El jugador Mats-Ove Yngvesson nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:40 - INFO - 437- El jugador Otto Schirmer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:40 - INFO - 438- El jugador Quinten Zengerink nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:40 - INFO - 439- El jugador Ross Hastings nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:41 - INFO - 440- El jugador Richi Stuber nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:41 - INFO - 441- El jugador Vittorio Lavecchia nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:41 - INFO - 442- El jugador Luc Preud'Homme nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:41 - INFO - 443- El jugador Mukumbuta Tembo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:41 - INFO - 444- El jugador Elia Armaroli nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:42 - INFO - 445- El jugador Patrik Beller nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:42 - INFO - 446- El jugador Şenol Mümin nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:42 - INFO - 447- El jugador Costante Cigada nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:42 - INFO - 448- El jugador Roman Thomsen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:42 - INFO - 449- El jugador Dimitar Kamenov nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:43 - INFO - 450- El jugador Ferdynand Siębida nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:43 - INFO - 451- El jugador Alfred Ollinger nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:43 - INFO - 452- El jugador Alcide Roscini nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:43 - INFO - 453- El jugador Sepp Veerlann nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:43 - INFO - 454- El jugador Peter Askenstedt nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:44 - INFO - 455- El jugador Nicolas Martins nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:44 - INFO - 456- El jugador Branko Ibrahimović nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:44 - INFO - 457- El jugador Isidoro Guexar nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:44 - INFO - 458- El jugador Štěpán Zahrádka nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:44 - INFO - 459- El jugador Vesa Mäyrä nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:45 - INFO - 460- El jugador Antoine Klees nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:45 - INFO - 461- El jugador Robi Blaise nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:45 - INFO - 462- El jugador Júlio Canada nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:46 - INFO - 463- El jugador Kourosh Amir Moezi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:46 - INFO - 464- El jugador Denis Brusilovskiy nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:47 - INFO - 465- El jugador Gian Luigi Gobbetti nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:47 - INFO - 466- El jugador Tamás Hatzelhoffer nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:48 - INFO - 467- El jugador Laurenţiu Marincea nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:48 - INFO - 468- El jugador Adam Ballard nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:48 - INFO - 469- El jugador Daniel Chihi nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:48 - INFO - 470- El jugador Fernando Arroyo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 471- El jugador Juul Landrain nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 472- El jugador Konrad Malaga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 473- El jugador Radovan Kereň nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 474- El jugador Osvaldo Ciccillo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 475- El jugador Parham Nikzamir nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:49 - INFO - 476- El jugador Sastoi Mendiri nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:50 - INFO - 477- El jugador Dennis Alvarado nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:50 - INFO - 478- El jugador Ludwig Stram nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:50 - INFO - 479- El jugador Nikos Nakos nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:50 - INFO - 480- El jugador Jersey Imbo nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:51 - INFO - 481- El jugador Bence Varga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:51 - INFO - 482- El jugador Edgar Fraga nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:51 - INFO - 483- El jugador Hourad Helali nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:51 - INFO - 484- El jugador Raphaël Chiquet nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:51 - INFO - 485- El jugador Gaietà Garrós nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:52 - INFO - 486- El jugador Giulio Marega nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:52 - INFO - 487- El jugador Óscar Espasens nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:52 - INFO - 488- El jugador Claudio Zipoli nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:52 - INFO - 489- El jugador Piatrok Pavinich nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:53 - INFO - 490- El jugador Xavier Gumila nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:53 - INFO - 491- El jugador Niels Preibisch nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:53 - INFO - 492- El jugador Craig Coe nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:53 - INFO - 493- El jugador Gaspar Maia nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:53 - INFO - 494- El jugador Rodrigo Parreño nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:54 - INFO - 495- El jugador Pierpaolo Gravina nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:54 - INFO - 496- El jugador Mrisho Chami nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:54 - INFO - 497- El jugador Wienus van Velthuijsen nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:54 - INFO - 498- El jugador Jędrzej Krzesiński nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:54 - INFO - 499- El jugador Hessel Herben nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:34:55 - INFO - 500- El jugador Líbero Noleto nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:38:00 - INFO - Comienza la ejecucion del programa: 2022-09-28 00:38:00.293410 
+
+2022-09-28 00:38:00 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-28 00:38:13 - INFO - 1- Jugador Saravanan Dwarampudi no fue vendido. Precio: 0
+2022-09-28 00:38:20 - INFO - 2- Jugador Joan Montagud no fue vendido. Precio: 0
+2022-09-28 00:38:26 - INFO - 3- Jugador Bilashi Barenzi no fue vendido. Precio: 0
+2022-09-28 00:38:34 - INFO - 4- Jugador Árpád Cs. Nagy no fue vendido. Precio: 0
+2022-09-28 00:38:41 - INFO - 5- El jugador Claass Kern-Pongratz nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:38:42 - INFO - Fin de la ejecucion del programa: 2022-09-28 00:38:42.012916 
+
+2022-09-28 00:38:42 - INFO - Tiempo total de ejecucion: 0:00:41.719506
+2022-09-28 00:40:39 - INFO - Comienza la ejecucion del programa: 2022-09-28 00:40:39.959103 
+
+2022-09-28 00:40:39 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-28 00:40:49 - INFO - 1- Jugador Grzegorz Srebro no fue vendido. Precio: 0
+2022-09-28 00:40:55 - INFO - 2- Jugador Szabolcs Szabovits no fue vendido. Precio: 0
+2022-09-28 00:41:02 - INFO - 3- Jugador Ali Arif Betik no fue vendido. Precio: 0
+2022-09-28 00:41:08 - INFO - 4- Jugador Costel Rogobete no fue vendido. Precio: 0
+2022-09-28 00:41:15 - INFO - 5- El jugador Yannik Andreas Zeilhard nunca fue vendido o lo DESPIDIERON
+2022-09-28 00:41:15 - INFO - Fin de la ejecucion del programa: 2022-09-28 00:41:15.377251 
+
+2022-09-28 00:41:15 - INFO - Tiempo total de ejecucion: 0:00:35.418148
+2022-09-28 00:46:17 - INFO - Comienza la ejecucion del programa: 2022-09-28 00:46:17.320087 
+
+2022-09-28 00:46:17 - INFO - Datos de la BD obtenidos correctamente.
+2022-09-28 00:46:26 - INFO - 1- Jugador Kent-Erik Ingelbom no fue vendido. Precio: 0
+2022-09-28 00:46:33 - INFO - 2- El precio de Umberto Camedda es 5633000, edad: 23 años, 11 dias. ACTUALIZADO
+2022-09-28 00:46:39 - INFO - 3- El precio de Karl Ludger Wallmoden es 4500000, edad: 23 años, 107 dias. ACTUALIZADO
+2022-09-28 00:46:45 - INFO - 4- Jugador Alberto Las Heras Rueda no fue vendido. Precio: 0
+2022-09-28 00:46:51 - INFO - 5- Jugador Kieran Manning no fue vendido. Precio: 0
+2022-09-28 00:46:51 - INFO - Fin de la ejecucion del programa: 2022-09-28 00:46:51.972515 
+
+2022-09-28 00:46:51 - INFO - Tiempo total de ejecucion: 0:00:34.652428
