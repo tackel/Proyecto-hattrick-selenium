@@ -6,6 +6,8 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
+
+
 # configuracion del logging
 # Formato del log: %Y-%m-%d - nombre_logger - mensaje
 logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO)
