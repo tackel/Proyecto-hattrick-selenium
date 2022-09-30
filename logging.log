@@ -3124,3 +3124,175 @@ Backtrace:
 2022-09-28 - INFO - Fin de la ejecucion del programa: 2022-09-28 20:36:49.293143 
 2022-09-28 - INFO - Tiempo total de ejecucion: 0:35:11.332374
 
+2022-09-30 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-30 13:03:15.831317 
+2022-09-30 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-30 13:03:15.853869 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - 
+ Comienza la ejecucion del programa en: 2022-09-30 13:12:02.425852 
+2022-09-30 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-09-30 13:12:02.426066 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-09-30 13:12:13.689651 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-09-30 13:12:24.717603 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-09-30 13:12:35.756820 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-09-30 13:12:46.797715 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-09-30 13:12:57.828996 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-09-30 13:13:08.866780 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-09-30 13:13:19.902168 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-09-30 13:13:30.936702 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-09-30 13:13:41.974703 
+2022-09-30 - ERROR - Fallo al generar el driver Message: 'chromedriver.exe' executable may have wrong permissions. Please see https://chromedriver.chromium.org/home
+
+2022-09-30 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - INFO - Archivos .csv antiguos borrados.
+2022-09-30 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-09-30 - INFO - Archivo csv en pagina 1 descargado
+2022-09-30 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-09-30 - INFO - Archivos csv con los link de jugadores creado
+2022-09-30 - INFO - Archivos lista_final creados
+2022-09-30 - INFO - Tabla en base de datos creada
+2022-09-30 - INFO - Fin de la ejecucion del programa: 2022-09-30 13:13:53.014602 
+2022-09-30 - INFO - Tiempo total de ejecucion: 0:01:50.588750
+

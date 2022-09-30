@@ -11,10 +11,11 @@ from decouple import config
 from pathlib import Path
 import pandas as pd
 import os
+from os import path
 import logging
 #from proceso_datos import create_links_mas_ides, data_mas_links
 
-
+ruta_base = path.abspath(path.dirname(__file__))
 
 
 user = config('USER')
@@ -32,10 +33,10 @@ link_list = []
 #path_descargas = path.joinpath('dowload_files')
 #path_gurdar_link = path.joinpath('links_transitorios')
 
-logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
+logging.basicConfig(filename=f'{ruta_base}/logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
 
 website = 'https://www.hattrick.org/es/'
-chromeDriver = 'chromedriver.exe'
+chromeDriver = f'{ruta_base}/chromedriver'
 #option = webdriver.ChromeOptions()
 #option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 
@@ -46,7 +47,10 @@ class Hattrick_proyect():
             options = Options()
             #options.headless = True
             #options.add_argument('--headless')
-            options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+            # en windows
+            #options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+            # en Linux
+            options.binary_location = r'/snap/brave/177/opt/brave.com/brave/brave-browser'
             options.add_experimental_option("prefs", {
             "download.default_directory": str(path_descargas),
             "download.prompt_for_download": False,
