@@ -7,8 +7,6 @@ import logging
 
 logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d',level=logging.INFO)
 
-
-
 #df = pd.read_csv(f'{path_datos_finales}/lista_final-2022-08-29-20-21-13.csv')
 #df.to_sql('players', con)
 def create_table(path_sql):
