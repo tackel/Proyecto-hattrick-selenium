@@ -18,7 +18,7 @@ import logging
 ruta_base = path.abspath(path.dirname(__file__))
 
 
-user = config('USER')
+usuario = config('USUARIO')
 password = config('PASSWORD')
 
 # variables para el buscador
@@ -67,7 +67,7 @@ class Hattrick_proyect():
         """ loguea al usuario en la pagina con usuario y contraseña """
         try:
             self.driver.get(website)
-            self.driver.maximize_window()
+            #self.driver.maximize_window()
             sleep(5)
             user_texfield = self.driver.find_element(
                 By.ID, 'ctl00_CPContent_ucLogin_txtUserName')
@@ -75,7 +75,7 @@ class Hattrick_proyect():
                 By.ID, 'ctl00_CPContent_ucLogin_txtPassword')
             #login_buton = driver.find_element(
             #    By.ID, 'ctl00_CPContent_ucLogin_butLogin')
-            user_texfield.send_keys(user)
+            user_texfield.send_keys(usuario)
             #sleep(2)
             password_texfield.send_keys(password)
             #sleep(2)
@@ -197,7 +197,7 @@ class Hattrick_proyect():
             df = pd.DataFrame()
             df['links'] = link_list
             link_list.clear()
-            df.to_csv(f"{path_gurdar_link}\link.csv", encoding='utf-8-sig')
+            df.to_csv(f"{path_gurdar_link}/ink.csv", encoding='utf-8-sig')
             sleep(1)
             
             self.driver.close()

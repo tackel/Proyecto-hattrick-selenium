@@ -36,7 +36,7 @@ def create_links_mas_ides(path_link):
                 lista_links.append(link)  
 
             df_link_finales = pd.DataFrame({'link': lista_links})
-            df_link_finales.to_csv(f"{path_link}\link{str(numero)}.csv", encoding='utf-8-sig' )
+            df_link_finales.to_csv(f"{path_link}/link{str(numero)}.csv", encoding='utf-8-sig' )
             numero +=1
         logging.info(f'Archivos csv con los link de jugadores creado')
     except Exception as e:
