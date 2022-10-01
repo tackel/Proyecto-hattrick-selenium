@@ -4947,3 +4947,348 @@ Stacktrace:
 2022-10-01 - INFO - Fin de la ejecucion del programa: 2022-10-01 10:10:59.439180 
 2022-10-01 - INFO - Tiempo total de ejecucion: 0:01:55.500899
 
+2022-10-01 - INFO - 
+ Comienza la ejecucion del programa en: 2022-10-01 10:15:04.198849 
+2022-10-01 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-10-01 10:15:04.199007 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x563e30493693 <unknown>
+#1 0x563e3028cb0a <unknown>
+#2 0x563e302af359 <unknown>
+#3 0x563e302ad1f4 <unknown>
+#4 0x563e302e8953 <unknown>
+#5 0x563e302e2743 <unknown>
+#6 0x563e302b8533 <unknown>
+#7 0x563e302b9715 <unknown>
+#8 0x563e304e37bd <unknown>
+#9 0x563e304e6bf9 <unknown>
+#10 0x563e304c8f2e <unknown>
+#11 0x563e304e79b3 <unknown>
+#12 0x563e304bce4f <unknown>
+#13 0x563e30506ea8 <unknown>
+#14 0x563e30507052 <unknown>
+#15 0x563e3052171f <unknown>
+#16 0x7fb28e587609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-10-01 10:15:15.761934 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x55d0665cd693 <unknown>
+#1 0x55d0663c6b0a <unknown>
+#2 0x55d0663e9359 <unknown>
+#3 0x55d0663e71f4 <unknown>
+#4 0x55d066422953 <unknown>
+#5 0x55d06641c743 <unknown>
+#6 0x55d0663f2533 <unknown>
+#7 0x55d0663f3715 <unknown>
+#8 0x55d06661d7bd <unknown>
+#9 0x55d066620bf9 <unknown>
+#10 0x55d066602f2e <unknown>
+#11 0x55d0666219b3 <unknown>
+#12 0x55d0665f6e4f <unknown>
+#13 0x55d066640ea8 <unknown>
+#14 0x55d066641052 <unknown>
+#15 0x55d06665b71f <unknown>
+#16 0x7f75590f1609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-10-01 10:15:27.314313 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x562eecdd0693 <unknown>
+#1 0x562eecbc9b0a <unknown>
+#2 0x562eecbec359 <unknown>
+#3 0x562eecbea1f4 <unknown>
+#4 0x562eecc25953 <unknown>
+#5 0x562eecc1f743 <unknown>
+#6 0x562eecbf5533 <unknown>
+#7 0x562eecbf6715 <unknown>
+#8 0x562eece207bd <unknown>
+#9 0x562eece23bf9 <unknown>
+#10 0x562eece05f2e <unknown>
+#11 0x562eece249b3 <unknown>
+#12 0x562eecdf9e4f <unknown>
+#13 0x562eece43ea8 <unknown>
+#14 0x562eece44052 <unknown>
+#15 0x562eece5e71f <unknown>
+#16 0x7f67ffddb609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-10-01 10:15:38.860469 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x55b8a8770693 <unknown>
+#1 0x55b8a8569b0a <unknown>
+#2 0x55b8a858c359 <unknown>
+#3 0x55b8a858a1f4 <unknown>
+#4 0x55b8a85c5953 <unknown>
+#5 0x55b8a85bf743 <unknown>
+#6 0x55b8a8595533 <unknown>
+#7 0x55b8a8596715 <unknown>
+#8 0x55b8a87c07bd <unknown>
+#9 0x55b8a87c3bf9 <unknown>
+#10 0x55b8a87a5f2e <unknown>
+#11 0x55b8a87c49b3 <unknown>
+#12 0x55b8a8799e4f <unknown>
+#13 0x55b8a87e3ea8 <unknown>
+#14 0x55b8a87e4052 <unknown>
+#15 0x55b8a87fe71f <unknown>
+#16 0x7f6afd8e8609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-10-01 10:15:50.405533 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x560334f08693 <unknown>
+#1 0x560334d01b0a <unknown>
+#2 0x560334d24359 <unknown>
+#3 0x560334d221f4 <unknown>
+#4 0x560334d5d953 <unknown>
+#5 0x560334d57743 <unknown>
+#6 0x560334d2d533 <unknown>
+#7 0x560334d2e715 <unknown>
+#8 0x560334f587bd <unknown>
+#9 0x560334f5bbf9 <unknown>
+#10 0x560334f3df2e <unknown>
+#11 0x560334f5c9b3 <unknown>
+#12 0x560334f31e4f <unknown>
+#13 0x560334f7bea8 <unknown>
+#14 0x560334f7c052 <unknown>
+#15 0x560334f9671f <unknown>
+#16 0x7f4429248609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-10-01 10:16:01.973987 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x557fdcf1e693 <unknown>
+#1 0x557fdcd17b0a <unknown>
+#2 0x557fdcd3a359 <unknown>
+#3 0x557fdcd381f4 <unknown>
+#4 0x557fdcd73953 <unknown>
+#5 0x557fdcd6d743 <unknown>
+#6 0x557fdcd43533 <unknown>
+#7 0x557fdcd44715 <unknown>
+#8 0x557fdcf6e7bd <unknown>
+#9 0x557fdcf71bf9 <unknown>
+#10 0x557fdcf53f2e <unknown>
+#11 0x557fdcf729b3 <unknown>
+#12 0x557fdcf47e4f <unknown>
+#13 0x557fdcf91ea8 <unknown>
+#14 0x557fdcf92052 <unknown>
+#15 0x557fdcfac71f <unknown>
+#16 0x7f6df7f59609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-10-01 10:16:13.524957 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x560cf97b2693 <unknown>
+#1 0x560cf95abb0a <unknown>
+#2 0x560cf95ce359 <unknown>
+#3 0x560cf95cc1f4 <unknown>
+#4 0x560cf9607953 <unknown>
+#5 0x560cf9601743 <unknown>
+#6 0x560cf95d7533 <unknown>
+#7 0x560cf95d8715 <unknown>
+#8 0x560cf98027bd <unknown>
+#9 0x560cf9805bf9 <unknown>
+#10 0x560cf97e7f2e <unknown>
+#11 0x560cf98069b3 <unknown>
+#12 0x560cf97dbe4f <unknown>
+#13 0x560cf9825ea8 <unknown>
+#14 0x560cf9826052 <unknown>
+#15 0x560cf984071f <unknown>
+#16 0x7f2be5b11609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-10-01 10:16:25.074227 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x55a01c444693 <unknown>
+#1 0x55a01c23db0a <unknown>
+#2 0x55a01c260359 <unknown>
+#3 0x55a01c25e1f4 <unknown>
+#4 0x55a01c299953 <unknown>
+#5 0x55a01c293743 <unknown>
+#6 0x55a01c269533 <unknown>
+#7 0x55a01c26a715 <unknown>
+#8 0x55a01c4947bd <unknown>
+#9 0x55a01c497bf9 <unknown>
+#10 0x55a01c479f2e <unknown>
+#11 0x55a01c4989b3 <unknown>
+#12 0x55a01c46de4f <unknown>
+#13 0x55a01c4b7ea8 <unknown>
+#14 0x55a01c4b8052 <unknown>
+#15 0x55a01c4d271f <unknown>
+#16 0x7f3230f92609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-10-01 10:16:36.620687 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x55da53988693 <unknown>
+#1 0x55da53781b0a <unknown>
+#2 0x55da537a4359 <unknown>
+#3 0x55da537a21f4 <unknown>
+#4 0x55da537dd953 <unknown>
+#5 0x55da537d7743 <unknown>
+#6 0x55da537ad533 <unknown>
+#7 0x55da537ae715 <unknown>
+#8 0x55da539d87bd <unknown>
+#9 0x55da539dbbf9 <unknown>
+#10 0x55da539bdf2e <unknown>
+#11 0x55da539dc9b3 <unknown>
+#12 0x55da539b1e4f <unknown>
+#13 0x55da539fbea8 <unknown>
+#14 0x55da539fc052 <unknown>
+#15 0x55da53a1671f <unknown>
+#16 0x7f6e17a86609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-10-01 10:16:48.171815 
+2022-10-01 - ERROR - Fallo al generar el driver Message: unknown error: no chrome binary at /snap/brave/177/opt/brave.com/brave/brave-browser
+Stacktrace:
+#0 0x559b54b68693 <unknown>
+#1 0x559b54961b0a <unknown>
+#2 0x559b54984359 <unknown>
+#3 0x559b549821f4 <unknown>
+#4 0x559b549bd953 <unknown>
+#5 0x559b549b7743 <unknown>
+#6 0x559b5498d533 <unknown>
+#7 0x559b5498e715 <unknown>
+#8 0x559b54bb87bd <unknown>
+#9 0x559b54bbbbf9 <unknown>
+#10 0x559b54b9df2e <unknown>
+#11 0x559b54bbc9b3 <unknown>
+#12 0x559b54b91e4f <unknown>
+#13 0x559b54bdbea8 <unknown>
+#14 0x559b54bdc052 <unknown>
+#15 0x559b54bf671f <unknown>
+#16 0x7f9c1ac5e609 <unknown>
+
+2022-10-01 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - INFO - Archivos .csv antiguos borrados.
+2022-10-01 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-01 - INFO - Archivo csv en pagina 1 descargado
+2022-10-01 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-01 - ERROR - Error al crear los csv con los link de jugadores: [Errno 2] No such file or directory: '/home/tackel/Documentos/Programacion/selenium/Proyecto-hattrick-selenium/links_transitorios\\link.csv'  
+2022-10-01 - INFO - Archivos lista_final creados
+2022-10-01 - INFO - Tabla en base de datos creada
+2022-10-01 - INFO - Fin de la ejecucion del programa: 2022-10-01 10:16:59.721694 
+2022-10-01 - INFO - Tiempo total de ejecucion: 0:01:55.522845
+
