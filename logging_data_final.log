@@ -8564,3 +8564,409 @@
 2022-10-01 11:10:11 - INFO - Fin de la ejecucion del programa: 2022-10-01 11:10:11.191892 
 
 2022-10-01 11:10:11 - INFO - Tiempo total de ejecucion: 0:00:00.131194
+2022-10-01 12:34:07 - INFO - Comienza la ejecucion del programa: 2022-10-01 12:34:07.619289 
+
+2022-10-01 12:34:07 - INFO - Datos de la BD obtenidos correctamente.
+2022-10-01 12:34:17 - INFO - 1- Jugador Addy Ooijer no fue vendido. Precio: 0
+2022-10-01 12:34:23 - INFO - 2- Jugador Emanuel Mašek no fue vendido. Precio: 0
+2022-10-01 12:34:30 - INFO - 3- Jugador Alessio Almasio no fue vendido. Precio: 0
+2022-10-01 12:34:37 - INFO - 4- Jugador Gianpaolo Iannotta no fue vendido. Precio: 0
+2022-10-01 12:34:43 - INFO - 5- Jugador Abdullah Hilal no fue vendido. Precio: 0
+2022-10-01 12:34:50 - INFO - 6- El precio de Andrey Oberfeld es 6000000, edad: 23 años, 51 dias. ACTUALIZADO
+2022-10-01 12:34:56 - INFO - 7- Jugador Gino Zamperoni no fue vendido. Precio: 0
+2022-10-01 12:35:02 - INFO - 8- Jugador Mario Zanoni no fue vendido. Precio: 0
+2022-10-01 12:35:09 - INFO - 9- Jugador Max Calderhead no fue vendido. Precio: 0
+2022-10-01 12:35:15 - INFO - 10- Jugador Theofilos Anatolakis no fue vendido. Precio: 0
+2022-10-01 12:35:21 - INFO - 11- El precio de Amin Iran Bahar es 1624860, edad: 25 años, 84 dias. ACTUALIZADO
+2022-10-01 12:35:27 - INFO - 12- El precio de Włodzimierz Siłuch es 5800000, edad: 25 años, 13 dias. ACTUALIZADO
+2022-10-01 12:35:34 - INFO - 13- El precio de Clement Zullinger es 6120000, edad: 24 años, 101 dias. ACTUALIZADO
+2022-10-01 12:35:40 - INFO - 14- Jugador Jonathan Renoult no fue vendido. Precio: 0
+2022-10-01 12:35:46 - INFO - 15- El jugador Agostino Ciuffreda nunca fue vendido o lo DESPIDIERON
+2022-10-01 12:35:53 - INFO - 16- El precio de Ibragim Bakhtiarov es 2250000, edad: 23 años, 86 dias. ACTUALIZADO
+2022-10-01 12:35:59 - INFO - 17- El precio de Silvestro Petricola es 5413000, edad: 21 años, 65 dias. ACTUALIZADO
+2022-10-01 12:36:05 - INFO - 18- El precio de Orlando Gillhaus es 4500000, edad: 22 años, 53 dias. ACTUALIZADO
+2022-10-01 12:36:11 - INFO - 19- El precio de John Olanrewaju es 3902000, edad: 23 años, 2 dias. ACTUALIZADO
+2022-10-01 12:36:18 - INFO - 20- El precio de Franciszek Pająk es 3625000, edad: 23 años, 63 dias. ACTUALIZADO
+2022-10-01 12:36:24 - INFO - 21- El precio de Krzysztof Romanek es 5725000, edad: 24 años, 90 dias. ACTUALIZADO
+2022-10-01 12:36:30 - INFO - 22- Jugador Hasan Matkarimov no fue vendido. Precio: 0
+2022-10-01 12:36:37 - INFO - 23- El precio de Jerrel Groote es 3866000, edad: 22 años, 89 dias. ACTUALIZADO
+2022-10-01 12:36:43 - INFO - 24- El precio de Massimo Campilongo es 3681000, edad: 21 años, 96 dias. ACTUALIZADO
+2022-10-01 12:36:49 - INFO - 25- El precio de Rafinha Quiroga es 6168000, edad: 24 años, 65 dias. ACTUALIZADO
+2022-10-01 12:36:58 - INFO - 26- El precio de Vladimir Berti es 6600000, edad: 37 años, 62 dias. ACTUALIZADO
+2022-10-01 12:37:05 - INFO - 27- Jugador Moritz Orterer no fue vendido. Precio: 0
+2022-10-01 12:37:11 - INFO - 28- El precio de Austin Yamashita es 2500000, edad: 32 años, 77 dias. ACTUALIZADO
+2022-10-01 12:37:17 - INFO - 29- Jugador Emrah Pecikoza no fue vendido. Precio: 0
+2022-10-01 12:37:23 - INFO - 30- Jugador Josef Zahrádka no fue vendido. Precio: 0
+2022-10-01 12:37:30 - INFO - 31- Jugador Nickolas Bugkel no fue vendido. Precio: 0
+2022-10-01 12:37:36 - INFO - 32- Jugador Nissan Lazarov no fue vendido. Precio: 0
+2022-10-01 12:37:42 - INFO - 33- El precio de Paul Schwartz es 803760, edad: 34 años, 78 dias. ACTUALIZADO
+2022-10-01 12:37:49 - INFO - 34- El precio de Dieter Kratky es 663000, edad: 30 años, 8 dias. ACTUALIZADO
+2022-10-01 12:37:55 - INFO - 35- Jugador Mballa Toube no fue vendido. Precio: 0
+2022-10-01 12:38:02 - INFO - 36- Jugador Hayman Sonbol no fue vendido. Precio: 0
+2022-10-01 12:38:08 - INFO - 37- Jugador Luigi Della Mea no fue vendido. Precio: 0
+2022-10-01 12:38:15 - INFO - 38- El precio de Goos Servais es 1836000, edad: 29 años, 47 dias. ACTUALIZADO
+2022-10-01 12:38:21 - INFO - 39- El precio de Fabio Stifano es 1122000, edad: 32 años, 58 dias. ACTUALIZADO
+2022-10-01 12:38:28 - INFO - 40- Jugador Otto Zechendorf no fue vendido. Precio: 0
+2022-10-01 12:38:34 - INFO - 41- Jugador Konstantin Suprunets no fue vendido. Precio: 0
+2022-10-01 12:38:41 - INFO - 42- El precio de Igor Cáceres es 6762000, edad: 27 años, 50 dias. ACTUALIZADO
+2022-10-01 12:38:47 - INFO - 43- Jugador Aureo Ditzel no fue vendido. Precio: 0
+2022-10-01 12:38:53 - INFO - 44- Jugador David Magliacane no fue vendido. Precio: 0
+2022-10-01 12:39:00 - INFO - 45- El precio de Cóatl Cárdenas es 33000, edad: 35 años, 36 dias. ACTUALIZADO
+2022-10-01 12:39:06 - INFO - 46- Jugador Seran Illanes no fue vendido. Precio: 0
+2022-10-01 12:39:12 - INFO - 47- Jugador Oskar Schweinhauss no fue vendido. Precio: 0
+2022-10-01 12:39:19 - INFO - 48- Jugador Giuseppe Rosettani no fue vendido. Precio: 0
+2022-10-01 12:39:25 - INFO - 49- Jugador Mihajlo Stefanović no fue vendido. Precio: 0
+2022-10-01 12:39:31 - INFO - 50- El precio de Falco Grondinger es 72000, edad: 36 años, 95 dias. ACTUALIZADO
+2022-10-01 12:39:38 - INFO - 51- El precio de Aadu Lõvi es 29000, edad: 34 años, 96 dias. ACTUALIZADO
+2022-10-01 12:39:44 - INFO - 52- El precio de Ludovic Halipre es 3450000, edad: 27 años, 25 dias. ACTUALIZADO
+2022-10-01 12:39:51 - INFO - 53- Jugador Adrian Isaichkin no fue vendido. Precio: 0
+2022-10-01 12:39:57 - INFO - 54- Jugador Christian Marazia no fue vendido. Precio: 0
+2022-10-01 12:40:04 - INFO - 55- Jugador Mihajlo Matić no fue vendido. Precio: 0
+2022-10-01 12:40:10 - INFO - 56- El precio de Oskar Jokitulppo es 223000, edad: 36 años, 42 dias. ACTUALIZADO
+2022-10-01 12:40:16 - INFO - 57- El precio de Konrad Mysłek es 260000, edad: 36 años, 19 dias. ACTUALIZADO
+2022-10-01 12:40:22 - INFO - 58- El precio de Richard Colesby es 651380, edad: 34 años, 3 dias. ACTUALIZADO
+2022-10-01 12:40:29 - INFO - 59- El precio de Girolamo Abbate es 1212780, edad: 27 años, 102 dias. ACTUALIZADO
+2022-10-01 12:40:35 - INFO - 60- Jugador Boško Filipović no fue vendido. Precio: 0
+2022-10-01 12:40:41 - INFO - 61- El precio de Bale Ssozi es 7999500, edad: 27 años, 94 dias. ACTUALIZADO
+2022-10-01 12:40:47 - INFO - 62- Jugador Sebastián Gustavo Rouiller no fue vendido. Precio: 0
+2022-10-01 12:40:54 - INFO - 63- Jugador Wolf Van Gysegem no fue vendido. Precio: 0
+2022-10-01 12:41:00 - INFO - 64- Jugador Maximilian Konrad no fue vendido. Precio: 0
+2022-10-01 12:41:07 - INFO - 65- Jugador Hampus Hofström no fue vendido. Precio: 0
+2022-10-01 12:41:13 - INFO - 66- Jugador Petar Mrčela no fue vendido. Precio: 0
+2022-10-01 12:41:19 - INFO - 67- El precio de 真寛 (Mahiro) 海江田 (Kaieda) es 50000, edad: 37 años, 30 dias. ACTUALIZADO
+2022-10-01 12:41:26 - INFO - 68- El precio de Jérémy Fournier es 217000, edad: 35 años, 91 dias. ACTUALIZADO
+2022-10-01 12:41:34 - INFO - 69- Jugador Pedro Goyena no fue vendido. Precio: 0
+2022-10-01 12:41:39 - INFO - 70- El jugador Nikolay Karavanov nunca fue vendido o lo DESPIDIERON
+2022-10-01 12:41:45 - INFO - 71- Jugador Ivan Kupčík no fue vendido. Precio: 0
+2022-10-01 12:41:52 - INFO - 72- El precio de David Domingos Luciano es 649740, edad: 35 años, 10 dias. ACTUALIZADO
+2022-10-01 12:41:58 - INFO - 73- Jugador Sergio Bui no fue vendido. Precio: 0
+2022-10-01 12:42:05 - INFO - 74- Jugador 李 (Li)  荣翰 (Ronghan) no fue vendido. Precio: 0
+2022-10-01 12:42:11 - INFO - 75- Jugador Christian Hagelell no fue vendido. Precio: 0
+2022-10-01 12:42:17 - INFO - 76- Jugador Herbert Frank no fue vendido. Precio: 0
+2022-10-01 12:42:23 - INFO - 77- El precio de Giosuè Gulisano es 5202000, edad: 31 años, 37 dias. ACTUALIZADO
+2022-10-01 12:42:30 - INFO - 78- El precio de Pouyan Cheloei Darabi es 2001240, edad: 28 años, 103 dias. ACTUALIZADO
+2022-10-01 12:42:36 - INFO - 79- Jugador Trevor Dale no fue vendido. Precio: 0
+2022-10-01 12:42:43 - INFO - 80- El precio de Filip Maslo es 2999000, edad: 29 años, 88 dias. ACTUALIZADO
+2022-10-01 12:42:49 - INFO - 81- El precio de Max Ingersleben es 220000, edad: 36 años, 77 dias. ACTUALIZADO
+2022-10-01 12:42:55 - INFO - 82- Jugador Hayman Sonbol no fue vendido. Precio: 0
+2022-10-01 12:43:02 - INFO - 83- El precio de Melagne Angah es 999000, edad: 30 años, 90 dias. ACTUALIZADO
+2022-10-01 12:43:09 - INFO - 84- Jugador Jakob Dennert no fue vendido. Precio: 0
+2022-10-01 12:43:15 - INFO - 85- Jugador Gerald Buetschi no fue vendido. Precio: 0
+2022-10-01 12:43:21 - INFO - 86- Jugador Alwin Pennings no fue vendido. Precio: 0
+2022-10-01 12:43:28 - INFO - 87- Jugador Juan Fres Jaramillo no fue vendido. Precio: 0
+2022-10-01 12:43:34 - INFO - 88- Jugador Gianni Codini no fue vendido. Precio: 0
+2022-10-01 12:43:42 - INFO - 89- El precio de Denzel De Greveleer es 691560, edad: 31 años, 80 dias. ACTUALIZADO
+2022-10-01 12:43:48 - INFO - 90- Jugador Pierrot Gerson no fue vendido. Precio: 0
+2022-10-01 12:43:54 - INFO - 91- Jugador David Magliacane no fue vendido. Precio: 0
+2022-10-01 12:44:01 - INFO - 92- El precio de Demetriusz Kalmus es 2850100, edad: 32 años, 105 dias. ACTUALIZADO
+2022-10-01 12:44:07 - INFO - 93- Jugador Lassi Junkala no fue vendido. Precio: 0
+2022-10-01 12:44:14 - INFO - 94- El precio de Lázaro Cárdenas es 1402000, edad: 28 años, 0 dias. ACTUALIZADO
+2022-10-01 12:44:20 - INFO - 95- Jugador 凌 (Ling)  敦建 (Dunjian) no fue vendido. Precio: 0
+2022-10-01 12:44:26 - INFO - 96- El precio de Maksim Pryemka es 1906000, edad: 28 años, 23 dias. ACTUALIZADO
+2022-10-01 12:44:33 - INFO - 97- El precio de Lamartine Gesteira es 8900000, edad: 27 años, 21 dias. ACTUALIZADO
+2022-10-01 12:44:39 - INFO - 98- El precio de Heriberto Klusener es 1100000, edad: 33 años, 5 dias. ACTUALIZADO
+2022-10-01 12:44:46 - INFO - 99- Jugador Călin Stoican no fue vendido. Precio: 0
+2022-10-01 12:44:52 - INFO - 100- Jugador Leone Spadotto no fue vendido. Precio: 0
+2022-10-01 12:44:58 - INFO - 101- Jugador George-Constantin Mateescu no fue vendido. Precio: 0
+2022-10-01 12:45:05 - INFO - 102- Jugador Wolf Van Gysegem no fue vendido. Precio: 0
+2022-10-01 12:45:11 - INFO - 103- Jugador Benjamin Élisabeth no fue vendido. Precio: 0
+2022-10-01 12:45:17 - INFO - 104- Jugador Božidar Crnomarković no fue vendido. Precio: 0
+2022-10-01 12:45:24 - INFO - 105- Jugador Yoan Blanchard no fue vendido. Precio: 0
+2022-10-01 12:45:30 - INFO - 106- Jugador Dorian Petiot no fue vendido. Precio: 0
+2022-10-01 12:45:37 - INFO - 107- El jugador Cosmin Şuteu nunca fue vendido o lo DESPIDIERON
+2022-10-01 12:45:43 - INFO - 108- El precio de Janne Ylikännö es 3950000, edad: 28 años, 43 dias. ACTUALIZADO
+2022-10-01 12:45:49 - INFO - 109- Jugador Erich Barrink no fue vendido. Precio: 0
+2022-10-01 12:45:56 - INFO - 110- El precio de Jorrit Baumer es 774000, edad: 33 años, 107 dias. ACTUALIZADO
+2022-10-01 12:46:02 - INFO - 111- El precio de Afonso Reis Carvalho es 372000, edad: 35 años, 79 dias. ACTUALIZADO
+2022-10-01 12:46:09 - INFO - 112- Jugador Máté Kis no fue vendido. Precio: 0
+2022-10-01 12:46:15 - INFO - 113- El precio de Tsjibbe Ewal es 401880, edad: 32 años, 7 dias. ACTUALIZADO
+2022-10-01 12:46:21 - INFO - 114- Jugador Alex Czira no fue vendido. Precio: 0
+2022-10-01 12:46:28 - INFO - 115- El precio de Eyvind Markussen es 744000, edad: 34 años, 44 dias. ACTUALIZADO
+2022-10-01 12:46:34 - INFO - 116- El jugador Ebrahim Babaei Ghazvini nunca fue vendido o lo DESPIDIERON
+2022-10-01 12:46:40 - INFO - 117- El precio de Niko Đurin es 3000000, edad: 31 años, 104 dias. ACTUALIZADO
+2022-10-01 12:46:46 - INFO - 118- El precio de Richardt Obergfell es 85000, edad: 36 años, 81 dias. ACTUALIZADO
+2022-10-01 12:46:53 - INFO - 119- El precio de Leonard Arent es 1300500, edad: 32 años, 50 dias. ACTUALIZADO
+2022-10-01 12:46:59 - INFO - 120- El precio de Łukasz Szwajnoch es 638000, edad: 33 años, 44 dias. ACTUALIZADO
+2022-10-01 12:47:05 - INFO - 121- Jugador Luigi Franco Chiellini no fue vendido. Precio: 0
+2022-10-01 12:47:12 - INFO - 122- El precio de Ahmad Asgari es 1300000, edad: 29 años, 22 dias. ACTUALIZADO
+2022-10-01 12:47:18 - INFO - 123- Jugador Esa Koistila no fue vendido. Precio: 0
+2022-10-01 12:47:24 - INFO - 124- Jugador Scottie Downton no fue vendido. Precio: 0
+2022-10-01 12:47:31 - INFO - 125- Jugador Stoyan Raychev no fue vendido. Precio: 0
+2022-10-01 12:47:37 - INFO - 126- El precio de Csanád Böttiger es 210120, edad: 34 años, 46 dias. ACTUALIZADO
+2022-10-01 12:47:43 - INFO - 127- Jugador Denis Rogovets no fue vendido. Precio: 0
+2022-10-01 12:47:49 - INFO - 128- El precio de Taras Kosenko es 5235000, edad: 31 años, 77 dias. ACTUALIZADO
+2022-10-01 12:47:56 - INFO - 129- Jugador Carlos Mateus Sá Neves no fue vendido. Precio: 0
+2022-10-01 12:48:02 - INFO - 130- Jugador Lee Auld no fue vendido. Precio: 0
+2022-10-01 12:48:09 - INFO - 131- El precio de Vladimir Berti es 6600000, edad: 37 años, 62 dias. ACTUALIZADO
+2022-10-01 12:48:15 - INFO - 132- El precio de Sammy Abaido es 1600000, edad: 31 años, 77 dias. ACTUALIZADO
+2022-10-01 12:48:22 - INFO - 133- Jugador 李 (Li)  荣翰 (Ronghan) no fue vendido. Precio: 0
+2022-10-01 12:48:28 - INFO - 134- El precio de Mirosław Skrzypek es 5250000, edad: 31 años, 2 dias. ACTUALIZADO
+2022-10-01 12:48:34 - INFO - 135- El precio de Gilles David es 70000, edad: 35 años, 88 dias. ACTUALIZADO
+2022-10-01 12:48:40 - INFO - 136- Jugador Mballa Toube no fue vendido. Precio: 0
+2022-10-01 12:48:47 - INFO - 137- El precio de Reuben Noctor es 700000, edad: 33 años, 31 dias. ACTUALIZADO
+2022-10-01 12:48:53 - INFO - 138- Jugador Pierrot Gerson no fue vendido. Precio: 0
+2022-10-01 12:48:59 - INFO - 139- Jugador Otto Zechendorf no fue vendido. Precio: 0
+2022-10-01 12:49:05 - INFO - 140- Jugador Konstantin Suprunets no fue vendido. Precio: 0
+2022-10-01 12:49:12 - INFO - 141- El precio de Igor Cáceres es 6762000, edad: 27 años, 50 dias. ACTUALIZADO
+2022-10-01 12:49:18 - INFO - 142- El jugador Vicente Lázaro nunca fue vendido o lo DESPIDIERON
+2022-10-01 12:49:24 - INFO - 143- Jugador Seran Illanes no fue vendido. Precio: 0
+2022-10-01 12:49:31 - INFO - 144- Jugador Mihajlo Stefanović no fue vendido. Precio: 0
+2022-10-01 12:49:37 - INFO - 145- El precio de Demetriusz Kalmus es 2850100, edad: 32 años, 105 dias. ACTUALIZADO
+2022-10-01 12:49:43 - INFO - 146- Jugador Luka Repše no fue vendido. Precio: 0
+2022-10-01 12:49:49 - INFO - 147- Jugador 凌 (Ling)  敦建 (Dunjian) no fue vendido. Precio: 0
+2022-10-01 12:49:56 - INFO - 148- Jugador Louis Nyberg no fue vendido. Precio: 0
+2022-10-01 12:50:02 - INFO - 149- Jugador Leone Spadotto no fue vendido. Precio: 0
+2022-10-01 12:50:08 - INFO - 150- El precio de Bale Ssozi es 7999500, edad: 27 años, 94 dias. ACTUALIZADO
+2022-10-01 12:50:14 - INFO - 151- El precio de Sophany Phal es 2500000, edad: 34 años, 25 dias. ACTUALIZADO
+2022-10-01 12:50:21 - INFO - 152- El precio de Torquato Cuoghi es 800000, edad: 33 años, 29 dias. ACTUALIZADO
+2022-10-01 12:50:27 - INFO - 153- Jugador Maximilian Konrad no fue vendido. Precio: 0
+2022-10-01 12:50:33 - INFO - 154- Jugador Fille Poelman no fue vendido. Precio: 0
+2022-10-01 12:50:39 - INFO - 155- El precio de Per-Ola Bernhardsson es 2970240, edad: 31 años, 100 dias. ACTUALIZADO
+2022-10-01 12:50:46 - INFO - 156- Jugador Piero Sanfratello no fue vendido. Precio: 0
+2022-10-01 12:50:52 - INFO - 157- Jugador Mustafa Sack no fue vendido. Precio: 0
+2022-10-01 12:50:58 - INFO - 158- Jugador Delger Kuzhuk no fue vendido. Precio: 0
+2022-10-01 12:51:05 - INFO - 159- Jugador Carlos Mateus Sá Neves no fue vendido. Precio: 0
+2022-10-01 12:51:11 - INFO - 160- Jugador Marijn Commers no fue vendido. Precio: 0
+2022-10-01 12:51:17 - INFO - 161- Jugador Nazar Adoyan no fue vendido. Precio: 0
+2022-10-01 12:51:23 - INFO - 162- Jugador Abdullah Afşar no fue vendido. Precio: 0
+2022-10-01 12:51:30 - INFO - 163- Jugador Andrzej Ptak no fue vendido. Precio: 0
+2022-10-01 12:51:36 - INFO - 164- Jugador Alexandru Petrescu no fue vendido. Precio: 0
+2022-10-01 12:51:42 - INFO - 165- Jugador Roman Frűhauf no fue vendido. Precio: 0
+2022-10-01 12:51:49 - INFO - 166- Jugador Andrei Arion no fue vendido. Precio: 0
+2022-10-01 12:51:55 - INFO - 167- Jugador Enrico Mazzamurro no fue vendido. Precio: 0
+2022-10-01 12:52:01 - INFO - 168- El precio de Kumi Barungi es 2366000, edad: 29 años, 24 dias. ACTUALIZADO
+2022-10-01 12:52:07 - INFO - 169- Jugador Kioumars Jannati no fue vendido. Precio: 0
+2022-10-01 12:52:14 - INFO - 170- Jugador Jacek Rachwał no fue vendido. Precio: 0
+2022-10-01 12:52:20 - INFO - 171- Jugador Antony Marin no fue vendido. Precio: 0
+2022-10-01 12:52:26 - INFO - 172- Jugador Maximilian Sünn no fue vendido. Precio: 0
+2022-10-01 12:52:33 - INFO - 173- Jugador Ronny Sasso no fue vendido. Precio: 0
+2022-10-01 12:52:39 - INFO - 174- Jugador Benjamín Vartaľ no fue vendido. Precio: 0
+2022-10-01 12:52:45 - INFO - 175- Jugador Alireza Bahremand no fue vendido. Precio: 0
+2022-10-01 12:52:52 - INFO - 176- Jugador Siegmund von Liliencron no fue vendido. Precio: 0
+2022-10-01 12:52:58 - INFO - 177- Jugador Francesco Fasano no fue vendido. Precio: 0
+2022-10-01 12:53:04 - INFO - 178- Jugador 友樹 (Tomoki) 広瀬 (Hirose) no fue vendido. Precio: 0
+2022-10-01 12:53:10 - INFO - 179- Jugador Hieronymus Meyer-Aumann no fue vendido. Precio: 0
+2022-10-01 12:53:17 - INFO - 180- El precio de Alessandro Pezzini es 51000, edad: 36 años, 61 dias. ACTUALIZADO
+2022-10-01 12:53:23 - INFO - 181- El precio de Dima Ştirbu es 4000000, edad: 29 años, 54 dias. ACTUALIZADO
+2022-10-01 12:53:29 - INFO - 182- Jugador Serhat Akçıl no fue vendido. Precio: 0
+2022-10-01 12:53:35 - INFO - 183- El precio de Paul Badawi es 3978000, edad: 31 años, 39 dias. ACTUALIZADO
+2022-10-01 12:53:42 - INFO - 184- El precio de Piotr Prętki es 345000, edad: 34 años, 52 dias. ACTUALIZADO
+2022-10-01 12:53:48 - INFO - 185- Jugador Jakub Lešák no fue vendido. Precio: 0
+2022-10-01 12:53:54 - INFO - 186- Jugador Mangirdas Ravinskis no fue vendido. Precio: 0
+2022-10-01 12:54:00 - INFO - 187- Jugador Marcello Gallitelli no fue vendido. Precio: 0
+2022-10-01 12:54:07 - INFO - 188- Jugador Mauricio Irazagorria no fue vendido. Precio: 0
+2022-10-01 12:54:13 - INFO - 189- Jugador Lloyd Oxley no fue vendido. Precio: 0
+2022-10-01 12:54:19 - INFO - 190- El precio de Holger Kremer es 4375000, edad: 30 años, 87 dias. ACTUALIZADO
+2022-10-01 12:54:26 - INFO - 191- El precio de Waldemar Waalberg es 3991000, edad: 30 años, 74 dias. ACTUALIZADO
+2022-10-01 12:54:32 - INFO - 192- El precio de Thomas Bouret es 956000, edad: 38 años, 22 dias. ACTUALIZADO
+2022-10-01 12:54:38 - INFO - 193- El precio de Hadi Kaebi es 3313000, edad: 30 años, 11 dias. ACTUALIZADO
+2022-10-01 12:54:44 - INFO - 194- El precio de Giosuè Gulisano es 5202000, edad: 31 años, 37 dias. ACTUALIZADO
+2022-10-01 12:54:51 - INFO - 195- Jugador Trevor Dale no fue vendido. Precio: 0
+2022-10-01 12:54:57 - INFO - 196- Jugador Krzysztof Zgórski no fue vendido. Precio: 0
+2022-10-01 12:55:03 - INFO - 197- El precio de Martijn Wienholts es 4534000, edad: 27 años, 6 dias. ACTUALIZADO
+2022-10-01 12:55:10 - INFO - 198- El precio de Øystein Staff es 3500000, edad: 31 años, 89 dias. ACTUALIZADO
+2022-10-01 12:55:16 - INFO - 199- El precio de Lamartine Gesteira es 8900000, edad: 27 años, 21 dias. ACTUALIZADO
+2022-10-01 12:55:22 - INFO - 200- Jugador Călin Stoican no fue vendido. Precio: 0
+2022-10-01 12:55:28 - INFO - 201- El precio de Andre Sarau es 1580000, edad: 35 años, 26 dias. ACTUALIZADO
+2022-10-01 12:55:35 - INFO - 202- Jugador Denis Rogovets no fue vendido. Precio: 0
+2022-10-01 12:55:41 - INFO - 203- Jugador Lee Auld no fue vendido. Precio: 0
+2022-10-01 12:55:48 - INFO - 204- El precio de Bojan Škarpona es 5100000, edad: 28 años, 79 dias. ACTUALIZADO
+2022-10-01 12:55:54 - INFO - 205- Jugador Ziko Goudié no fue vendido. Precio: 0
+2022-10-01 12:56:00 - INFO - 206- El precio de Gelindo Luzi es 804000, edad: 37 años, 20 dias. ACTUALIZADO
+2022-10-01 12:56:07 - INFO - 207- Jugador Makis Dimitrakis no fue vendido. Precio: 0
+2022-10-01 12:56:13 - INFO - 208- El precio de Rascislau Zhyjicz es 7250000, edad: 28 años, 97 dias. ACTUALIZADO
+2022-10-01 12:56:19 - INFO - 209- Jugador Ben-Zion Netanyahu no fue vendido. Precio: 0
+2022-10-01 12:56:26 - INFO - 210- El precio de Danil Khalapsin es 1821000, edad: 35 años, 18 dias. ACTUALIZADO
+2022-10-01 12:56:32 - INFO - 211- Jugador Denis Lashkov no fue vendido. Precio: 0
+2022-10-01 12:56:38 - INFO - 212- El precio de Primo Fontanet es 4292000, edad: 31 años, 51 dias. ACTUALIZADO
+2022-10-01 12:56:45 - INFO - 213- Jugador Detlev Antelmann no fue vendido. Precio: 0
+2022-10-01 12:56:51 - INFO - 214- El precio de Christian Preininger es 2250000, edad: 32 años, 1 dias. ACTUALIZADO
+2022-10-01 12:56:57 - INFO - 215- El precio de Mario Retana es 2500000, edad: 37 años, 13 dias. ACTUALIZADO
+2022-10-01 12:57:04 - INFO - 216- Jugador Ermis Armoutidis no fue vendido. Precio: 0
+2022-10-01 12:57:10 - INFO - 217- El precio de Arkadiusz Trochowski es 3000000, edad: 34 años, 33 dias. ACTUALIZADO
+2022-10-01 12:57:16 - INFO - 218- Jugador Mahmut Akdil no fue vendido. Precio: 0
+2022-10-01 12:57:22 - INFO - 219- Jugador Nikolaus Millarg no fue vendido. Precio: 0
+2022-10-01 12:57:29 - INFO - 220- El precio de Christian Radosavljevic es 1403000, edad: 34 años, 52 dias. ACTUALIZADO
+2022-10-01 12:57:35 - INFO - 221- El precio de Rami Varma es 2500000, edad: 31 años, 40 dias. ACTUALIZADO
+2022-10-01 12:57:41 - INFO - 222- Jugador Gholamreza Aghapour no fue vendido. Precio: 0
+2022-10-01 12:57:47 - INFO - 223- El precio de Jens Thulfaut es 1677900, edad: 33 años, 110 dias. ACTUALIZADO
+2022-10-01 12:57:54 - INFO - 224- Jugador Danilo De Sossi no fue vendido. Precio: 0
+2022-10-01 12:58:00 - INFO - 225- Jugador Michal Oškrobaný no fue vendido. Precio: 0
+2022-10-01 12:58:06 - INFO - 226- Jugador Célio Urbano no fue vendido. Precio: 0
+2022-10-01 12:58:13 - INFO - 227- El precio de Sergio Linares Saiz es 2209000, edad: 35 años, 6 dias. ACTUALIZADO
+2022-10-01 12:58:19 - INFO - 228- Jugador Kerem Fakih no fue vendido. Precio: 0
+2022-10-01 12:58:25 - INFO - 229- El precio de Svein Sleen es 6240000, edad: 28 años, 91 dias. ACTUALIZADO
+2022-10-01 12:58:31 - INFO - 230- El precio de Matúš Buliš es 826000, edad: 37 años, 67 dias. ACTUALIZADO
+2022-10-01 12:58:38 - INFO - 231- Jugador Dieguinho Cortês no fue vendido. Precio: 0
+2022-10-01 12:58:44 - INFO - 232- El precio de Alex Di Paola es 3486000, edad: 30 años, 5 dias. ACTUALIZADO
+2022-10-01 12:58:50 - INFO - 233- El precio de Fabien Doussin es 403000, edad: 38 años, 13 dias. ACTUALIZADO
+2022-10-01 12:58:57 - INFO - 234- El precio de Mieczysław Golubski es 5999500, edad: 29 años, 97 dias. ACTUALIZADO
+2022-10-01 12:59:03 - INFO - 235- Jugador Ben Alexander no fue vendido. Precio: 0
+2022-10-01 12:59:10 - INFO - 236- El precio de Marek Kostka es 5355000, edad: 28 años, 46 dias. ACTUALIZADO
+2022-10-01 12:59:17 - INFO - 237- El precio de Angelo Gualdi es 1630980, edad: 37 años, 2 dias. ACTUALIZADO
+2022-10-01 12:59:24 - INFO - 238- El precio de Tuomas Raaterova es 2000000, edad: 36 años, 84 dias. ACTUALIZADO
+2022-10-01 12:59:30 - INFO - 239- Jugador Carl Sant no fue vendido. Precio: 0
+2022-10-01 12:59:36 - INFO - 240- El precio de Jan Dehmel es 2399000, edad: 33 años, 37 dias. ACTUALIZADO
+2022-10-01 12:59:42 - INFO - 241- El precio de Ahmed Al-Kalbani es 1362000, edad: 37 años, 38 dias. ACTUALIZADO
+2022-10-01 12:59:49 - INFO - 242- Jugador Rémi Lambert no fue vendido. Precio: 0
+2022-10-01 12:59:55 - INFO - 243- Jugador Alberto Aguilar no fue vendido. Precio: 0
+2022-10-01 13:00:01 - INFO - 244- Jugador Jose Gerlander no fue vendido. Precio: 0
+2022-10-01 13:00:09 - INFO - 245- Jugador Stefan Hammarander no fue vendido. Precio: 0
+2022-10-01 13:00:15 - INFO - 246- El precio de Kay Valla es 2550000, edad: 31 años, 93 dias. ACTUALIZADO
+2022-10-01 13:00:21 - INFO - 247- El precio de Casimiro Cuña es 789480, edad: 37 años, 58 dias. ACTUALIZADO
+2022-10-01 13:00:28 - INFO - 248- Jugador Jesús Mouré no fue vendido. Precio: 0
+2022-10-01 13:00:34 - INFO - 249- El precio de Corey Lowdon es 2080800, edad: 33 años, 19 dias. ACTUALIZADO
+2022-10-01 13:00:40 - INFO - 250- Jugador Gert Bender no fue vendido. Precio: 0
+2022-10-01 13:00:46 - INFO - 251- Jugador Steven Alleman no fue vendido. Precio: 0
+2022-10-01 13:00:53 - INFO - 252- Jugador August Damek no fue vendido. Precio: 0
+2022-10-01 13:00:59 - INFO - 253- El precio de Filip Zalović es 4000000, edad: 29 años, 30 dias. ACTUALIZADO
+2022-10-01 13:01:05 - INFO - 254- El precio de Napalys Pociulis es 3737000, edad: 34 años, 62 dias. ACTUALIZADO
+2022-10-01 13:01:12 - INFO - 255- Jugador Vassilis Kalkitsas no fue vendido. Precio: 0
+2022-10-01 13:01:18 - INFO - 256- Jugador Sorin Perde no fue vendido. Precio: 0
+2022-10-01 13:01:24 - INFO - 257- Jugador Claudio 'Tuk Tuk' Fehlmann no fue vendido. Precio: 0
+2022-10-01 13:01:31 - INFO - 258- El precio de Glenn Sedborg es 1783000, edad: 34 años, 3 dias. ACTUALIZADO
+2022-10-01 13:01:37 - INFO - 259- Jugador 丁 (Ding)  海波 (Haibo) no fue vendido. Precio: 0
+2022-10-01 13:01:43 - INFO - 260- Jugador Eddy Meinhardt no fue vendido. Precio: 0
+2022-10-01 13:01:49 - INFO - 261- Jugador Daniel-Bogdan Vârtic no fue vendido. Precio: 0
+2022-10-01 13:01:56 - INFO - 262- El precio de Johan Purgstaller es 3273000, edad: 35 años, 16 dias. ACTUALIZADO
+2022-10-01 13:02:02 - INFO - 263- Jugador Aniceto da Conceição no fue vendido. Precio: 0
+2022-10-01 13:02:08 - INFO - 264- Jugador Dragoş Dan no fue vendido. Precio: 0
+2022-10-01 13:02:14 - INFO - 265- El precio de Josep Balart es 6000000, edad: 28 años, 13 dias. ACTUALIZADO
+2022-10-01 13:02:21 - INFO - 266- Jugador Carsten Schöbert no fue vendido. Precio: 0
+2022-10-01 13:02:27 - INFO - 267- Jugador Witold Matis no fue vendido. Precio: 0
+2022-10-01 13:02:35 - INFO - 268- Jugador Domonkos Südy no fue vendido. Precio: 0
+2022-10-01 13:02:41 - INFO - 269- El precio de Davide Galantucci es 2550000, edad: 36 años, 13 dias. ACTUALIZADO
+2022-10-01 13:02:47 - INFO - 270- Jugador Alderney Caneva no fue vendido. Precio: 0
+2022-10-01 13:02:53 - INFO - 271- El precio de Siegmar Schenkendorf es 4496000, edad: 30 años, 9 dias. ACTUALIZADO
+2022-10-01 13:03:00 - INFO - 272- Jugador Taiel Baldassi no fue vendido. Precio: 0
+2022-10-01 13:03:06 - INFO - 273- Jugador David Sundborn no fue vendido. Precio: 0
+2022-10-01 13:03:13 - INFO - 274- Jugador Magne Flo no fue vendido. Precio: 0
+2022-10-01 13:03:19 - INFO - 275- El precio de Ottar Nicolaisen es 4000000, edad: 28 años, 19 dias. ACTUALIZADO
+2022-10-01 13:03:27 - INFO - 276- Jugador Michaël Guillerm no fue vendido. Precio: 0
+2022-10-01 13:03:33 - INFO - 277- El precio de Philipp Windsperger es 4990000, edad: 31 años, 94 dias. ACTUALIZADO
+2022-10-01 13:03:39 - INFO - 278- Jugador Marcel Lehaci no fue vendido. Precio: 0
+2022-10-01 13:03:47 - INFO - 279- El precio de Emídio da Fonseca es 3590000, edad: 29 años, 84 dias. ACTUALIZADO
+2022-10-01 13:03:53 - INFO - 280- El precio de Kiran Thomas es 1600000, edad: 36 años, 44 dias. ACTUALIZADO
+2022-10-01 13:04:00 - INFO - 281- Jugador Ulrik Amlie no fue vendido. Precio: 0
+2022-10-01 13:04:06 - INFO - 282- Jugador Romain Blattner no fue vendido. Precio: 0
+2022-10-01 13:04:12 - INFO - 283- Jugador Artur Rtischev no fue vendido. Precio: 0
+2022-10-01 13:04:19 - INFO - 284- Jugador Carson Goforth no fue vendido. Precio: 0
+2022-10-01 13:04:25 - INFO - 285- El precio de Navid Banna es 3000000, edad: 28 años, 53 dias. ACTUALIZADO
+2022-10-01 13:04:32 - INFO - 286- El precio de Saad Al-Raesi es 2636000, edad: 33 años, 17 dias. ACTUALIZADO
+2022-10-01 13:04:38 - INFO - 287- El precio de Victor Nystrom es 2450000, edad: 30 años, 60 dias. ACTUALIZADO
+2022-10-01 13:04:44 - INFO - 288- El precio de Rashko Dimov es 814000, edad: 34 años, 48 dias. ACTUALIZADO
+2022-10-01 13:04:50 - INFO - 289- El precio de Mirosław Skrzypek es 5250000, edad: 31 años, 2 dias. ACTUALIZADO
+2022-10-01 13:04:57 - INFO - 290- Jugador Nickolas Bugkel no fue vendido. Precio: 0
+2022-10-01 13:05:04 - INFO - 291- Jugador Valentín Núñez del Arco no fue vendido. Precio: 0
+2022-10-01 13:05:10 - INFO - 292- El precio de Eduardo Pedrosa es 4539000, edad: 28 años, 111 dias. ACTUALIZADO
+2022-10-01 13:05:16 - INFO - 293- El precio de Ricardo Ardisana es 678000, edad: 33 años, 37 dias. ACTUALIZADO
+2022-10-01 13:05:22 - INFO - 294- Jugador Aldo Scalisi no fue vendido. Precio: 0
+2022-10-01 13:05:29 - INFO - 295- Jugador Svarun Kovač no fue vendido. Precio: 0
+2022-10-01 13:05:36 - INFO - 296- Jugador Giuseppe Rosettani no fue vendido. Precio: 0
+2022-10-01 13:05:43 - INFO - 297- Jugador Marco Maggio no fue vendido. Precio: 0
+2022-10-01 13:05:50 - INFO - 298- El precio de Lucas Surtees es 427000, edad: 37 años, 95 dias. ACTUALIZADO
+2022-10-01 13:05:56 - INFO - 299- Jugador Nikola Vasilev no fue vendido. Precio: 0
+2022-10-01 13:06:02 - INFO - 300- Jugador Louis Nyberg no fue vendido. Precio: 0
+2022-10-01 13:06:09 - INFO - 301- Jugador Petr Medvedkov no fue vendido. Precio: 0
+2022-10-01 13:06:15 - INFO - 302- Jugador Bengt Stjernkvist no fue vendido. Precio: 0
+2022-10-01 13:06:21 - INFO - 303- Jugador Wally Kibbe no fue vendido. Precio: 0
+2022-10-01 13:06:28 - INFO - 304- El precio de Gabriel Ryška es 1895160, edad: 31 años, 16 dias. ACTUALIZADO
+2022-10-01 13:06:34 - INFO - 305- Jugador Darren Panton no fue vendido. Precio: 0
+2022-10-01 13:06:40 - INFO - 306- Jugador Isaac Jarro no fue vendido. Precio: 0
+2022-10-01 13:06:47 - INFO - 307- Jugador Pierluigi Muscas no fue vendido. Precio: 0
+2022-10-01 13:06:53 - INFO - 308- Jugador Luís Inácio Moreira no fue vendido. Precio: 0
+2022-10-01 13:06:59 - INFO - 309- Jugador Ferenc Hegedűs no fue vendido. Precio: 0
+2022-10-01 13:07:05 - INFO - 310- El precio de Domenico Macquet es 2958000, edad: 30 años, 32 dias. ACTUALIZADO
+2022-10-01 13:07:12 - INFO - 311- El precio de Turk Jabir Ramahy es 7287000, edad: 30 años, 105 dias. ACTUALIZADO
+2022-10-01 13:07:19 - INFO - 312- El precio de Dušan Šilar es 600000, edad: 34 años, 36 dias. ACTUALIZADO
+2022-10-01 13:07:25 - INFO - 313- Jugador Memati Kayhan no fue vendido. Precio: 0
+2022-10-01 13:07:31 - INFO - 314- Jugador Tommy Liljedahl no fue vendido. Precio: 0
+2022-10-01 13:07:37 - INFO - 315- Jugador Marijn Commers no fue vendido. Precio: 0
+2022-10-01 13:07:43 - INFO - 316- Jugador Nazar Adoyan no fue vendido. Precio: 0
+2022-10-01 13:07:49 - INFO - 317- El precio de Mika-Pekka Juselius es 3081000, edad: 31 años, 19 dias. ACTUALIZADO
+2022-10-01 13:07:56 - INFO - 318- El precio de Hans Grønhøj es 1240000, edad: 35 años, 25 dias. ACTUALIZADO
+2022-10-01 13:08:02 - INFO - 319- El precio de Sudjai Jamnunviriya es 1001000, edad: 32 años, 37 dias. ACTUALIZADO
+2022-10-01 13:08:09 - INFO - 320- Jugador Torsten Hackstock no fue vendido. Precio: 0
+2022-10-01 13:08:15 - INFO - 321- Jugador Rodolfo Gagliardini no fue vendido. Precio: 0
+2022-10-01 13:08:21 - INFO - 322- Jugador Germán Pérez no fue vendido. Precio: 0
+2022-10-01 13:08:28 - INFO - 323- Jugador Kostas Venetidis no fue vendido. Precio: 0
+2022-10-01 13:08:34 - INFO - 324- Jugador Ðorđe Jolović no fue vendido. Precio: 0
+2022-10-01 13:08:40 - INFO - 325- Jugador Vincenzo Cappellieri no fue vendido. Precio: 0
+2022-10-01 13:08:47 - INFO - 326- Jugador David Frías no fue vendido. Precio: 0
+2022-10-01 13:08:53 - INFO - 327- Jugador Artsiom Hulakou no fue vendido. Precio: 0
+2022-10-01 13:08:59 - INFO - 328- Jugador Acácio Martins Rosa no fue vendido. Precio: 0
+2022-10-01 13:09:05 - INFO - 329- Jugador Kaspars Ziema no fue vendido. Precio: 0
+2022-10-01 13:09:12 - INFO - 330- El precio de István Balázs es 3518000, edad: 31 años, 63 dias. ACTUALIZADO
+2022-10-01 13:09:18 - INFO - 331- Jugador Divock Vanhoof no fue vendido. Precio: 0
+2022-10-01 13:09:24 - INFO - 332- Jugador Raül Gonyalons no fue vendido. Precio: 0
+2022-10-01 13:09:30 - INFO - 333- Jugador 友樹 (Tomoki) 広瀬 (Hirose) no fue vendido. Precio: 0
+2022-10-01 13:09:37 - INFO - 334- Jugador Jaroslav Bernas no fue vendido. Precio: 0
+2022-10-01 13:09:43 - INFO - 335- El precio de Eloi Poblete es 6899000, edad: 29 años, 2 dias. ACTUALIZADO
+2022-10-01 13:09:49 - INFO - 336- El precio de Florin Boldojar es 1620000, edad: 35 años, 55 dias. ACTUALIZADO
+2022-10-01 13:09:56 - INFO - 337- El precio de Bilal Džaka es 3750000, edad: 31 años, 3 dias. ACTUALIZADO
+2022-10-01 13:10:02 - INFO - 338- Jugador Raffaele Argiolas no fue vendido. Precio: 0
+2022-10-01 13:10:08 - INFO - 339- El precio de Jori Viemerö es 950000, edad: 35 años, 46 dias. ACTUALIZADO
+2022-10-01 13:10:14 - INFO - 340- El precio de Dennis Nash es 3111000, edad: 30 años, 65 dias. ACTUALIZADO
+2022-10-01 13:10:21 - INFO - 341- El precio de Jordi Albert Serra es 2637720, edad: 30 años, 14 dias. ACTUALIZADO
+2022-10-01 13:10:27 - INFO - 342- El precio de Per-Anders Bergendahl es 2951000, edad: 30 años, 104 dias. ACTUALIZADO
+2022-10-01 13:10:33 - INFO - 343- El precio de 秦 (Qin)  尔源 (Eryuan)  es 3494000, edad: 31 años, 68 dias. ACTUALIZADO
+2022-10-01 13:10:39 - INFO - 344- El precio de Nikke Avonius es 6630000, edad: 29 años, 52 dias. ACTUALIZADO
+2022-10-01 13:10:46 - INFO - 345- El precio de Angel Botev es 4252000, edad: 28 años, 52 dias. ACTUALIZADO
+2022-10-01 13:10:52 - INFO - 346- Jugador Ordoño Guerra no fue vendido. Precio: 0
+2022-10-01 13:10:58 - INFO - 347- El precio de Uwe Fromhage es 2193000, edad: 28 años, 104 dias. ACTUALIZADO
+2022-10-01 13:11:05 - INFO - 348- Jugador Sammy Dikken no fue vendido. Precio: 0
+2022-10-01 13:11:12 - INFO - 349- El precio de Péter Stern es 2713200, edad: 33 años, 4 dias. ACTUALIZADO
+2022-10-01 13:11:18 - INFO - 350- El jugador Igor Jurišić nunca fue vendido o lo DESPIDIERON
+2022-10-01 13:11:24 - INFO - 351- Jugador Gál Mundrucó no fue vendido. Precio: 0
+2022-10-01 13:11:31 - INFO - 352- Jugador Antti Piispanen no fue vendido. Precio: 0
+2022-10-01 13:11:37 - INFO - 353- Jugador Arnaud Fernandes no fue vendido. Precio: 0
+2022-10-01 13:11:43 - INFO - 354- Jugador Gonzalo Tapia no fue vendido. Precio: 0
+2022-10-01 13:11:50 - INFO - 355- El precio de Marian Gulbiński es 3503000, edad: 33 años, 46 dias. ACTUALIZADO
+2022-10-01 13:11:56 - INFO - 356- Jugador Christophe Brunet no fue vendido. Precio: 0
+2022-10-01 13:12:02 - INFO - 357- Jugador Müslüm Müderris no fue vendido. Precio: 0
+2022-10-01 13:12:08 - INFO - 358- Jugador Paolo Iamele no fue vendido. Precio: 0
+2022-10-01 13:12:15 - INFO - 359- Jugador Vito Lendini no fue vendido. Precio: 0
+2022-10-01 13:12:21 - INFO - 360- El precio de Pierre Montane es 5414000, edad: 27 años, 26 dias. ACTUALIZADO
+2022-10-01 13:12:27 - INFO - 361- Jugador Amrollah Sharifinia no fue vendido. Precio: 0
+2022-10-01 13:12:33 - INFO - 362- El precio de Carmin Popa es 1683000, edad: 31 años, 46 dias. ACTUALIZADO
+2022-10-01 13:12:40 - INFO - 363- Jugador Pekka Vartiainen no fue vendido. Precio: 0
+2022-10-01 13:12:46 - INFO - 364- Jugador Gérôme Cantin no fue vendido. Precio: 0
+2022-10-01 13:12:52 - INFO - 365- El precio de Kuukburi Hossain es 852000, edad: 34 años, 27 dias. ACTUALIZADO
+2022-10-01 13:12:59 - INFO - 366- Jugador Agaton Klinthall no fue vendido. Precio: 0
+2022-10-01 13:13:05 - INFO - 367- El precio de Halil Ayçin es 2040000, edad: 29 años, 107 dias. ACTUALIZADO
+2022-10-01 13:13:11 - INFO - 368- El precio de Jannis Simbrunner es 561000, edad: 35 años, 59 dias. ACTUALIZADO
+2022-10-01 13:13:17 - INFO - 369- Jugador César Ruiz no fue vendido. Precio: 0
+2022-10-01 13:13:24 - INFO - 370- Jugador Włodzimierz Synówka no fue vendido. Precio: 0
+2022-10-01 13:13:31 - INFO - 371- Jugador Rolf Pfab no fue vendido. Precio: 0
+2022-10-01 13:13:37 - INFO - 372- Jugador Karl Maier no fue vendido. Precio: 0
+2022-10-01 13:13:43 - INFO - 373- Jugador Skirti Mëhilli no fue vendido. Precio: 0
+2022-10-01 13:13:50 - INFO - 374- Jugador Buhannu Kheireddine no fue vendido. Precio: 0
+2022-10-01 13:13:56 - INFO - 375- Jugador Əbdürəhman Aslanov no fue vendido. Precio: 0
+2022-10-01 13:14:02 - INFO - 376- Jugador Jonny Hargrove no fue vendido. Precio: 0
+2022-10-01 13:14:09 - INFO - 377- El precio de Nichlas Lysdal es 6368000, edad: 27 años, 67 dias. ACTUALIZADO
+2022-10-01 13:14:15 - INFO - 378- Jugador Beqir Miraka no fue vendido. Precio: 0
+2022-10-01 13:14:21 - INFO - 379- Jugador Cosmin Doroşin no fue vendido. Precio: 0
+2022-10-01 13:14:28 - INFO - 380- Jugador Jonni Hanhisuanto no fue vendido. Precio: 0
+2022-10-01 13:14:34 - INFO - 381- Jugador Nikolaus Koch no fue vendido. Precio: 0
+2022-10-01 13:14:40 - INFO - 382- Jugador Krzysztof Domagalik no fue vendido. Precio: 0
+2022-10-01 13:14:47 - INFO - 383- Jugador Rastko Tadić no fue vendido. Precio: 0
+2022-10-01 13:14:53 - INFO - 384- Jugador Roland Kriszt no fue vendido. Precio: 0
+2022-10-01 13:14:59 - INFO - 385- Jugador Bartolomeu Viana Cunha no fue vendido. Precio: 0
+2022-10-01 13:15:05 - INFO - 386- Jugador Wibe Desender no fue vendido. Precio: 0
+2022-10-01 13:15:12 - INFO - 387- Jugador Léo Vanasse no fue vendido. Precio: 0
+2022-10-01 13:15:18 - INFO - 388- Jugador Gianfranco Boneccher no fue vendido. Precio: 0
+2022-10-01 13:15:24 - INFO - 389- Jugador Marco Monteiro Ferreira no fue vendido. Precio: 0
+2022-10-01 13:15:30 - INFO - 390- Jugador Arnot Ibarrondo no fue vendido. Precio: 0
+2022-10-01 13:15:37 - INFO - 391- Jugador Alexander Fürg no fue vendido. Precio: 0
+2022-10-01 13:15:43 - INFO - 392- Jugador Manu Detaeye no fue vendido. Precio: 0
+2022-10-01 13:15:49 - INFO - 393- Jugador Enzo Nimo no fue vendido. Precio: 0
+2022-10-01 13:15:55 - INFO - 394- Jugador Danail Mutafchiev no fue vendido. Precio: 0
+2022-10-01 13:16:02 - INFO - 395- Jugador Jamal Price no fue vendido. Precio: 0
+2022-10-01 13:16:08 - INFO - 396- Jugador Gerhard Pfiffner no fue vendido. Precio: 0
+2022-10-01 13:16:14 - INFO - 397- Jugador Moritz Chimischwilli no fue vendido. Precio: 0
+2022-10-01 13:16:21 - INFO - 398- Jugador 俞 (Yu)  思豪 (Sihao) no fue vendido. Precio: 0
+2022-10-01 13:16:27 - INFO - 399- El precio de Florian Singerl es 800000, edad: 28 años, 42 dias. ACTUALIZADO
+2022-10-01 13:16:33 - INFO - 400- Jugador Nishan Ibrahim no fue vendido. Precio: 0
+2022-10-01 13:16:33 - INFO - Fin de la ejecucion del programa: 2022-10-01 13:16:33.724512 
+
+2022-10-01 13:16:33 - INFO - Tiempo total de ejecucion: 0:42:26.105223
