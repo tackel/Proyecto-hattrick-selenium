@@ -50,7 +50,7 @@ class Hattrick_proyect():
             # en windows
             #options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
             # en Linux
-            options.binary_location = r'/snap/brave/177/opt/brave.com/brave/brave-browser'
+            options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
             options.add_experimental_option("prefs", {
             "download.default_directory": str(path_descargas),
             "download.prompt_for_download": False,
@@ -197,7 +197,7 @@ class Hattrick_proyect():
             df = pd.DataFrame()
             df['links'] = link_list
             link_list.clear()
-            df.to_csv(f"{path_gurdar_link}/ink.csv", encoding='utf-8-sig')
+            df.to_csv(f"{path_gurdar_link}/link.csv", encoding='utf-8-sig')
             sleep(1)
             
             self.driver.close()

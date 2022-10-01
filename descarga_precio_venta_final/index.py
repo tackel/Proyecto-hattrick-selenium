@@ -32,7 +32,7 @@ options.add_argument('--headless')
 # en windows:
 #options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 # en Linux
-options.binary_location = r'/snap/brave/177/opt/brave.com/brave/brave-browser'
+options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
 
 s = Service(chromeDriver)
 driver = webdriver.Chrome(service=s, options=options)
