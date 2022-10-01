@@ -8970,3 +8970,409 @@
 2022-10-01 13:16:33 - INFO - Fin de la ejecucion del programa: 2022-10-01 13:16:33.724512 
 
 2022-10-01 13:16:33 - INFO - Tiempo total de ejecucion: 0:42:26.105223
+2022-10-01 14:01:51 - INFO - Comienza la ejecucion del programa: 2022-10-01 14:01:51.473905 
+
+2022-10-01 14:01:51 - INFO - Datos de la BD obtenidos correctamente.
+2022-10-01 14:02:04 - INFO - 1- Jugador Lassi-Pekka Talvenheimo no fue vendido. Precio: 0
+2022-10-01 14:02:12 - INFO - 2- Jugador Albert Braunwalder no fue vendido. Precio: 0
+2022-10-01 14:02:19 - INFO - 3- Jugador Yeoh Boon Tse no fue vendido. Precio: 0
+2022-10-01 14:02:25 - INFO - 4- Jugador Eddo Lanza no fue vendido. Precio: 0
+2022-10-01 14:02:33 - INFO - 5- Jugador Gaston Wermelinger no fue vendido. Precio: 0
+2022-10-01 14:02:40 - INFO - 6- Jugador Prokop Janošec no fue vendido. Precio: 0
+2022-10-01 14:02:47 - INFO - 7- Jugador Géza Prókai no fue vendido. Precio: 0
+2022-10-01 14:02:54 - INFO - 8- Jugador Yuri Filippone no fue vendido. Precio: 0
+2022-10-01 14:03:01 - INFO - 9- Jugador Oleh Shevchuk no fue vendido. Precio: 0
+2022-10-01 14:03:07 - INFO - 10- Jugador Gábor Nádasdy no fue vendido. Precio: 0
+2022-10-01 14:03:15 - INFO - 11- Jugador Sébastien Furlan no fue vendido. Precio: 0
+2022-10-01 14:03:26 - INFO - 12- Jugador Anthony Saunier no fue vendido. Precio: 0
+2022-10-01 14:03:32 - INFO - 13- El jugador Cirilo Vasques nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:03:39 - INFO - 14- Jugador Rodrigo Santiago Zabala no fue vendido. Precio: 0
+2022-10-01 14:03:45 - INFO - 15- Jugador Jandro Garita no fue vendido. Precio: 0
+2022-10-01 14:03:53 - INFO - 16- Jugador Kian Mieland no fue vendido. Precio: 0
+2022-10-01 14:04:00 - INFO - 17- Jugador Gunnar Dopler no fue vendido. Precio: 0
+2022-10-01 14:04:28 - INFO - 18- Jugador Otto Quadt no fue vendido. Precio: 0
+2022-10-01 14:04:36 - INFO - 19- Jugador Generoso Balzani no fue vendido. Precio: 0
+2022-10-01 14:04:43 - INFO - 20- Jugador Barend Nolens no fue vendido. Precio: 0
+2022-10-01 14:04:50 - INFO - 21- Jugador Theodor Bebel no fue vendido. Precio: 0
+2022-10-01 14:04:57 - INFO - 22- Jugador Igor Paranaense no fue vendido. Precio: 0
+2022-10-01 14:05:09 - INFO - 23- Jugador František Hošek no fue vendido. Precio: 0
+2022-10-01 14:05:19 - INFO - 24- Jugador Ant Ailstone no fue vendido. Precio: 0
+2022-10-01 14:05:29 - INFO - 25- Jugador Lui Dissing no fue vendido. Precio: 0
+2022-10-01 14:05:44 - INFO - 26- Jugador Chana Baldil no fue vendido. Precio: 0
+2022-10-01 14:05:56 - INFO - 27- Jugador Atanas Vasilev no fue vendido. Precio: 0
+2022-10-01 14:06:08 - INFO - 28- Jugador Sebastian Zieleń no fue vendido. Precio: 0
+2022-10-01 14:06:28 - INFO - 29- Jugador Cristian Ţabrea no fue vendido. Precio: 0
+2022-10-01 14:07:07 - INFO - 30- Jugador Otro Alén no fue vendido. Precio: 0
+2022-10-01 14:07:37 - INFO - 31- El jugador Stephan Steinhauer nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:07:50 - INFO - 32- Jugador Ján Požár no fue vendido. Precio: 0
+2022-10-01 14:07:58 - INFO - 33- Jugador Zenon Kotomski no fue vendido. Precio: 0
+2022-10-01 14:08:07 - INFO - 34- Jugador Bengt-Eric Falkenbo no fue vendido. Precio: 0
+2022-10-01 14:08:21 - INFO - 35- Jugador Bogdan Duława no fue vendido. Precio: 0
+2022-10-01 14:08:36 - INFO - 36- Jugador Henri Bollaert no fue vendido. Precio: 0
+2022-10-01 14:08:45 - INFO - 37- Jugador Ryszard Woroniecki no fue vendido. Precio: 0
+2022-10-01 14:08:54 - INFO - 38- Jugador Rogelio Olvera no fue vendido. Precio: 0
+2022-10-01 14:09:07 - INFO - 39- Jugador Bobby Peters no fue vendido. Precio: 0
+2022-10-01 14:09:14 - INFO - 40- Jugador Zdeněk Krištof no fue vendido. Precio: 0
+2022-10-01 14:09:22 - INFO - 41- Jugador Tomas Vinterlund no fue vendido. Precio: 0
+2022-10-01 14:09:32 - INFO - 42- Jugador Mirdit Merka no fue vendido. Precio: 0
+2022-10-01 14:09:39 - INFO - 43- Jugador Max Gressbach no fue vendido. Precio: 0
+2022-10-01 14:09:49 - INFO - 44- Jugador Heraklis Malanavičius no fue vendido. Precio: 0
+2022-10-01 14:09:56 - INFO - 45- Jugador Oskaras Šuoris no fue vendido. Precio: 0
+2022-10-01 14:10:02 - INFO - 46- Jugador Aleksander Tonderski no fue vendido. Precio: 0
+2022-10-01 14:10:09 - INFO - 47- Jugador Adi Slobozeanu no fue vendido. Precio: 0
+2022-10-01 14:10:15 - INFO - 48- Jugador Thibault Chavet no fue vendido. Precio: 0
+2022-10-01 14:10:22 - INFO - 49- Jugador Nathan Philippe no fue vendido. Precio: 0
+2022-10-01 14:10:28 - INFO - 50- Jugador Ewout de Klaver no fue vendido. Precio: 0
+2022-10-01 14:10:34 - INFO - 51- Jugador Janko Stella no fue vendido. Precio: 0
+2022-10-01 14:10:41 - INFO - 52- Jugador Maciej Jamrożek no fue vendido. Precio: 0
+2022-10-01 14:10:48 - INFO - 53- Jugador Iwan Schladenhaffen no fue vendido. Precio: 0
+2022-10-01 14:10:56 - INFO - 54- Jugador Jerzy Harasimowicz no fue vendido. Precio: 0
+2022-10-01 14:11:02 - INFO - 55- Jugador Ritesh Sharma no fue vendido. Precio: 0
+2022-10-01 14:11:09 - INFO - 56- Jugador Nemanja Jolović no fue vendido. Precio: 0
+2022-10-01 14:11:15 - INFO - 57- Jugador Stanisław Lara no fue vendido. Precio: 0
+2022-10-01 14:11:22 - INFO - 58- Jugador Anıl Adıvar no fue vendido. Precio: 0
+2022-10-01 14:11:28 - INFO - 59- Jugador Reinaud Marlier no fue vendido. Precio: 0
+2022-10-01 14:11:35 - INFO - 60- Jugador Bernard Knöpfel no fue vendido. Precio: 0
+2022-10-01 14:11:41 - INFO - 61- Jugador Sean Dupre no fue vendido. Precio: 0
+2022-10-01 14:11:47 - INFO - 62- Jugador Stefano Giuffrida no fue vendido. Precio: 0
+2022-10-01 14:11:54 - INFO - 63- Jugador Danél Tazbaz no fue vendido. Precio: 0
+2022-10-01 14:12:00 - INFO - 64- Jugador Petar Amić no fue vendido. Precio: 0
+2022-10-01 14:12:07 - INFO - 65- Jugador Gabi Vardkesyan no fue vendido. Precio: 0
+2022-10-01 14:12:13 - INFO - 66- Jugador Musa Pelloni no fue vendido. Precio: 0
+2022-10-01 14:12:20 - INFO - 67- Jugador Ilija Kujović no fue vendido. Precio: 0
+2022-10-01 14:12:26 - INFO - 68- El precio de Ximo de Bonet es 350006, edad: 35 años, 61 dias. ACTUALIZADO
+2022-10-01 14:12:33 - INFO - 69- Jugador Bakur Kakulia no fue vendido. Precio: 0
+2022-10-01 14:12:40 - INFO - 70- Jugador John Olofsson no fue vendido. Precio: 0
+2022-10-01 14:12:46 - INFO - 71- Jugador Reinder de Kruijff no fue vendido. Precio: 0
+2022-10-01 14:12:52 - INFO - 72- Jugador Rashad Kuang no fue vendido. Precio: 0
+2022-10-01 14:12:58 - INFO - 73- Jugador Gianluca Vicario no fue vendido. Precio: 0
+2022-10-01 14:13:04 - INFO - 74- Jugador Juani Fontanilla no fue vendido. Precio: 0
+2022-10-01 14:13:11 - INFO - 75- Jugador Vítězslav Šlechta no fue vendido. Precio: 0
+2022-10-01 14:13:17 - INFO - 76- Jugador Alexandru Fenichiu no fue vendido. Precio: 0
+2022-10-01 14:13:24 - INFO - 77- Jugador Daniel Holding no fue vendido. Precio: 0
+2022-10-01 14:13:30 - INFO - 78- Jugador Thiago Verduguez no fue vendido. Precio: 0
+2022-10-01 14:13:36 - INFO - 79- Jugador Gilgames Szotyori no fue vendido. Precio: 0
+2022-10-01 14:13:42 - INFO - 80- El jugador Jere Kalla nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:13:49 - INFO - 81- Jugador Naif Bahbahani no fue vendido. Precio: 0
+2022-10-01 14:13:55 - INFO - 82- Jugador Matin Jahandideh no fue vendido. Precio: 0
+2022-10-01 14:14:01 - INFO - 83- Jugador Bonawentura Sawicki no fue vendido. Precio: 0
+2022-10-01 14:14:07 - INFO - 84- Jugador Oscar José Luna no fue vendido. Precio: 0
+2022-10-01 14:14:14 - INFO - 85- Jugador Narest Krasniqi no fue vendido. Precio: 0
+2022-10-01 14:14:20 - INFO - 86- El precio de Betino Sobreira es 124000, edad: 35 años, 30 dias. ACTUALIZADO
+2022-10-01 14:14:26 - INFO - 87- Jugador Murat Can Batur no fue vendido. Precio: 0
+2022-10-01 14:14:32 - INFO - 88- Jugador Nikolaus Koch no fue vendido. Precio: 0
+2022-10-01 14:14:38 - INFO - 89- Jugador Brandon Karkula-Homer no fue vendido. Precio: 0
+2022-10-01 14:14:45 - INFO - 90- Jugador Hugo Lévêque no fue vendido. Precio: 0
+2022-10-01 14:14:51 - INFO - 91- Jugador Sami Bagge no fue vendido. Precio: 0
+2022-10-01 14:14:57 - INFO - 92- Jugador Francesco Cundari no fue vendido. Precio: 0
+2022-10-01 14:15:04 - INFO - 93- Jugador Juan Larra no fue vendido. Precio: 0
+2022-10-01 14:15:11 - INFO - 94- Jugador Alexander Fürg no fue vendido. Precio: 0
+2022-10-01 14:15:17 - INFO - 95- Jugador Heng Sarith no fue vendido. Precio: 0
+2022-10-01 14:15:24 - INFO - 96- Jugador Giosuè Pirollo no fue vendido. Precio: 0
+2022-10-01 14:15:30 - INFO - 97- Jugador Florian Lanoué no fue vendido. Precio: 0
+2022-10-01 14:15:36 - INFO - 98- Jugador Zsombor Árva no fue vendido. Precio: 0
+2022-10-01 14:15:42 - INFO - 99- Jugador Marc Ramells no fue vendido. Precio: 0
+2022-10-01 14:15:48 - INFO - 100- Jugador Yuri Valkenberg no fue vendido. Precio: 0
+2022-10-01 14:15:55 - INFO - 101- Jugador Elyas Tanhaei no fue vendido. Precio: 0
+2022-10-01 14:16:01 - INFO - 102- Jugador Ivano Buffa no fue vendido. Precio: 0
+2022-10-01 14:16:07 - INFO - 103- Jugador Zülfü Maral no fue vendido. Precio: 0
+2022-10-01 14:16:13 - INFO - 104- Jugador Ashraf Khuelid Al-Zidjali no fue vendido. Precio: 0
+2022-10-01 14:16:19 - INFO - 105- Jugador Emil-Adrian Sava no fue vendido. Precio: 0
+2022-10-01 14:16:26 - INFO - 106- Jugador Grzegorz Kalwat no fue vendido. Precio: 0
+2022-10-01 14:16:32 - INFO - 107- Jugador Cornell Odwin no fue vendido. Precio: 0
+2022-10-01 14:16:38 - INFO - 108- El jugador Axel Reichenstein nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:16:44 - INFO - 109- Jugador Eckehart Freiherr von Hammerstein-Loxten no fue vendido. Precio: 0
+2022-10-01 14:16:50 - INFO - 110- Jugador Mircea Nicolescu no fue vendido. Precio: 0
+2022-10-01 14:16:56 - INFO - 111- Jugador Radu-Ioan Herciu no fue vendido. Precio: 0
+2022-10-01 14:17:02 - INFO - 112- Jugador Lasse Schøler no fue vendido. Precio: 0
+2022-10-01 14:17:09 - INFO - 113- Jugador Marek Chlup no fue vendido. Precio: 0
+2022-10-01 14:17:15 - INFO - 114- Jugador Suat Akdiken no fue vendido. Precio: 0
+2022-10-01 14:17:22 - INFO - 115- Jugador Sandro Wattenhofer no fue vendido. Precio: 0
+2022-10-01 14:17:28 - INFO - 116- Jugador Maximilian Halm no fue vendido. Precio: 0
+2022-10-01 14:17:34 - INFO - 117- Jugador Benedict Stanwick no fue vendido. Precio: 0
+2022-10-01 14:17:41 - INFO - 118- El precio de Osvaldo Navarrete es 975200, edad: 28 años, 103 dias. ACTUALIZADO
+2022-10-01 14:17:47 - INFO - 119- Jugador Janko Stella no fue vendido. Precio: 0
+2022-10-01 14:17:53 - INFO - 120- Jugador Alfredo Trogu no fue vendido. Precio: 0
+2022-10-01 14:17:59 - INFO - 121- Jugador Tom Nathan no fue vendido. Precio: 0
+2022-10-01 14:18:05 - INFO - 122- Jugador Heikki Oja no fue vendido. Precio: 0
+2022-10-01 14:18:11 - INFO - 123- Jugador Maciej Jamrożek no fue vendido. Precio: 0
+2022-10-01 14:18:18 - INFO - 124- Jugador Nemanja Jolović no fue vendido. Precio: 0
+2022-10-01 14:18:24 - INFO - 125- Jugador Malvydas Čelkevičius no fue vendido. Precio: 0
+2022-10-01 14:18:30 - INFO - 126- Jugador Jess Schmidt no fue vendido. Precio: 0
+2022-10-01 14:18:36 - INFO - 127- Jugador Eugene Solder no fue vendido. Precio: 0
+2022-10-01 14:18:42 - INFO - 128- Jugador René Heese no fue vendido. Precio: 0
+2022-10-01 14:18:48 - INFO - 129- Jugador Stanislav Šejda no fue vendido. Precio: 0
+2022-10-01 14:18:54 - INFO - 130- Jugador 秦 (Qin)  言青 (Yanqing)  no fue vendido. Precio: 0
+2022-10-01 14:19:01 - INFO - 131- Jugador Stefano Giuffrida no fue vendido. Precio: 0
+2022-10-01 14:19:07 - INFO - 132- Jugador Rony Biglin no fue vendido. Precio: 0
+2022-10-01 14:19:13 - INFO - 133- Jugador Giacomo Gallozzi no fue vendido. Precio: 0
+2022-10-01 14:19:19 - INFO - 134- Jugador Stamen Spasov no fue vendido. Precio: 0
+2022-10-01 14:19:26 - INFO - 135- Jugador Tim Hägerin no fue vendido. Precio: 0
+2022-10-01 14:19:32 - INFO - 136- Jugador Selton Touro no fue vendido. Precio: 0
+2022-10-01 14:19:38 - INFO - 137- Jugador Clemente Barela no fue vendido. Precio: 0
+2022-10-01 14:19:44 - INFO - 138- Jugador Niko Hagert no fue vendido. Precio: 0
+2022-10-01 14:19:50 - INFO - 139- Jugador Adrian Czumaj no fue vendido. Precio: 0
+2022-10-01 14:19:57 - INFO - 140- Jugador Mick Korzilius no fue vendido. Precio: 0
+2022-10-01 14:20:03 - INFO - 141- Jugador Walter Wereszko no fue vendido. Precio: 0
+2022-10-01 14:20:09 - INFO - 142- Jugador Matteo Sasso no fue vendido. Precio: 0
+2022-10-01 14:20:15 - INFO - 143- Jugador Kazimierz Góral no fue vendido. Precio: 0
+2022-10-01 14:20:21 - INFO - 144- Jugador Sebastián Encalada no fue vendido. Precio: 0
+2022-10-01 14:20:28 - INFO - 145- Jugador Yannik Janas no fue vendido. Precio: 0
+2022-10-01 14:20:34 - INFO - 146- Jugador Alexander Loethen no fue vendido. Precio: 0
+2022-10-01 14:20:40 - INFO - 147- Jugador Reinhard van Haare no fue vendido. Precio: 0
+2022-10-01 14:20:46 - INFO - 148- Jugador Frédéric Dichter no fue vendido. Precio: 0
+2022-10-01 14:20:52 - INFO - 149- Jugador Cederic Vereenooghe no fue vendido. Precio: 0
+2022-10-01 14:20:59 - INFO - 150- Jugador 管 (Guan) 宗利 (Zongli)  no fue vendido. Precio: 0
+2022-10-01 14:21:05 - INFO - 151- Jugador Tomáš Chmelnický no fue vendido. Precio: 0
+2022-10-01 14:21:12 - INFO - 152- Jugador Vasil Yosifov no fue vendido. Precio: 0
+2022-10-01 14:21:18 - INFO - 153- El jugador Effendi Sinupayung nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:21:24 - INFO - 154- El precio de Orhun Akan es 6500000, edad: 30 años, 47 dias. ACTUALIZADO
+2022-10-01 14:21:31 - INFO - 155- Jugador Pankraz Koder no fue vendido. Precio: 0
+2022-10-01 14:21:37 - INFO - 156- Jugador Esen Dil'muhanov no fue vendido. Precio: 0
+2022-10-01 14:21:43 - INFO - 157- Jugador Theo Senior no fue vendido. Precio: 0
+2022-10-01 14:21:49 - INFO - 158- Jugador Poorachai Musayavanich no fue vendido. Precio: 0
+2022-10-01 14:21:55 - INFO - 159- Jugador Lilian Bréant no fue vendido. Precio: 0
+2022-10-01 14:22:01 - INFO - 160- Jugador Volkert Klinge no fue vendido. Precio: 0
+2022-10-01 14:22:08 - INFO - 161- Jugador Heikki Oja no fue vendido. Precio: 0
+2022-10-01 14:22:14 - INFO - 162- Jugador Stanisław Lara no fue vendido. Precio: 0
+2022-10-01 14:22:20 - INFO - 163- Jugador Malvydas Čelkevičius no fue vendido. Precio: 0
+2022-10-01 14:22:26 - INFO - 164- Jugador Joe Nuttall no fue vendido. Precio: 0
+2022-10-01 14:22:32 - INFO - 165- Jugador Reinaud Marlier no fue vendido. Precio: 0
+2022-10-01 14:22:39 - INFO - 166- Jugador Rómulo de Meza no fue vendido. Precio: 0
+2022-10-01 14:22:45 - INFO - 167- Jugador Rovens Kaušelis no fue vendido. Precio: 0
+2022-10-01 14:22:51 - INFO - 168- Jugador Roberto Gea no fue vendido. Precio: 0
+2022-10-01 14:22:57 - INFO - 169- Jugador Teemu Yli-Olli no fue vendido. Precio: 0
+2022-10-01 14:23:03 - INFO - 170- Jugador Zoltan Peleman no fue vendido. Precio: 0
+2022-10-01 14:23:09 - INFO - 171- Jugador Nishan Ibrahim no fue vendido. Precio: 0
+2022-10-01 14:23:15 - INFO - 172- Jugador Lassi-Pekka Talvenheimo no fue vendido. Precio: 0
+2022-10-01 14:23:22 - INFO - 173- Jugador Rino Pellacani no fue vendido. Precio: 0
+2022-10-01 14:23:28 - INFO - 174- Jugador Saleem Al-Domaini no fue vendido. Precio: 0
+2022-10-01 14:23:34 - INFO - 175- Jugador Sondre Jensen no fue vendido. Precio: 0
+2022-10-01 14:23:40 - INFO - 176- Jugador Kian Mieland no fue vendido. Precio: 0
+2022-10-01 14:23:46 - INFO - 177- Jugador Armin Schmüsch no fue vendido. Precio: 0
+2022-10-01 14:23:52 - INFO - 178- Jugador Joe Pumphrey no fue vendido. Precio: 0
+2022-10-01 14:23:59 - INFO - 179- Jugador Barend Nolens no fue vendido. Precio: 0
+2022-10-01 14:24:05 - INFO - 180- Jugador Hans-Henrik Juul Jensen no fue vendido. Precio: 0
+2022-10-01 14:24:11 - INFO - 181- Jugador Igor Paranaense no fue vendido. Precio: 0
+2022-10-01 14:24:17 - INFO - 182- Jugador Janne Jyrkkänen no fue vendido. Precio: 0
+2022-10-01 14:24:23 - INFO - 183- Jugador Otro Alén no fue vendido. Precio: 0
+2022-10-01 14:24:29 - INFO - 184- Jugador Stephan Steinhauer no fue vendido. Precio: 0
+2022-10-01 14:24:35 - INFO - 185- Jugador Steve Ralph no fue vendido. Precio: 0
+2022-10-01 14:24:42 - INFO - 186- Jugador Cesare Madau no fue vendido. Precio: 0
+2022-10-01 14:24:48 - INFO - 187- El jugador Lucas De Gendt nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:24:55 - INFO - 188- Jugador Koba Labartkava no fue vendido. Precio: 0
+2022-10-01 14:25:01 - INFO - 189- Jugador Darren Trainham no fue vendido. Precio: 0
+2022-10-01 14:25:07 - INFO - 190- Jugador Oreste Amendola no fue vendido. Precio: 0
+2022-10-01 14:25:13 - INFO - 191- Jugador Mateusz Luc no fue vendido. Precio: 0
+2022-10-01 14:25:19 - INFO - 192- Jugador Jean-Luis Brink no fue vendido. Precio: 0
+2022-10-01 14:25:26 - INFO - 193- Jugador Muhammad Abd Allah Abou El Nasr no fue vendido. Precio: 0
+2022-10-01 14:25:32 - INFO - 194- Jugador Francois Schwarz no fue vendido. Precio: 0
+2022-10-01 14:25:38 - INFO - 195- Jugador Ercan Ertaylan no fue vendido. Precio: 0
+2022-10-01 14:25:44 - INFO - 196- Jugador Nihat Örs no fue vendido. Precio: 0
+2022-10-01 14:25:50 - INFO - 197- Jugador Taj Pawirodikromo no fue vendido. Precio: 0
+2022-10-01 14:25:57 - INFO - 198- Jugador Piero Hübscher no fue vendido. Precio: 0
+2022-10-01 14:26:03 - INFO - 199- Jugador Gerhard Burzin no fue vendido. Precio: 0
+2022-10-01 14:26:09 - INFO - 200- Jugador Jon Galtzarra no fue vendido. Precio: 0
+2022-10-01 14:26:16 - INFO - 201- Jugador Raúl Gironella no fue vendido. Precio: 0
+2022-10-01 14:26:22 - INFO - 202- Jugador Matias Lund no fue vendido. Precio: 0
+2022-10-01 14:26:28 - INFO - 203- Jugador Mattias Kullengren no fue vendido. Precio: 0
+2022-10-01 14:26:34 - INFO - 204- Jugador Yishai Savyon no fue vendido. Precio: 0
+2022-10-01 14:26:41 - INFO - 205- Jugador Torben Thorstensson no fue vendido. Precio: 0
+2022-10-01 14:26:47 - INFO - 206- Jugador Valentim de Oliveira no fue vendido. Precio: 0
+2022-10-01 14:26:53 - INFO - 207- Jugador Rick Hyun no fue vendido. Precio: 0
+2022-10-01 14:26:59 - INFO - 208- Jugador Borys Szybki no fue vendido. Precio: 0
+2022-10-01 14:27:05 - INFO - 209- Jugador Jerzy Truskowski no fue vendido. Precio: 0
+2022-10-01 14:27:11 - INFO - 210- El jugador Moisés Zumbado nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:27:17 - INFO - 211- Jugador Methodios Gennatos no fue vendido. Precio: 0
+2022-10-01 14:27:24 - INFO - 212- Jugador Sanjay Sinha no fue vendido. Precio: 0
+2022-10-01 14:27:30 - INFO - 213- Jugador Alain Lever no fue vendido. Precio: 0
+2022-10-01 14:27:36 - INFO - 214- Jugador Christoph Lucha no fue vendido. Precio: 0
+2022-10-01 14:27:42 - INFO - 215- Jugador Sualp Adil no fue vendido. Precio: 0
+2022-10-01 14:27:48 - INFO - 216- Jugador Václav Zahrádka no fue vendido. Precio: 0
+2022-10-01 14:27:54 - INFO - 217- Jugador Carlos Vargas no fue vendido. Precio: 0
+2022-10-01 14:28:01 - INFO - 218- Jugador Antonios Ouzounidis no fue vendido. Precio: 0
+2022-10-01 14:28:07 - INFO - 219- Jugador Žiga Kupčič no fue vendido. Precio: 0
+2022-10-01 14:28:13 - INFO - 220- Jugador Zoltán Gohér no fue vendido. Precio: 0
+2022-10-01 14:28:19 - INFO - 221- Jugador Jan Truhlář no fue vendido. Precio: 0
+2022-10-01 14:28:26 - INFO - 222- Jugador Rien Schierbeek no fue vendido. Precio: 0
+2022-10-01 14:28:32 - INFO - 223- Jugador Florindo Scavo no fue vendido. Precio: 0
+2022-10-01 14:28:38 - INFO - 224- Jugador Gonzalo Lopez Nogueira no fue vendido. Precio: 0
+2022-10-01 14:28:44 - INFO - 225- Jugador Juan Jordan no fue vendido. Precio: 0
+2022-10-01 14:28:50 - INFO - 226- El precio de Örvar Hjaltason es 3423120, edad: 29 años, 13 dias. ACTUALIZADO
+2022-10-01 14:28:57 - INFO - 227- Jugador Ireneusz Dziupliński no fue vendido. Precio: 0
+2022-10-01 14:29:03 - INFO - 228- Jugador Dirk Abstreiter no fue vendido. Precio: 0
+2022-10-01 14:29:09 - INFO - 229- Jugador Alessio Palmiotto no fue vendido. Precio: 0
+2022-10-01 14:29:15 - INFO - 230- Jugador Cristian Daniel Agra no fue vendido. Precio: 0
+2022-10-01 14:29:22 - INFO - 231- Jugador Manuel de Paula no fue vendido. Precio: 0
+2022-10-01 14:29:28 - INFO - 232- Jugador Kevin Gamradt no fue vendido. Precio: 0
+2022-10-01 14:29:34 - INFO - 233- Jugador Sönmez Durusoy no fue vendido. Precio: 0
+2022-10-01 14:29:40 - INFO - 234- Jugador Tiberiu-Marian Zet no fue vendido. Precio: 0
+2022-10-01 14:29:47 - INFO - 235- Jugador N'Guessan Koné no fue vendido. Precio: 0
+2022-10-01 14:29:53 - INFO - 236- Jugador René Šamko no fue vendido. Precio: 0
+2022-10-01 14:29:59 - INFO - 237- Jugador Mauro Jimenez no fue vendido. Precio: 0
+2022-10-01 14:30:05 - INFO - 238- Jugador Alfred Schlieker no fue vendido. Precio: 0
+2022-10-01 14:30:11 - INFO - 239- Jugador Agbeyome Lakoussan no fue vendido. Precio: 0
+2022-10-01 14:30:17 - INFO - 240- Jugador Zygfryd Krusiński no fue vendido. Precio: 0
+2022-10-01 14:30:24 - INFO - 241- Jugador Carlos Arellano no fue vendido. Precio: 0
+2022-10-01 14:30:30 - INFO - 242- Jugador Christoph Trännapp no fue vendido. Precio: 0
+2022-10-01 14:30:37 - INFO - 243- El precio de Jan Juriga es 5211000, edad: 32 años, 18 dias. ACTUALIZADO
+2022-10-01 14:30:43 - INFO - 244- Jugador Michel Chiangeh no fue vendido. Precio: 0
+2022-10-01 14:30:49 - INFO - 245- Jugador Dominik Meichelbeck no fue vendido. Precio: 0
+2022-10-01 14:30:55 - INFO - 246- Jugador Trần Văn Thạnh no fue vendido. Precio: 0
+2022-10-01 14:31:01 - INFO - 247- Jugador Santi Labrue Oneray no fue vendido. Precio: 0
+2022-10-01 14:31:08 - INFO - 248- El jugador Majdy Janahi nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:31:14 - INFO - 249- Jugador Branko Cvetković no fue vendido. Precio: 0
+2022-10-01 14:31:22 - INFO - 250- Jugador László Jakab no fue vendido. Precio: 0
+2022-10-01 14:31:28 - INFO - 251- Jugador Eduardo José Inácio no fue vendido. Precio: 0
+2022-10-01 14:31:34 - INFO - 252- Jugador Žygimantas Grinskas no fue vendido. Precio: 0
+2022-10-01 14:31:40 - INFO - 253- Jugador Jean-Michel Collas no fue vendido. Precio: 0
+2022-10-01 14:31:46 - INFO - 254- Jugador Alfons Hibbard no fue vendido. Precio: 0
+2022-10-01 14:31:52 - INFO - 255- Jugador Ole Heine no fue vendido. Precio: 0
+2022-10-01 14:31:59 - INFO - 256- Jugador Lech Gawędziuk no fue vendido. Precio: 0
+2022-10-01 14:32:05 - INFO - 257- Jugador Jakub Uchwat no fue vendido. Precio: 0
+2022-10-01 14:32:11 - INFO - 258- Jugador Tijs van Bohemen no fue vendido. Precio: 0
+2022-10-01 14:32:17 - INFO - 259- Jugador Ivano Jadot no fue vendido. Precio: 0
+2022-10-01 14:32:23 - INFO - 260- Jugador Łukasz Pasierbski no fue vendido. Precio: 0
+2022-10-01 14:32:30 - INFO - 261- Jugador Filip Ilišević no fue vendido. Precio: 0
+2022-10-01 14:32:36 - INFO - 262- Jugador Marco Nascimbene no fue vendido. Precio: 0
+2022-10-01 14:32:42 - INFO - 263- Jugador Murat Can Batur no fue vendido. Precio: 0
+2022-10-01 14:32:48 - INFO - 264- Jugador Simon Fürst no fue vendido. Precio: 0
+2022-10-01 14:32:55 - INFO - 265- Jugador Israel Garcés no fue vendido. Precio: 0
+2022-10-01 14:33:01 - INFO - 266- Jugador Óscar 'Phantom' Fantoni no fue vendido. Precio: 0
+2022-10-01 14:33:07 - INFO - 267- Jugador Justin Ashurst no fue vendido. Precio: 0
+2022-10-01 14:33:14 - INFO - 268- Jugador Diógenes Assman no fue vendido. Precio: 0
+2022-10-01 14:33:20 - INFO - 269- Jugador Isidoro 'Goliat' Azevedo Teixeira no fue vendido. Precio: 0
+2022-10-01 14:33:26 - INFO - 270- Jugador Rudan Prenku no fue vendido. Precio: 0
+2022-10-01 14:33:33 - INFO - 271- Jugador Magor Sow no fue vendido. Precio: 0
+2022-10-01 14:33:40 - INFO - 272- Jugador Ariel Zajk no fue vendido. Precio: 0
+2022-10-01 14:33:46 - INFO - 273- Jugador Humberto Olmos no fue vendido. Precio: 0
+2022-10-01 14:33:52 - INFO - 274- Jugador Rio Gilmurray no fue vendido. Precio: 0
+2022-10-01 14:33:58 - INFO - 275- Jugador Elvis Moa no fue vendido. Precio: 0
+2022-10-01 14:34:04 - INFO - 276- Jugador Bence Virág no fue vendido. Precio: 0
+2022-10-01 14:34:10 - INFO - 277- Jugador Ervino Paz no fue vendido. Precio: 0
+2022-10-01 14:34:16 - INFO - 278- Jugador Flávio Laguna no fue vendido. Precio: 0
+2022-10-01 14:34:22 - INFO - 279- Jugador Wicher den Tenter no fue vendido. Precio: 0
+2022-10-01 14:34:29 - INFO - 280- Jugador Miloslav Hodinka no fue vendido. Precio: 0
+2022-10-01 14:34:36 - INFO - 281- Jugador Florens Sila no fue vendido. Precio: 0
+2022-10-01 14:34:42 - INFO - 282- Jugador Alberto Schwarzbichler no fue vendido. Precio: 0
+2022-10-01 14:34:48 - INFO - 283- Jugador Fermín Díaz no fue vendido. Precio: 0
+2022-10-01 14:34:54 - INFO - 284- Jugador Alexander Markov no fue vendido. Precio: 0
+2022-10-01 14:35:00 - INFO - 285- Jugador Traian-Radu Aparaschivei no fue vendido. Precio: 0
+2022-10-01 14:35:06 - INFO - 286- Jugador Carl-Heinz Maag no fue vendido. Precio: 0
+2022-10-01 14:35:13 - INFO - 287- Jugador Irving Gardner no fue vendido. Precio: 0
+2022-10-01 14:35:19 - INFO - 288- Jugador Salem Al-Dafa no fue vendido. Precio: 0
+2022-10-01 14:35:25 - INFO - 289- Jugador Ximo de Bonet no fue vendido. Precio: 0
+2022-10-01 14:35:31 - INFO - 290- Jugador Zoltan Peleman no fue vendido. Precio: 0
+2022-10-01 14:35:37 - INFO - 291- Jugador Henri Pirkonen no fue vendido. Precio: 0
+2022-10-01 14:35:44 - INFO - 292- Jugador Ignat Lesnichiy no fue vendido. Precio: 0
+2022-10-01 14:35:50 - INFO - 293- Jugador André Schöch no fue vendido. Precio: 0
+2022-10-01 14:35:57 - INFO - 294- Jugador Graham Pickup no fue vendido. Precio: 0
+2022-10-01 14:36:03 - INFO - 295- Jugador Alfredo Augusto Rocha no fue vendido. Precio: 0
+2022-10-01 14:36:09 - INFO - 296- Jugador Raphaël Faron no fue vendido. Precio: 0
+2022-10-01 14:36:15 - INFO - 297- Jugador Deniz Rahmeti no fue vendido. Precio: 0
+2022-10-01 14:36:21 - INFO - 298- Jugador Ramón María Teran no fue vendido. Precio: 0
+2022-10-01 14:36:27 - INFO - 299- Jugador Erwan Séguy no fue vendido. Precio: 0
+2022-10-01 14:36:34 - INFO - 300- Jugador Jannik Creemers no fue vendido. Precio: 0
+2022-10-01 14:36:40 - INFO - 301- Jugador Ant Ailstone no fue vendido. Precio: 0
+2022-10-01 14:36:46 - INFO - 302- El precio de Stian Tidemann es 4896000, edad: 30 años, 34 dias. ACTUALIZADO
+2022-10-01 14:36:52 - INFO - 303- Jugador Gabriele Vaudagna no fue vendido. Precio: 0
+2022-10-01 14:36:59 - INFO - 304- Jugador Henri Bollaert no fue vendido. Precio: 0
+2022-10-01 14:37:05 - INFO - 305- Jugador Alexander Mokryi no fue vendido. Precio: 0
+2022-10-01 14:37:11 - INFO - 306- Jugador Janusz Czudak no fue vendido. Precio: 0
+2022-10-01 14:37:17 - INFO - 307- Jugador 管 (Guan) 宗利 (Zongli)  no fue vendido. Precio: 0
+2022-10-01 14:37:23 - INFO - 308- Jugador Benoit Cordier no fue vendido. Precio: 0
+2022-10-01 14:37:30 - INFO - 309- Jugador Massimo Argiolas no fue vendido. Precio: 0
+2022-10-01 14:37:36 - INFO - 310- Jugador Elis Kinsey no fue vendido. Precio: 0
+2022-10-01 14:37:43 - INFO - 311- Jugador Renaud Schoovaerts no fue vendido. Precio: 0
+2022-10-01 14:37:49 - INFO - 312- Jugador Matias Maldito no fue vendido. Precio: 0
+2022-10-01 14:37:55 - INFO - 313- Jugador Pedro Emanuel Cavalo no fue vendido. Precio: 0
+2022-10-01 14:38:02 - INFO - 314- Jugador Cristian-Gabriel Dăncescu no fue vendido. Precio: 0
+2022-10-01 14:38:08 - INFO - 315- Jugador Viorel-Marian Pălăşan no fue vendido. Precio: 0
+2022-10-01 14:38:14 - INFO - 316- Jugador Felix Schäffenacker no fue vendido. Precio: 0
+2022-10-01 14:38:21 - INFO - 317- Jugador Hauke Hölters no fue vendido. Precio: 0
+2022-10-01 14:38:26 - INFO - 318- El jugador Christoph Liu nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:38:33 - INFO - 319- Jugador Pierre-Alain Van Heest no fue vendido. Precio: 0
+2022-10-01 14:38:39 - INFO - 320- Jugador Frazer Twigg no fue vendido. Precio: 0
+2022-10-01 14:38:45 - INFO - 321- Jugador Gabi Negrilă no fue vendido. Precio: 0
+2022-10-01 14:38:52 - INFO - 322- Jugador Héctor Olivares no fue vendido. Precio: 0
+2022-10-01 14:38:58 - INFO - 323- Jugador Kazimierz Skobeyko no fue vendido. Precio: 0
+2022-10-01 14:39:04 - INFO - 324- Jugador Catello Turchi no fue vendido. Precio: 0
+2022-10-01 14:39:10 - INFO - 325- Jugador Ngubengcuka Ramaala no fue vendido. Precio: 0
+2022-10-01 14:39:16 - INFO - 326- Jugador Amaury Perrier no fue vendido. Precio: 0
+2022-10-01 14:39:23 - INFO - 327- Jugador Riad Chedadi no fue vendido. Precio: 0
+2022-10-01 14:39:29 - INFO - 328- Jugador Václav Jeníček no fue vendido. Precio: 0
+2022-10-01 14:39:35 - INFO - 329- Jugador Herman Tchami no fue vendido. Precio: 0
+2022-10-01 14:39:41 - INFO - 330- Jugador Vlad Mărghidan no fue vendido. Precio: 0
+2022-10-01 14:39:47 - INFO - 331- Jugador Jong-Dae Kim no fue vendido. Precio: 0
+2022-10-01 14:39:53 - INFO - 332- Jugador Lauri Niva no fue vendido. Precio: 0
+2022-10-01 14:39:59 - INFO - 333- Jugador Oreste Amendola no fue vendido. Precio: 0
+2022-10-01 14:40:06 - INFO - 334- Jugador Marc Minassian no fue vendido. Precio: 0
+2022-10-01 14:40:12 - INFO - 335- Jugador Roy Möllers no fue vendido. Precio: 0
+2022-10-01 14:40:18 - INFO - 336- Jugador Héctor Leyton no fue vendido. Precio: 0
+2022-10-01 14:40:24 - INFO - 337- Jugador Ianis Morel no fue vendido. Precio: 0
+2022-10-01 14:40:30 - INFO - 338- Jugador Gabriel Jakuba no fue vendido. Precio: 0
+2022-10-01 14:40:37 - INFO - 339- Jugador Yiannis Armenis no fue vendido. Precio: 0
+2022-10-01 14:40:43 - INFO - 340- Jugador Konrad Gwoździowski no fue vendido. Precio: 0
+2022-10-01 14:40:49 - INFO - 341- Jugador Federico Tuccillo no fue vendido. Precio: 0
+2022-10-01 14:40:55 - INFO - 342- Jugador Mattias Kullengren no fue vendido. Precio: 0
+2022-10-01 14:41:02 - INFO - 343- Jugador Kuki Godói Alves no fue vendido. Precio: 0
+2022-10-01 14:41:08 - INFO - 344- Jugador Rudolf Geluykens no fue vendido. Precio: 0
+2022-10-01 14:41:14 - INFO - 345- Jugador Albert Roszyk no fue vendido. Precio: 0
+2022-10-01 14:41:20 - INFO - 346- Jugador Helge Svantesson no fue vendido. Precio: 0
+2022-10-01 14:41:26 - INFO - 347- Jugador Gotthold Hänel no fue vendido. Precio: 0
+2022-10-01 14:41:32 - INFO - 348- Jugador Valdutis Nusas no fue vendido. Precio: 0
+2022-10-01 14:41:38 - INFO - 349- Jugador Edmund Záložník no fue vendido. Precio: 0
+2022-10-01 14:41:45 - INFO - 350- Jugador Nicola Pegurri no fue vendido. Precio: 0
+2022-10-01 14:41:51 - INFO - 351- Jugador Pim Broekhuizen no fue vendido. Precio: 0
+2022-10-01 14:41:57 - INFO - 352- Jugador Tan Guajardo no fue vendido. Precio: 0
+2022-10-01 14:42:03 - INFO - 353- Jugador Clemens Cordemans no fue vendido. Precio: 0
+2022-10-01 14:42:09 - INFO - 354- Jugador John-Petter Ingebrigtsen no fue vendido. Precio: 0
+2022-10-01 14:42:16 - INFO - 355- Jugador Selmar Freibier no fue vendido. Precio: 0
+2022-10-01 14:42:22 - INFO - 356- Jugador Ola Hall no fue vendido. Precio: 0
+2022-10-01 14:42:28 - INFO - 357- Jugador Julián Armano no fue vendido. Precio: 0
+2022-10-01 14:42:34 - INFO - 358- Jugador Eduards Tomass no fue vendido. Precio: 0
+2022-10-01 14:42:40 - INFO - 359- Jugador Ottaviano Fortis no fue vendido. Precio: 0
+2022-10-01 14:42:46 - INFO - 360- Jugador Mikhail Dashkov no fue vendido. Precio: 0
+2022-10-01 14:42:52 - INFO - 361- Jugador Pafnucy Ramza no fue vendido. Precio: 0
+2022-10-01 14:42:59 - INFO - 362- Jugador Ignacy Szklarek no fue vendido. Precio: 0
+2022-10-01 14:43:05 - INFO - 363- Jugador Jorian Wilnis no fue vendido. Precio: 0
+2022-10-01 14:43:12 - INFO - 364- Jugador Christian Ullmann no fue vendido. Precio: 0
+2022-10-01 14:43:18 - INFO - 365- Jugador Pyry Hedberg no fue vendido. Precio: 0
+2022-10-01 14:43:24 - INFO - 366- Jugador András Szanyi no fue vendido. Precio: 0
+2022-10-01 14:43:30 - INFO - 367- Jugador Sheikh Nawaz no fue vendido. Precio: 0
+2022-10-01 14:43:37 - INFO - 368- Jugador Kees Struikman no fue vendido. Precio: 0
+2022-10-01 14:43:43 - INFO - 369- Jugador Massimiliano Rosolino no fue vendido. Precio: 0
+2022-10-01 14:43:49 - INFO - 370- Jugador Demilio Sidhoe no fue vendido. Precio: 0
+2022-10-01 14:43:55 - INFO - 371- Jugador Giuseppe Teodori no fue vendido. Precio: 0
+2022-10-01 14:44:02 - INFO - 372- Jugador Marco Cherubini no fue vendido. Precio: 0
+2022-10-01 14:44:10 - INFO - 373- Jugador 林 (Lin)  诚洲 (Chengzhou) no fue vendido. Precio: 0
+2022-10-01 14:44:16 - INFO - 374- Jugador Tulio Granado no fue vendido. Precio: 0
+2022-10-01 14:44:23 - INFO - 375- Jugador Gait Drogt no fue vendido. Precio: 0
+2022-10-01 14:44:30 - INFO - 376- Jugador Ramiro Ferreira no fue vendido. Precio: 0
+2022-10-01 14:44:36 - INFO - 377- Jugador Ignacio Manzaneda no fue vendido. Precio: 0
+2022-10-01 14:44:42 - INFO - 378- Jugador Luis Alberto Garreta no fue vendido. Precio: 0
+2022-10-01 14:44:50 - INFO - 379- Jugador Kaan Çetinel no fue vendido. Precio: 0
+2022-10-01 14:44:57 - INFO - 380- Jugador Mino Rodighiero no fue vendido. Precio: 0
+2022-10-01 14:45:04 - INFO - 381- Jugador Eulalio Coronel no fue vendido. Precio: 0
+2022-10-01 14:45:11 - INFO - 382- Jugador Ivan Cesena no fue vendido. Precio: 0
+2022-10-01 14:45:19 - INFO - 383- Jugador Marijan Braun no fue vendido. Precio: 0
+2022-10-01 14:45:25 - INFO - 384- Jugador Guido Peluffo no fue vendido. Precio: 0
+2022-10-01 14:45:31 - INFO - 385- Jugador Aníbal João Pestana no fue vendido. Precio: 0
+2022-10-01 14:45:37 - INFO - 386- Jugador Jan Ślęczka no fue vendido. Precio: 0
+2022-10-01 14:45:44 - INFO - 387- Jugador Ole Tillner no fue vendido. Precio: 0
+2022-10-01 14:45:50 - INFO - 388- El jugador Kamil Layous nunca fue vendido o lo DESPIDIERON
+2022-10-01 14:45:56 - INFO - 389- Jugador Benjamin Kettumäki no fue vendido. Precio: 0
+2022-10-01 14:46:03 - INFO - 390- Jugador Jérémy Pillet no fue vendido. Precio: 0
+2022-10-01 14:46:09 - INFO - 391- Jugador Camillo Mazzacurati no fue vendido. Precio: 0
+2022-10-01 14:46:15 - INFO - 392- Jugador Oula Tenhonen no fue vendido. Precio: 0
+2022-10-01 14:46:22 - INFO - 393- Jugador Makahu Katchelewa no fue vendido. Precio: 0
+2022-10-01 14:46:28 - INFO - 394- Jugador Baldur Arrué no fue vendido. Precio: 0
+2022-10-01 14:46:34 - INFO - 395- Jugador Máté Bujtor no fue vendido. Precio: 0
+2022-10-01 14:46:40 - INFO - 396- Jugador Michelangelo Pintus no fue vendido. Precio: 0
+2022-10-01 14:46:46 - INFO - 397- Jugador 毛 (Mao) 平友 (Pingyou)  no fue vendido. Precio: 0
+2022-10-01 14:46:53 - INFO - 398- Jugador Emanuel Tărcatu no fue vendido. Precio: 0
+2022-10-01 14:46:59 - INFO - 399- Jugador Mattias Svensson no fue vendido. Precio: 0
+2022-10-01 14:47:05 - INFO - 400- Jugador Abraham Carvacho no fue vendido. Precio: 0
+2022-10-01 14:47:05 - INFO - Fin de la ejecucion del programa: 2022-10-01 14:47:05.576510 
+
+2022-10-01 14:47:05 - INFO - Tiempo total de ejecucion: 0:45:14.102605
