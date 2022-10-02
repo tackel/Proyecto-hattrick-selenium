@@ -1,12 +1,13 @@
 import pandas as pd
 from pathlib import Path
 import os
+from os import path
 from datetime import datetime
 from time import sleep
 import logging
 
-
-logging.basicConfig(filename='logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d',level=logging.INFO)
+ruta_base = path.abspath(path.join(path.dirname(__file__)))
+logging.basicConfig(filename=f'{ruta_base}/logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d',level=logging.INFO)
 
 '''
 # Path usados en el archivo
@@ -22,7 +23,7 @@ def create_links_mas_ides(path_link):
     try:
         numero = 1
         # lee los link descargados de la pagina
-        df_links = pd.read_csv(f"{path_link}\link.csv")
+        df_links = pd.read_csv(f"{path_link}/link.csv")
         for i in df_links['links']:
             # divido la lista y queda en 3 partes
             lista_links = []
@@ -60,6 +61,7 @@ def data_mas_links(path_descargas, path_link, path_datos_finales ):
                     today = today.strftime("%Y-%m-%d-%H-%M-%S")
                     try:
                         datos_totales = pd.read_csv(f'{folder}/{file}', sep=',', encoding='utf-8-sig')
+                        print(file)
                         link = pd.read_csv(f'{path_link}/link{contador}.csv', sep=',', encoding='utf-8-sig')
 
                         datos_totales['link'] = link['link']

@@ -4,6 +4,7 @@ import os
 from os import path
 #from pathlib import Path
 import logging
+from time import sleep
 
 ruta_base = path.abspath(path.dirname(__file__))
 logging.basicConfig(filename=f'{ruta_base}/logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d',level=logging.INFO)
@@ -37,6 +38,8 @@ def load_data(path_datos_finales):
                 df.to_sql('players', con, if_exists='append', index=False )
                 logging.info(f'Datos del archivo {file} guardados en la base de datos')
         con.close()
+        sleep(2)
+
     except Exception as e:
         logging.error(f'Error al guardar los datos la base de datos: {e}')
 

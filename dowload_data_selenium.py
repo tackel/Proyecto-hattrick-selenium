@@ -168,7 +168,7 @@ class Hattrick_proyect():
             link_list.append(link.get_attribute('href'))
             
             cerrar_buton = self.driver.find_element(By.ID, 'ctl00_ctl00_CPContent_CPMain_ucPlayersTable_imgCloseShop').click()
-            
+        
             sleep(4)
         except Exception as e:
             logging.error(f'Fallo al descargar lista de tranferencias: {e}')

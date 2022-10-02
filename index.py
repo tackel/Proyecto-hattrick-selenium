@@ -37,8 +37,9 @@ path_sql = path.joinpath('sql')
 
 if __name__ == '__main__':
     hora_inicio = datetime.now()
+    '''
     logging.info(f'\n Comienza la ejecucion del programa en: {hora_inicio} ')
-    for i in range(2):
+    for i in range(1):
         if i == 0:
             edad_minima = '27'
             edad_maxima = '41'
@@ -46,6 +47,7 @@ if __name__ == '__main__':
             edad_minima = '21'
             edad_maxima = '26'
         for habilidad_1 in habilidades_list:
+
             logging.info(f'\n - - - - Descargando: {habilidad_1} de {edad_minima} a {edad_maxima} años: {datetime.now()} ')
             hattrick = Hattrick_proyect()
             hattrick.setup(path_descargas)
@@ -59,7 +61,9 @@ if __name__ == '__main__':
             hattrick.paginar()
             hattrick.create_df(path_guardar_link)
             create_links_mas_ides(path_guardar_link)
-            data_mas_links(path_descargas, path_guardar_link, path_datos_finales)
+            '''
+    data_mas_links(path_descargas, path_guardar_link, path_datos_finales)
+'''
             create_table(path_sql)
             
             load_data(path_datos_finales)
@@ -67,3 +71,4 @@ if __name__ == '__main__':
     hora_fin = datetime.now()
     logging.info(f'Fin de la ejecucion del programa: {hora_fin} ')
     logging.info(f'Tiempo total de ejecucion: {hora_fin - hora_inicio}\n')
+            '''
