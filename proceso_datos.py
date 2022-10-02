@@ -61,7 +61,6 @@ def data_mas_links(path_descargas, path_link, path_datos_finales ):
                     today = today.strftime("%Y-%m-%d-%H-%M-%S")
                     try:
                         datos_totales = pd.read_csv(f'{folder}/{file}', sep=',', encoding='utf-8-sig')
-                        print(file)
                         link = pd.read_csv(f'{path_link}/link{contador}.csv', sep=',', encoding='utf-8-sig')
 
                         datos_totales['link'] = link['link']

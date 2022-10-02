@@ -36,7 +36,7 @@ link_list = []
 logging.basicConfig(filename=f'{ruta_base}/logging.log', format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d', level=logging.INFO)
 
 website = 'https://www.hattrick.org/es/'
-chromeDriver = f'{ruta_base}/chromedriver'
+chromeDriver = f'{ruta_base}/chromedriver.exe'
 #option = webdriver.ChromeOptions()
 #option.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 
@@ -48,9 +48,9 @@ class Hattrick_proyect():
             #options.headless = True
             #options.add_argument('--headless')
             # en windows
-            #options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+            options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
             # en Linux
-            options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
+            #options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
             options.add_experimental_option("prefs", {
             "download.default_directory": str(path_descargas),
             "download.prompt_for_download": False,

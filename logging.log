@@ -206,3 +206,293 @@
 2022-10-02 - INFO - Archivos lista_final creados
 2022-10-02 - INFO - Archivos lista_final creados
 2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - 
+ Comienza la ejecucion del programa en: 2022-10-02 10:38:08.660787 
+2022-10-02 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-10-02 10:38:08.661791 
+2022-10-02 - ERROR - Fallo al generar el driver [WinError 193] %1 no es una aplicación Win32 válida
+2022-10-02 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-10-02 10:38:21.894687 
+2022-10-02 - ERROR - Fallo al generar el driver [WinError 193] %1 no es una aplicación Win32 válida
+2022-10-02 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-10-02 10:38:34.916094 
+2022-10-02 - ERROR - Fallo al generar el driver [WinError 193] %1 no es una aplicación Win32 válida
+2022-10-02 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-10-02 10:38:47.971114 
+2022-10-02 - ERROR - Fallo al generar el driver [WinError 193] %1 no es una aplicación Win32 válida
+2022-10-02 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-10-02 10:39:01.077019 
+2022-10-02 - ERROR - Fallo al generar el driver [WinError 193] %1 no es una aplicación Win32 válida
+2022-10-02 - ERROR - Fallo al loguearse: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - ERROR - Fallo al ingresar parametros de tranferencia: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - ERROR - Fallo al descargar lista de tranferencias: 'Hattrick_proyect' object has no attribute 'driver'
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - WARNING - La paginacin no llego a la pagina 4 de descargas. Error: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - ERROR - Error en la creacion del archivo link: 'Hattrick_proyect' object has no attribute 'driver' 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Fin de la ejecucion del programa: 2022-10-02 10:39:14.156274 
+2022-10-02 - INFO - Tiempo total de ejecucion: 0:01:05.495487
+
+2022-10-02 - INFO - 
+ Comienza la ejecucion del programa en: 2022-10-02 10:40:49.647956 
+2022-10-02 - INFO - 
+ - - - - Descargando: Jugadas de 27 a 41 años: 2022-10-02 10:40:49.647956 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-46-18.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-46-20.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-46-23.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-46-25.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Defensa de 27 a 41 años: 2022-10-02 10:46:28.914846 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-50-18.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-50-20.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-50-22.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-50-24.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Lateral de 27 a 41 años: 2022-10-02 10:50:27.528528 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-55-16.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-55-18.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-55-20.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-10-55-22.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Portería de 27 a 41 años: 2022-10-02 10:55:25.107871 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-01-23.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-01-25.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-01-27.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-01-29.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Anotación de 27 a 41 años: 2022-10-02 11:01:32.519675 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-06-29.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-06-31.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-06-34.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-06-36.csv guardados en la base de datos
+2022-10-02 - INFO - Fin de la ejecucion del programa: 2022-10-02 11:06:39.534083 
+2022-10-02 - INFO - Tiempo total de ejecucion: 0:25:49.886127
+
+2022-10-02 - INFO - 
+ Comienza la ejecucion del programa en: 2022-10-02 11:11:12.642339 
+2022-10-02 - INFO - 
+ - - - - Descargando: Jugadas de 21 a 26 años: 2022-10-02 11:11:12.642339 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-16-00.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-16-02.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-16-04.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-16-06.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Defensa de 21 a 26 años: 2022-10-02 11:16:08.847513 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-20-54.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-20-57.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-20-59.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-21-01.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Lateral de 21 a 26 años: 2022-10-02 11:21:03.809847 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-24-02.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-24-04.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-24-06.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-24-08.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Portería de 21 a 26 años: 2022-10-02 11:24:11.769865 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-28-13.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-28-15.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-28-17.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-28-19.csv guardados en la base de datos
+2022-10-02 - INFO - 
+ - - - - Descargando: Anotación de 21 a 26 años: 2022-10-02 11:28:22.070483 
+2022-10-02 - INFO - Driver Generado
+2022-10-02 - INFO - Usuario logueado en: https://www.hattrick.org/es/
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Archivos .csv antiguos borrados.
+2022-10-02 - INFO - Busqueda de jugadores en tranferencia hecha
+2022-10-02 - INFO - Archivo csv en pagina 1 descargado
+2022-10-02 - INFO - Archivo csv en pagina 2 descargado
+2022-10-02 - INFO - Archivo csv en pagina 3 descargado
+2022-10-02 - INFO - Archivo csv en pagina 4 descargado
+2022-10-02 - INFO - Archivo link.csv creado 
+2022-10-02 - INFO - Archivos csv con los link de jugadores creado
+2022-10-02 - INFO - Archivos lista_final creados
+2022-10-02 - INFO - Tabla en base de datos creada
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-33-05.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-33-07.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-33-09.csv guardados en la base de datos
+2022-10-02 - INFO - Datos del archivo lista_final-2022-10-02-11-33-11.csv guardados en la base de datos
+2022-10-02 - INFO - Fin de la ejecucion del programa: 2022-10-02 11:33:14.690530 
+2022-10-02 - INFO - Tiempo total de ejecucion: 0:22:02.048191
+
