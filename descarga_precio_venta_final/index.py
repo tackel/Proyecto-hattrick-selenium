@@ -23,16 +23,16 @@ logging.basicConfig(filename=f'{ruta_base}/logging_data_final.log', format='%(as
 con = sqlite3.connect(f'{ruta_base}/hattrick_db')
 miCursor = con.cursor()
 
-chromeDriver = f'{path_descargas}/chromedriver'
+chromeDriver = f'{path_descargas}/chromedriver.exe'
 
 options = Options()
 #options.headless = True
 options.add_argument('--headless')
 
 # en windows:
-#options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
+options.binary_location = r'C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe'
 # en Linux
-options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
+#options.binary_location = r'/snap/brave/179/opt/brave.com/brave/brave-browser'
 
 s = Service(chromeDriver)
 driver = webdriver.Chrome(service=s, options=options)
